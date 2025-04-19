@@ -5,8 +5,11 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '0 0 * * 1-7' # 8:00 Beijing time every Monday to Friday
-
+      - cron: '0 16 * * 1-5' # 8:00 Beijing time every Monday to Friday
+  workflow_dispatch:
+  push:
+     branches:
+       - master
 permissions:
   contents: write
   issues: write 
