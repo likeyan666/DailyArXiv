@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2025
+title: Latest 15 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,21 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Transferrable Surrogates in Expressive Neural Architecture Search Spaces](http://arxiv.org/abs/2504.12971v1)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project page at: https://shiwenqin.github.io/TransferrableSurrogate/</p></details> |
+| **[Transferrable Surrogates in Expressive Neural Architecture Search Spaces](http://arxiv.org/abs/2504.12971v2)** | 2025-04-18 | <details><summary>Proje...</summary><p>Project page at: https://shiwenqin.github.io/TransferrableSurrogate/</p></details> |
+| **[Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?](http://arxiv.org/abs/2504.09685v1)** | 2025-04-13 |  |
+| **[Kernel-Level Energy-Efficient Neural Architecture Search for Tabular Dataset](http://arxiv.org/abs/2504.08359v1)** | 2025-04-11 | <details><summary>ACIID...</summary><p>ACIIDS 2025 Conference</p></details> |
+| **[MicroNAS: An Automated Framework for Developing a Fall Detection System](http://arxiv.org/abs/2504.07397v1)** | 2025-04-10 |  |
+| **[Hyperparameter Optimization in Machine Learning](http://arxiv.org/abs/2410.22854v2)** | 2025-04-08 | Preprint |
+| **[Federated Neural Architecture Search with Model-Agnostic Meta Learning](http://arxiv.org/abs/2504.06457v1)** | 2025-04-08 |  |
+| **[Neural Architecture Search: Two Constant Shared Weights Initialisations](http://arxiv.org/abs/2302.04406v3)** | 2025-04-08 |  |
+| **[RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](http://arxiv.org/abs/2503.22733v2)** | 2025-04-08 | <details><summary>15 pa...</summary><p>15 pages, 17 figures, Accepted to IEEE Transactions on Neural Networks and Learning Systems</p></details> |
+| **[MoRe Fine-Tuning with 10x Fewer Parameters](http://arxiv.org/abs/2408.17383v2)** | 2025-04-05 |  |
+| **[Tiny Neural Networks for Session-Level Traffic Classification](http://arxiv.org/abs/2504.04008v1)** | 2025-04-05 |  |
+| **[Comparative Analysis of Unsupervised and Supervised Autoencoders for Nuclei Classification in Clear Cell Renal Cell Carcinoma Images](http://arxiv.org/abs/2504.03146v1)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted 4-page paper at IEEE ISBI 2025. 3 figures, 3 tables</p></details> |
+| **[LLM-Guided Evolution: An Autonomous Model Optimization for Object Detection](http://arxiv.org/abs/2504.02280v1)** | 2025-04-03 |  |
+| **[Multi-Task Neural Architecture Search Using Architecture Embedding and Transfer Rank](http://arxiv.org/abs/2504.00772v1)** | 2025-04-01 |  |
+| **[AutoML Algorithms for Online Generalized Additive Model Selection: Application to Electricity Demand Forecasting](http://arxiv.org/abs/2503.24019v1)** | 2025-03-31 | 13 pages, 1 figure |
+| **[ERSAM: Neural Architecture Search For Energy-Efficient and Real-Time Social Ambiance Measurement](http://arxiv.org/abs/2303.10727v3)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted by ICASSP'23</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
