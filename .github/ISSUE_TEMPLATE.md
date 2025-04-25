@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2025
+title: Latest 15 Papers - April 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 | **[An Unsupervised Network Architecture Search Method for Solving Partial Differential Equations](http://arxiv.org/abs/2504.11140v1)** | 2025-04-15 |  |
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v1)** | 2025-02-18 |  |
 | **[EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.14432v2)** | 2025-01-13 | <details><summary>Submi...</summary><p>Submited to IEEE Transactions on Instrumentation and Measurement</p></details> |
@@ -21,13 +22,13 @@ labels: documentation
 | **[Evolution and Efficiency in Neural Architecture Search: Bridging the Gap Between Expert Design and Automated Optimization](http://arxiv.org/abs/2403.17012v2)** | 2024-04-02 | <details><summary>7 Pag...</summary><p>7 Pages, Double Column</p></details> |
 | **[Masked Autoencoders Are Robust Neural Architecture Search Learners](http://arxiv.org/abs/2311.12086v2)** | 2024-03-26 |  |
 | **[emoDARTS: Joint Optimisation of CNN & Sequential Neural Network Architectures for Superior Speech Emotion Recognition](http://arxiv.org/abs/2403.14083v1)** | 2024-03-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Affective Computing on February 19, 2024. arXiv admin note: text overlap with arXiv:2305.14402</p></details> |
-| **[PEFT for Speech: Unveiling Optimal Placement, Merging Strategies, and Ensemble Techniques](http://arxiv.org/abs/2401.02122v2)** | 2024-02-07 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2024 Self-supervision in Audio, Speech and Beyond (SASB) workshop</p></details> |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models](http://arxiv.org/abs/2504.15983v1)** | 2025-04-22 | ICLR 2025 |
 | **[MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search](http://arxiv.org/abs/2504.15865v2)** | 2025-04-23 |  |
+| **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
+| **[W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models](http://arxiv.org/abs/2504.15983v1)** | 2025-04-22 | ICLR 2025 |
 | **[Transferrable Surrogates in Expressive Neural Architecture Search Spaces](http://arxiv.org/abs/2504.12971v2)** | 2025-04-18 | <details><summary>Proje...</summary><p>Project page at: https://shiwenqin.github.io/TransferrableSurrogate/</p></details> |
 | **[NeuroNAS: Enhancing Efficiency of Neuromorphic In-Memory Computing for Intelligent Mobile Agents through Hardware-Aware Spiking Neural Architecture Search](http://arxiv.org/abs/2407.00641v3)** | 2025-04-18 | <details><summary>9 pag...</summary><p>9 pages, 14 figures, 2 tables</p></details> |
 | **[Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?](http://arxiv.org/abs/2504.09685v1)** | 2025-04-13 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[MoRe Fine-Tuning with 10x Fewer Parameters](http://arxiv.org/abs/2408.17383v2)** | 2025-04-05 |  |
 | **[Tiny Neural Networks for Session-Level Traffic Classification](http://arxiv.org/abs/2504.04008v1)** | 2025-04-05 |  |
 | **[Comparative Analysis of Unsupervised and Supervised Autoencoders for Nuclei Classification in Clear Cell Renal Cell Carcinoma Images](http://arxiv.org/abs/2504.03146v1)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted 4-page paper at IEEE ISBI 2025. 3 figures, 3 tables</p></details> |
-| **[LLM-Guided Evolution: An Autonomous Model Optimization for Object Detection](http://arxiv.org/abs/2504.02280v1)** | 2025-04-03 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
