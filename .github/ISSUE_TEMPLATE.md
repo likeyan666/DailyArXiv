@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2025
+title: Latest 15 Papers - April 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CR-LSO: Convex Neural Architecture Optimization in the Latent Space of Graph Variational Autoencoder with Input Convex Neural Networks](http://arxiv.org/abs/2211.05950v2)** | 2025-04-25 |  |
+| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v1)** | 2025-04-24 |  |
 | **[MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search](http://arxiv.org/abs/2504.15865v2)** | 2025-04-23 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 | **[W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models](http://arxiv.org/abs/2504.15983v1)** | 2025-04-22 | ICLR 2025 |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Neural Architecture Search: Two Constant Shared Weights Initialisations](http://arxiv.org/abs/2302.04406v3)** | 2025-04-08 |  |
 | **[RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](http://arxiv.org/abs/2503.22733v2)** | 2025-04-08 | <details><summary>15 pa...</summary><p>15 pages, 17 figures, Accepted to IEEE Transactions on Neural Networks and Learning Systems</p></details> |
 | **[MoRe Fine-Tuning with 10x Fewer Parameters](http://arxiv.org/abs/2408.17383v2)** | 2025-04-05 |  |
-| **[Tiny Neural Networks for Session-Level Traffic Classification](http://arxiv.org/abs/2504.04008v1)** | 2025-04-05 |  |
-| **[Comparative Analysis of Unsupervised and Supervised Autoencoders for Nuclei Classification in Clear Cell Renal Cell Carcinoma Images](http://arxiv.org/abs/2504.03146v1)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted 4-page paper at IEEE ISBI 2025. 3 figures, 3 tables</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
