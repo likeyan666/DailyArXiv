@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2025
+title: Latest 15 Papers - April 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v1)** | 2025-04-28 | 11 pages, 3 figures |
+| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v2)** | 2025-04-28 |  |
 | **[CR-LSO: Convex Neural Architecture Optimization in the Latent Space of Graph Variational Autoencoder with Input Convex Neural Networks](http://arxiv.org/abs/2211.05950v2)** | 2025-04-25 |  |
-| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v1)** | 2025-04-24 |  |
 | **[MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search](http://arxiv.org/abs/2504.15865v2)** | 2025-04-23 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 | **[W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models](http://arxiv.org/abs/2504.15983v1)** | 2025-04-22 | ICLR 2025 |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Federated Neural Architecture Search with Model-Agnostic Meta Learning](http://arxiv.org/abs/2504.06457v1)** | 2025-04-08 |  |
 | **[Neural Architecture Search: Two Constant Shared Weights Initialisations](http://arxiv.org/abs/2302.04406v3)** | 2025-04-08 |  |
 | **[RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](http://arxiv.org/abs/2503.22733v2)** | 2025-04-08 | <details><summary>15 pa...</summary><p>15 pages, 17 figures, Accepted to IEEE Transactions on Neural Networks and Learning Systems</p></details> |
-| **[MoRe Fine-Tuning with 10x Fewer Parameters](http://arxiv.org/abs/2408.17383v2)** | 2025-04-05 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Design, Contact Modeling, and Collision-inclusive Planning of a Dual-stiffness Aerial RoboT (DART)](http://arxiv.org/abs/2504.18780v1)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICRA 2025</p></details> |
 | **[DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation](http://arxiv.org/abs/2504.11786v1)** | 2025-04-16 | <details><summary>The I...</summary><p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</p></details> |
 | **[dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale](http://arxiv.org/abs/2503.05646v1)** | 2025-03-07 | 8 pages, 7 figures |
 | **[DART: An AIGT Detector using AMR of Rephrased Text](http://arxiv.org/abs/2412.11517v2)** | 2025-02-04 | <details><summary>Prese...</summary><p>Presented in NAACL 2025</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Implicit Doppler Tomography for Radar Novel View Synthesis](http://arxiv.org/abs/2403.03896v1)** | 2024-03-06 | <details><summary>To ap...</summary><p>To appear in CVPR 2024; see https://wiselabcmu.github.io/dart/ for our project site</p></details> |
 | **[DART: Depth-Enhanced Accurate and Real-Time Background Matting](http://arxiv.org/abs/2402.15820v1)** | 2024-02-24 |  |
 | **[DART: A Principled Approach to Adversarially Robust Unsupervised Domain Adaptation](http://arxiv.org/abs/2402.11120v1)** | 2024-02-16 |  |
-| **[DART: A Compact Platform For Autonomous Driving Research](http://arxiv.org/abs/2402.07602v1)** | 2024-02-12 | 8 pages, 10 figures |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
