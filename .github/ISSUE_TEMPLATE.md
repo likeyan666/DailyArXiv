@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2025
+title: Latest 15 Papers - May 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DNAD: Differentiable Neural Architecture Distillation](http://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
+| **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](http://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 | **[An Unsupervised Network Architecture Search Method for Solving Partial Differential Equations](http://arxiv.org/abs/2504.11140v1)** | 2025-04-15 |  |
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v1)** | 2025-02-18 |  |
@@ -20,14 +22,12 @@ labels: documentation
 | **[Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets](http://arxiv.org/abs/2406.07028v1)** | 2024-06-11 |  |
 | **[Efficient NAS with FaDE on Hierarchical Spaces](http://arxiv.org/abs/2404.16218v1)** | 2024-04-24 |  |
 | **[Evolution and Efficiency in Neural Architecture Search: Bridging the Gap Between Expert Design and Automated Optimization](http://arxiv.org/abs/2403.17012v2)** | 2024-04-02 | <details><summary>7 Pag...</summary><p>7 Pages, Double Column</p></details> |
-| **[Masked Autoencoders Are Robust Neural Architecture Search Learners](http://arxiv.org/abs/2311.12086v2)** | 2024-03-26 |  |
-| **[emoDARTS: Joint Optimisation of CNN & Sequential Neural Network Architectures for Superior Speech Emotion Recognition](http://arxiv.org/abs/2403.14083v1)** | 2024-03-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Affective Computing on February 19, 2024. arXiv admin note: text overlap with arXiv:2305.14402</p></details> |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v1)** | 2025-04-28 | 11 pages, 3 figures |
-| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v2)** | 2025-04-28 |  |
+| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v3)** | 2025-04-30 |  |
 | **[CR-LSO: Convex Neural Architecture Optimization in the Latent Space of Graph Variational Autoencoder with Input Convex Neural Networks](http://arxiv.org/abs/2211.05950v2)** | 2025-04-25 |  |
 | **[MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search](http://arxiv.org/abs/2504.15865v2)** | 2025-04-23 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
@@ -45,6 +45,7 @@ labels: documentation
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the structure of (dart, odd hole)-free graphs](http://arxiv.org/abs/2504.20422v1)** | 2025-04-29 |  |
 | **[Design, Contact Modeling, and Collision-inclusive Planning of a Dual-stiffness Aerial RoboT (DART)](http://arxiv.org/abs/2504.18780v1)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICRA 2025</p></details> |
 | **[DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation](http://arxiv.org/abs/2504.11786v1)** | 2025-04-16 | <details><summary>The I...</summary><p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</p></details> |
 | **[dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale](http://arxiv.org/abs/2503.05646v1)** | 2025-03-07 | 8 pages, 7 figures |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Applicability of oculomics for individual risk prediction: Repeatability and robustness of retinal Fractal Dimension using DART and AutoMorph](http://arxiv.org/abs/2403.06950v1)** | 2024-03-11 |  |
 | **[DART: Implicit Doppler Tomography for Radar Novel View Synthesis](http://arxiv.org/abs/2403.03896v1)** | 2024-03-06 | <details><summary>To ap...</summary><p>To appear in CVPR 2024; see https://wiselabcmu.github.io/dart/ for our project site</p></details> |
 | **[DART: Depth-Enhanced Accurate and Real-Time Background Matting](http://arxiv.org/abs/2402.15820v1)** | 2024-02-24 |  |
-| **[DART: A Principled Approach to Adversarially Robust Unsupervised Domain Adaptation](http://arxiv.org/abs/2402.11120v1)** | 2024-02-16 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
