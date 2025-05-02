@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2025
+title: Latest 15 Papers - May 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,11 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v1)** | 2025-04-28 | 11 pages, 3 figures |
+| **[Meta knowledge assisted Evolutionary Neural Architecture Search](http://arxiv.org/abs/2504.21545v1)** | 2025-04-30 |  |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v3)** | 2025-04-30 |  |
+| **[A Memetic Algorithm based on Variational Autoencoder for Black-Box Discrete Optimization with Epistasis among Parameters](http://arxiv.org/abs/2504.21338v1)** | 2025-04-30 | <details><summary>IEEE ...</summary><p>IEEE CEC 2025 (Poster)</p></details> |
+| **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v1)** | 2025-04-30 |  |
+| **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v1)** | 2025-04-28 | 11 pages, 3 figures |
 | **[CR-LSO: Convex Neural Architecture Optimization in the Latent Space of Graph Variational Autoencoder with Input Convex Neural Networks](http://arxiv.org/abs/2211.05950v2)** | 2025-04-25 |  |
 | **[MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search](http://arxiv.org/abs/2504.15865v2)** | 2025-04-23 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Kernel-Level Energy-Efficient Neural Architecture Search for Tabular Dataset](http://arxiv.org/abs/2504.08359v1)** | 2025-04-11 | <details><summary>ACIID...</summary><p>ACIIDS 2025 Conference</p></details> |
 | **[MicroNAS: An Automated Framework for Developing a Fall Detection System](http://arxiv.org/abs/2504.07397v1)** | 2025-04-10 |  |
 | **[Hyperparameter Optimization in Machine Learning](http://arxiv.org/abs/2410.22854v2)** | 2025-04-08 | Preprint |
-| **[Federated Neural Architecture Search with Model-Agnostic Meta Learning](http://arxiv.org/abs/2504.06457v1)** | 2025-04-08 |  |
-| **[Neural Architecture Search: Two Constant Shared Weights Initialisations](http://arxiv.org/abs/2302.04406v3)** | 2025-04-08 |  |
-| **[RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](http://arxiv.org/abs/2503.22733v2)** | 2025-04-08 | <details><summary>15 pa...</summary><p>15 pages, 17 figures, Accepted to IEEE Transactions on Neural Networks and Learning Systems</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
