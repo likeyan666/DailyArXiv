@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 02, 2025
+title: Latest 15 Papers - May 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cognitive Neural Architecture Search Reveals Hierarchical Entailment](http://arxiv.org/abs/2502.11141v2)** | 2025-05-01 |  |
 | **[Meta knowledge assisted Evolutionary Neural Architecture Search](http://arxiv.org/abs/2504.21545v1)** | 2025-04-30 |  |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v3)** | 2025-04-30 |  |
 | **[A Memetic Algorithm based on Variational Autoencoder for Black-Box Discrete Optimization with Epistasis among Parameters](http://arxiv.org/abs/2504.21338v1)** | 2025-04-30 | <details><summary>IEEE ...</summary><p>IEEE CEC 2025 (Poster)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?](http://arxiv.org/abs/2504.09685v1)** | 2025-04-13 |  |
 | **[Kernel-Level Energy-Efficient Neural Architecture Search for Tabular Dataset](http://arxiv.org/abs/2504.08359v1)** | 2025-04-11 | <details><summary>ACIID...</summary><p>ACIIDS 2025 Conference</p></details> |
 | **[MicroNAS: An Automated Framework for Developing a Fall Detection System](http://arxiv.org/abs/2504.07397v1)** | 2025-04-10 |  |
-| **[Hyperparameter Optimization in Machine Learning](http://arxiv.org/abs/2410.22854v2)** | 2025-04-08 | Preprint |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
