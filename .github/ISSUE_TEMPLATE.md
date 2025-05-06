@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2025
+title: Latest 15 Papers - May 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Transformer-based Neural Architecture Search Method](http://arxiv.org/abs/2505.01314v1)** | 2025-05-02 | GECCO 2023 |
+| **[A Neural Architecture Search Method using Auxiliary Evaluation Metric based on ResNet Architecture](http://arxiv.org/abs/2505.01313v1)** | 2025-05-02 | GECCO 2023 |
+| **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v1)** | 2025-05-02 |  |
 | **[Cognitive Neural Architecture Search Reveals Hierarchical Entailment](http://arxiv.org/abs/2502.11141v2)** | 2025-05-01 |  |
 | **[Meta knowledge assisted Evolutionary Neural Architecture Search](http://arxiv.org/abs/2504.21545v1)** | 2025-04-30 |  |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v3)** | 2025-04-30 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models](http://arxiv.org/abs/2504.15983v1)** | 2025-04-22 | ICLR 2025 |
 | **[Transferrable Surrogates in Expressive Neural Architecture Search Spaces](http://arxiv.org/abs/2504.12971v2)** | 2025-04-18 | <details><summary>Proje...</summary><p>Project page at: https://shiwenqin.github.io/TransferrableSurrogate/</p></details> |
 | **[NeuroNAS: Enhancing Efficiency of Neuromorphic In-Memory Computing for Intelligent Mobile Agents through Hardware-Aware Spiking Neural Architecture Search](http://arxiv.org/abs/2407.00641v3)** | 2025-04-18 | <details><summary>9 pag...</summary><p>9 pages, 14 figures, 2 tables</p></details> |
-| **[Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?](http://arxiv.org/abs/2504.09685v1)** | 2025-04-13 |  |
-| **[Kernel-Level Energy-Efficient Neural Architecture Search for Tabular Dataset](http://arxiv.org/abs/2504.08359v1)** | 2025-04-11 | <details><summary>ACIID...</summary><p>ACIIDS 2025 Conference</p></details> |
-| **[MicroNAS: An Automated Framework for Developing a Fall Detection System](http://arxiv.org/abs/2504.07397v1)** | 2025-04-10 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
