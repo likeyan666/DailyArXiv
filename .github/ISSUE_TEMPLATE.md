@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2025
+title: Latest 15 Papers - May 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v1)** | 2025-05-03 | <details><summary>30 pa...</summary><p>30 pages, 10figures, 6 tables</p></details> |
 | **[A Transformer-based Neural Architecture Search Method](http://arxiv.org/abs/2505.01314v1)** | 2025-05-02 | GECCO 2023 |
 | **[A Neural Architecture Search Method using Auxiliary Evaluation Metric based on ResNet Architecture](http://arxiv.org/abs/2505.01313v1)** | 2025-05-02 | GECCO 2023 |
-| **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v1)** | 2025-05-02 |  |
+| **[One Search Fits All: Pareto-Optimal Eco-Friendly Model Selection](http://arxiv.org/abs/2505.01468v1)** | 2025-05-02 | <details><summary>26 pa...</summary><p>26 pages, 11 tables, 5 figures</p></details> |
+| **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v2)** | 2025-05-05 |  |
 | **[Cognitive Neural Architecture Search Reveals Hierarchical Entailment](http://arxiv.org/abs/2502.11141v2)** | 2025-05-01 |  |
 | **[Meta knowledge assisted Evolutionary Neural Architecture Search](http://arxiv.org/abs/2504.21545v1)** | 2025-04-30 |  |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v3)** | 2025-04-30 |  |
 | **[A Memetic Algorithm based on Variational Autoencoder for Black-Box Discrete Optimization with Epistasis among Parameters](http://arxiv.org/abs/2504.21338v1)** | 2025-04-30 | <details><summary>IEEE ...</summary><p>IEEE CEC 2025 (Poster)</p></details> |
-| **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v1)** | 2025-04-30 |  |
+| **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v2)** | 2025-05-05 |  |
 | **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v1)** | 2025-04-28 | 11 pages, 3 figures |
 | **[CR-LSO: Convex Neural Architecture Optimization in the Latent Space of Graph Variational Autoencoder with Input Convex Neural Networks](http://arxiv.org/abs/2211.05950v2)** | 2025-04-25 |  |
 | **[MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search](http://arxiv.org/abs/2504.15865v2)** | 2025-04-23 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 | **[W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models](http://arxiv.org/abs/2504.15983v1)** | 2025-04-22 | ICLR 2025 |
-| **[Transferrable Surrogates in Expressive Neural Architecture Search Spaces](http://arxiv.org/abs/2504.12971v2)** | 2025-04-18 | <details><summary>Proje...</summary><p>Project page at: https://shiwenqin.github.io/TransferrableSurrogate/</p></details> |
-| **[NeuroNAS: Enhancing Efficiency of Neuromorphic In-Memory Computing for Intelligent Mobile Agents through Hardware-Aware Spiking Neural Architecture Search](http://arxiv.org/abs/2407.00641v3)** | 2025-04-18 | <details><summary>9 pag...</summary><p>9 pages, 14 figures, 2 tables</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
