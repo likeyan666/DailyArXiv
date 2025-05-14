@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2025
+title: Latest 15 Papers - May 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,12 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
+| **[Tiny Neural Networks for Session-Level Traffic Classification](http://arxiv.org/abs/2504.04008v2)** | 2025-05-11 |  |
+| **[A systematic review of challenges and proposed solutions in modeling multimodal data](http://arxiv.org/abs/2505.06945v1)** | 2025-05-11 |  |
+| **[NeuRN: Neuro-inspired Domain Generalization for Image Classification](http://arxiv.org/abs/2505.06881v1)** | 2025-05-11 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 1 table</p></details> |
+| **[Effective Regularization Through Loss-Function Metalearning](http://arxiv.org/abs/2010.00788v3)** | 2025-05-10 |  |
+| **[Underwater object detection in sonar imagery with detection transformer and Zero-shot neural architecture search](http://arxiv.org/abs/2505.06694v1)** | 2025-05-10 |  |
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v2)** | 2025-05-05 |  |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v2)** | 2025-05-05 |  |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v1)** | 2025-05-03 | <details><summary>30 pa...</summary><p>30 pages, 10figures, 6 tables</p></details> |
@@ -35,12 +41,6 @@ labels: documentation
 | **[Cognitive Neural Architecture Search Reveals Hierarchical Entailment](http://arxiv.org/abs/2502.11141v2)** | 2025-05-01 |  |
 | **[Meta knowledge assisted Evolutionary Neural Architecture Search](http://arxiv.org/abs/2504.21545v1)** | 2025-04-30 |  |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v3)** | 2025-04-30 |  |
-| **[A Memetic Algorithm based on Variational Autoencoder for Black-Box Discrete Optimization with Epistasis among Parameters](http://arxiv.org/abs/2504.21338v1)** | 2025-04-30 | <details><summary>IEEE ...</summary><p>IEEE CEC 2025 (Poster)</p></details> |
-| **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v1)** | 2025-04-28 | 11 pages, 3 figures |
-| **[CR-LSO: Convex Neural Architecture Optimization in the Latent Space of Graph Variational Autoencoder with Input Convex Neural Networks](http://arxiv.org/abs/2211.05950v2)** | 2025-04-25 |  |
-| **[MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search](http://arxiv.org/abs/2504.15865v2)** | 2025-04-23 |  |
-| **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
-| **[W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models](http://arxiv.org/abs/2504.15983v1)** | 2025-04-22 | ICLR 2025 |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
 | **[Sim-is-More: Randomizing HW-NAS with Synthetic Devices](http://arxiv.org/abs/2504.00663v1)** | 2025-04-01 |  |
 | **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v4)** | 2025-03-20 |  |
 | **[Variation Matters: from Mitigating to Embracing Zero-Shot NAS Ranking Function Variation](http://arxiv.org/abs/2502.19657v1)** | 2025-02-27 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Zero-Shot NAS via the Suppression of Local Entropy Decrease](http://arxiv.org/abs/2411.06236v2)** | 2024-11-12 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Corrected typos and latex template</p></details> |
 | **[NAS: N-step computation of All Solutions to the footstep planning problem](http://arxiv.org/abs/2407.12962v2)** | 2024-10-10 | <details><summary>Accep...</summary><p>Accepted in Humanoids 2024</p></details> |
 | **[RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices](http://arxiv.org/abs/2409.18841v1)** | 2024-09-27 | <details><summary>The 4...</summary><p>The 42nd IEEE International Conference on Computer Design (ICCD 2024)</p></details> |
-| **[Neural Network Architecture Search Enabled Wide-Deep Learning (NAS-WD) for Spatially Heterogenous Property Awared Chicken Woody Breast Classification and Hardness Regression](http://arxiv.org/abs/2409.17210v1)** | 2024-09-25 |  |
 
