@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 15, 2025
+title: Latest 15 Papers - May 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v3)** | 2025-05-14 |  |
+| **[GreenFactory: Ensembling Zero-Cost Proxies to Estimate Performance of Neural Networks](http://arxiv.org/abs/2505.09344v1)** | 2025-05-14 |  |
+| **[Differentiable Channel Selection in Self-Attention For Person Re-Identification](http://arxiv.org/abs/2505.08961v1)** | 2025-05-13 |  |
 | **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
 | **[Tiny Neural Networks for Session-Level Traffic Classification](http://arxiv.org/abs/2504.04008v2)** | 2025-05-11 |  |
-| **[A systematic review of challenges and proposed solutions in modeling multimodal data](http://arxiv.org/abs/2505.06945v1)** | 2025-05-11 |  |
+| **[A systematic review of challenges and proposed solutions in modeling multimodal data](http://arxiv.org/abs/2505.06945v2)** | 2025-05-15 |  |
 | **[NeuRN: Neuro-inspired Domain Generalization for Image Classification](http://arxiv.org/abs/2505.06881v1)** | 2025-05-11 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 1 table</p></details> |
 | **[Effective Regularization Through Loss-Function Metalearning](http://arxiv.org/abs/2010.00788v3)** | 2025-05-10 |  |
 | **[Underwater object detection in sonar imagery with detection transformer and Zero-shot neural architecture search](http://arxiv.org/abs/2505.06694v1)** | 2025-05-10 |  |
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v2)** | 2025-05-05 |  |
-| **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v3)** | 2025-05-14 |  |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v1)** | 2025-05-03 | <details><summary>30 pa...</summary><p>30 pages, 10figures, 6 tables</p></details> |
 | **[A Transformer-based Neural Architecture Search Method](http://arxiv.org/abs/2505.01314v1)** | 2025-05-02 | GECCO 2023 |
 | **[A Neural Architecture Search Method using Auxiliary Evaluation Metric based on ResNet Architecture](http://arxiv.org/abs/2505.01313v1)** | 2025-05-02 | GECCO 2023 |
 | **[One Search Fits All: Pareto-Optimal Eco-Friendly Model Selection](http://arxiv.org/abs/2505.01468v1)** | 2025-05-02 | <details><summary>26 pa...</summary><p>26 pages, 11 tables, 5 figures</p></details> |
 | **[Cognitive Neural Architecture Search Reveals Hierarchical Entailment](http://arxiv.org/abs/2502.11141v2)** | 2025-05-01 |  |
-| **[Meta knowledge assisted Evolutionary Neural Architecture Search](http://arxiv.org/abs/2504.21545v1)** | 2025-04-30 |  |
-| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v3)** | 2025-04-30 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
