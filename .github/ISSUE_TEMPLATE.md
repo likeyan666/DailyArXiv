@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 19, 2025
+title: Latest 15 Papers - May 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v1)** | 2025-05-15 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/kaist-dmlab/MONAQ</p></details> |
 | **[SEAL: Searching Expandable Architectures for Incremental Learning](http://arxiv.org/abs/2505.10457v1)** | 2025-05-15 | 8 pages, 5 figures |
 | **[A systematic review of challenges and proposed solutions in modeling multimodal data](http://arxiv.org/abs/2505.06945v2)** | 2025-05-15 |  |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v3)** | 2025-05-14 |  |
@@ -37,10 +38,9 @@ labels: documentation
 | **[Effective Regularization Through Loss-Function Metalearning](http://arxiv.org/abs/2010.00788v3)** | 2025-05-10 |  |
 | **[Underwater object detection in sonar imagery with detection transformer and Zero-shot neural architecture search](http://arxiv.org/abs/2505.06694v1)** | 2025-05-10 |  |
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v2)** | 2025-05-05 |  |
-| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v1)** | 2025-05-03 | <details><summary>30 pa...</summary><p>30 pages, 10figures, 6 tables</p></details> |
+| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v2)** | 2025-05-17 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 6 tables</p></details> |
 | **[A Transformer-based Neural Architecture Search Method](http://arxiv.org/abs/2505.01314v1)** | 2025-05-02 | GECCO 2023 |
 | **[A Neural Architecture Search Method using Auxiliary Evaluation Metric based on ResNet Architecture](http://arxiv.org/abs/2505.01313v1)** | 2025-05-02 | GECCO 2023 |
-| **[One Search Fits All: Pareto-Optimal Eco-Friendly Model Selection](http://arxiv.org/abs/2505.01468v1)** | 2025-05-02 | <details><summary>26 pa...</summary><p>26 pages, 11 tables, 5 figures</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
