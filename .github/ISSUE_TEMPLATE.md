@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 22, 2025
+title: Latest 15 Papers - May 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
+| **[Review: Quantum Architecture Search with Unsupervised Representation Learning](http://arxiv.org/abs/2401.11576v4)** | 2025-05-21 | <details><summary>10 Pa...</summary><p>10 Pages, quantum architecture search, unsupervised representation learning</p></details> |
 | **[Half Search Space is All You Need](http://arxiv.org/abs/2505.13586v1)** | 2025-05-19 |  |
 | **[DimGrow: Memory-Efficient Field-level Embedding Dimension Search](http://arxiv.org/abs/2505.12683v1)** | 2025-05-19 |  |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v2)** | 2025-05-17 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 6 tables</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Tiny Neural Networks for Session-Level Traffic Classification](http://arxiv.org/abs/2504.04008v2)** | 2025-05-11 |  |
 | **[NeuRN: Neuro-inspired Domain Generalization for Image Classification](http://arxiv.org/abs/2505.06881v1)** | 2025-05-11 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 1 table</p></details> |
 | **[Effective Regularization Through Loss-Function Metalearning](http://arxiv.org/abs/2010.00788v3)** | 2025-05-10 |  |
-| **[Underwater object detection in sonar imagery with detection transformer and Zero-shot neural architecture search](http://arxiv.org/abs/2505.06694v1)** | 2025-05-10 |  |
-| **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v2)** | 2025-05-05 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
 | **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
 | **[Sim-is-More: Randomizing HW-NAS with Synthetic Devices](http://arxiv.org/abs/2504.00663v1)** | 2025-04-01 |  |
 | **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v4)** | 2025-03-20 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[ActNAS : Generating Efficient YOLO Models using Activation NAS](http://arxiv.org/abs/2410.10887v2)** | 2024-11-15 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, FITML workshop, NeuRIPS 2024</p></details> |
 | **[Zero-Shot NAS via the Suppression of Local Entropy Decrease](http://arxiv.org/abs/2411.06236v2)** | 2024-11-12 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Corrected typos and latex template</p></details> |
 | **[NAS: N-step computation of All Solutions to the footstep planning problem](http://arxiv.org/abs/2407.12962v2)** | 2024-10-10 | <details><summary>Accep...</summary><p>Accepted in Humanoids 2024</p></details> |
-| **[RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices](http://arxiv.org/abs/2409.18841v1)** | 2024-09-27 | <details><summary>The 4...</summary><p>The 42nd IEEE International Conference on Computer Design (ICCD 2024)</p></details> |
 
