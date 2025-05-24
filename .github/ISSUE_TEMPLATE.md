@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 23, 2025
+title: Latest 15 Papers - May 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,11 +26,13 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Auto-nnU-Net: Towards Automated Medical Image Segmentation](http://arxiv.org/abs/2505.16561v1)** | 2025-05-22 | <details><summary>31 pa...</summary><p>31 pages, 19 figures. Accepted for publication at AutoML 2025</p></details> |
 | **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
 | **[Review: Quantum Architecture Search with Unsupervised Representation Learning](http://arxiv.org/abs/2401.11576v4)** | 2025-05-21 | <details><summary>10 Pa...</summary><p>10 Pages, quantum architecture search, unsupervised representation learning</p></details> |
 | **[Half Search Space is All You Need](http://arxiv.org/abs/2505.13586v1)** | 2025-05-19 |  |
 | **[DimGrow: Memory-Efficient Field-level Embedding Dimension Search](http://arxiv.org/abs/2505.12683v1)** | 2025-05-19 |  |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v2)** | 2025-05-17 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 6 tables</p></details> |
+| **[From Hand-Crafted Metrics to Evolved Training-Free Performance Predictors for Neural Architecture Search via Genetic Programming](http://arxiv.org/abs/2505.15832v1)** | 2025-05-16 |  |
 | **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v1)** | 2025-05-15 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/kaist-dmlab/MONAQ</p></details> |
 | **[SEAL: Searching Expandable Architectures for Incremental Learning](http://arxiv.org/abs/2505.10457v1)** | 2025-05-15 | 8 pages, 5 figures |
 | **[A systematic review of challenges and proposed solutions in modeling multimodal data](http://arxiv.org/abs/2505.06945v2)** | 2025-05-15 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Differentiable Channel Selection in Self-Attention For Person Re-Identification](http://arxiv.org/abs/2505.08961v1)** | 2025-05-13 |  |
 | **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
 | **[Tiny Neural Networks for Session-Level Traffic Classification](http://arxiv.org/abs/2504.04008v2)** | 2025-05-11 |  |
-| **[NeuRN: Neuro-inspired Domain Generalization for Image Classification](http://arxiv.org/abs/2505.06881v1)** | 2025-05-11 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 1 table</p></details> |
-| **[Effective Regularization Through Loss-Function Metalearning](http://arxiv.org/abs/2010.00788v3)** | 2025-05-10 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
