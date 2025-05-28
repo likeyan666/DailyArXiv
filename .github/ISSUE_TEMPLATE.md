@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2025
+title: Latest 15 Papers - May 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Auto-nnU-Net: Towards Automated Medical Image Segmentation](http://arxiv.org/abs/2505.16561v1)** | 2025-05-22 | <details><summary>31 pa...</summary><p>31 pages, 19 figures. Accepted for publication at AutoML 2025</p></details> |
+| **[Optimizing edge AI models on HPC systems with the edge in the loop](http://arxiv.org/abs/2505.19995v1)** | 2025-05-26 | <details><summary>13 pa...</summary><p>13 pages, accepted for oral presentation at Computational Aspects of Deep Learning 2025 (at ISC 2025)</p></details> |
+| **[Auto-nnU-Net: Towards Automated Medical Image Segmentation](http://arxiv.org/abs/2505.16561v3)** | 2025-05-27 | <details><summary>31 pa...</summary><p>31 pages, 19 figures. Accepted for publication at AutoML 2025</p></details> |
+| **[TG-NAS: Generalizable Zero-Cost Proxies with Operator Description Embedding and Graph Learning for Efficient Neural Architecture Search](http://arxiv.org/abs/2404.00271v2)** | 2025-05-23 |  |
+| **[A Dataset and Benchmarks for Deep Learning-Based Optical Microrobot Pose and Depth Perception](http://arxiv.org/abs/2505.18303v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted by the 2025 International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)</p></details> |
 | **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
 | **[Review: Quantum Architecture Search with Unsupervised Representation Learning](http://arxiv.org/abs/2401.11576v4)** | 2025-05-21 | <details><summary>10 Pa...</summary><p>10 Pages, quantum architecture search, unsupervised representation learning</p></details> |
 | **[Half Search Space is All You Need](http://arxiv.org/abs/2505.13586v1)** | 2025-05-19 |  |
@@ -38,13 +41,11 @@ labels: documentation
 | **[A systematic review of challenges and proposed solutions in modeling multimodal data](http://arxiv.org/abs/2505.06945v2)** | 2025-05-15 |  |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v3)** | 2025-05-14 |  |
 | **[GreenFactory: Ensembling Zero-Cost Proxies to Estimate Performance of Neural Networks](http://arxiv.org/abs/2505.09344v1)** | 2025-05-14 |  |
-| **[Differentiable Channel Selection in Self-Attention For Person Re-Identification](http://arxiv.org/abs/2505.08961v1)** | 2025-05-13 |  |
-| **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
-| **[Tiny Neural Networks for Session-Level Traffic Classification](http://arxiv.org/abs/2504.04008v2)** | 2025-05-11 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART$^3$: Leveraging Distance for Test Time Adaptation in Person Re-Identification](http://arxiv.org/abs/2505.18337v1)** | 2025-05-23 |  |
 | **[On the structure of (dart, odd hole)-free graphs](http://arxiv.org/abs/2504.20422v1)** | 2025-04-29 |  |
 | **[Design, Contact Modeling, and Collision-inclusive Planning of a Dual-stiffness Aerial RoboT (DART)](http://arxiv.org/abs/2504.18780v1)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICRA 2025</p></details> |
 | **[DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation](http://arxiv.org/abs/2504.11786v1)** | 2025-04-16 | <details><summary>The I...</summary><p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](http://arxiv.org/abs/2302.10750v3)** | 2024-06-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2011.11031</p></details> |
 | **[Applicability of oculomics for individual risk prediction: Repeatability and robustness of retinal Fractal Dimension using DART and AutoMorph](http://arxiv.org/abs/2403.06950v1)** | 2024-03-11 |  |
 | **[DART: Implicit Doppler Tomography for Radar Novel View Synthesis](http://arxiv.org/abs/2403.03896v1)** | 2024-03-06 | <details><summary>To ap...</summary><p>To appear in CVPR 2024; see https://wiselabcmu.github.io/dart/ for our project site</p></details> |
-| **[DART: Depth-Enhanced Accurate and Real-Time Background Matting](http://arxiv.org/abs/2402.15820v1)** | 2024-02-24 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
