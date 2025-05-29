@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2025
+title: Latest 15 Papers - May 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Optimizing edge AI models on HPC systems with the edge in the loop](http://arxiv.org/abs/2505.19995v1)** | 2025-05-26 | <details><summary>13 pa...</summary><p>13 pages, accepted for oral presentation at Computational Aspects of Deep Learning 2025 (at ISC 2025)</p></details> |
 | **[Auto-nnU-Net: Towards Automated Medical Image Segmentation](http://arxiv.org/abs/2505.16561v3)** | 2025-05-27 | <details><summary>31 pa...</summary><p>31 pages, 19 figures. Accepted for publication at AutoML 2025</p></details> |
+| **[Optimizing edge AI models on HPC systems with the edge in the loop](http://arxiv.org/abs/2505.19995v1)** | 2025-05-26 | <details><summary>13 pa...</summary><p>13 pages, accepted for oral presentation at Computational Aspects of Deep Learning 2025 (at ISC 2025)</p></details> |
 | **[TG-NAS: Generalizable Zero-Cost Proxies with Operator Description Embedding and Graph Learning for Efficient Neural Architecture Search](http://arxiv.org/abs/2404.00271v2)** | 2025-05-23 |  |
 | **[A Dataset and Benchmarks for Deep Learning-Based Optical Microrobot Pose and Depth Perception](http://arxiv.org/abs/2505.18303v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted by the 2025 International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)</p></details> |
 | **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
