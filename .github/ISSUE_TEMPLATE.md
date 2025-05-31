@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 30, 2025
+title: Latest 15 Papers - May 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Global optimization of graph acquisition functions for neural architecture search](http://arxiv.org/abs/2505.23640v1)** | 2025-05-29 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 3 tables</p></details> |
+| **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v2)** | 2025-05-29 | 14 pages, 5 figures |
+| **[CrossNAS: A Cross-Layer Neural Architecture Search Framework for PIM Systems](http://arxiv.org/abs/2505.22868v1)** | 2025-05-28 |  |
 | **[Auto-nnU-Net: Towards Automated Medical Image Segmentation](http://arxiv.org/abs/2505.16561v3)** | 2025-05-27 | <details><summary>31 pa...</summary><p>31 pages, 19 figures. Accepted for publication at AutoML 2025</p></details> |
 | **[Optimizing edge AI models on HPC systems with the edge in the loop](http://arxiv.org/abs/2505.19995v1)** | 2025-05-26 | <details><summary>13 pa...</summary><p>13 pages, accepted for oral presentation at Computational Aspects of Deep Learning 2025 (at ISC 2025)</p></details> |
 | **[TG-NAS: Generalizable Zero-Cost Proxies with Operator Description Embedding and Graph Learning for Efficient Neural Architecture Search](http://arxiv.org/abs/2404.00271v2)** | 2025-05-23 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[From Hand-Crafted Metrics to Evolved Training-Free Performance Predictors for Neural Architecture Search via Genetic Programming](http://arxiv.org/abs/2505.15832v1)** | 2025-05-16 |  |
 | **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v1)** | 2025-05-15 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/kaist-dmlab/MONAQ</p></details> |
 | **[SEAL: Searching Expandable Architectures for Incremental Learning](http://arxiv.org/abs/2505.10457v1)** | 2025-05-15 | 8 pages, 5 figures |
-| **[A systematic review of challenges and proposed solutions in modeling multimodal data](http://arxiv.org/abs/2505.06945v2)** | 2025-05-15 |  |
-| **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v3)** | 2025-05-14 |  |
-| **[GreenFactory: Ensembling Zero-Cost Proxies to Estimate Performance of Neural Networks](http://arxiv.org/abs/2505.09344v1)** | 2025-05-14 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
