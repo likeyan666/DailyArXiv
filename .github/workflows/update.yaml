@@ -42,7 +42,7 @@ jobs:
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
         name: likeyan666
-        email: 1922009258@qq.com
+        # email: 
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
