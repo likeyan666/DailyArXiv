@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2025
+title: Latest 15 Papers - June 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -67,7 +67,7 @@ labels: documentation
 | **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
 | **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
 | **[Sim-is-More: Randomizing HW-NAS with Synthetic Devices](http://arxiv.org/abs/2504.00663v1)** | 2025-04-01 |  |
-| **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v4)** | 2025-03-20 |  |
+| **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v5)** | 2025-06-03 |  |
 | **[Variation Matters: from Mitigating to Embracing Zero-Shot NAS Ranking Function Variation](http://arxiv.org/abs/2502.19657v1)** | 2025-02-27 |  |
 | **[Identification and Characterization for Disruptions in the U.S. National Airspace System (NAS)](http://arxiv.org/abs/2502.18687v1)** | 2025-02-25 | <details><summary>10 pa...</summary><p>10 pages, 13 Figures, submitted to ATRDS</p></details> |
 | **[NPB-Rust: NAS Parallel Benchmarks in Rust](http://arxiv.org/abs/2502.15536v1)** | 2025-02-21 |  |
