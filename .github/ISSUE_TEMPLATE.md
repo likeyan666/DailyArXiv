@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2025
+title: Latest 15 Papers - June 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v5)** | 2025-06-03 |  |
+| **[SiamNAS: Siamese Surrogate Model for Dominance Relation Prediction in Multi-objective Neural Architecture Search](http://arxiv.org/abs/2506.02623v1)** | 2025-06-03 | <details><summary>Genet...</summary><p>Genetic and Evolutionary Computation Conference (GECCO' 25)</p></details> |
+| **[Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models](http://arxiv.org/abs/2506.02488v1)** | 2025-06-03 |  |
+| **[Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution](http://arxiv.org/abs/2506.01231v1)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
 | **[Global optimization of graph acquisition functions for neural architecture search](http://arxiv.org/abs/2505.23640v1)** | 2025-05-29 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 3 tables</p></details> |
 | **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v2)** | 2025-05-29 | 14 pages, 5 figures |
 | **[Gibbs randomness-compression proposition: An efficient deep learning](http://arxiv.org/abs/2505.23869v1)** | 2025-05-29 | 5 pages, 5 figures |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
 | **[Review: Quantum Architecture Search with Unsupervised Representation Learning](http://arxiv.org/abs/2401.11576v4)** | 2025-05-21 | <details><summary>10 Pa...</summary><p>10 Pages, quantum architecture search, unsupervised representation learning</p></details> |
 | **[Half Search Space is All You Need](http://arxiv.org/abs/2505.13586v1)** | 2025-05-19 |  |
-| **[DimGrow: Memory-Efficient Field-level Embedding Dimension Search](http://arxiv.org/abs/2505.12683v1)** | 2025-05-19 |  |
-| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v2)** | 2025-05-17 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 6 tables</p></details> |
-| **[From Hand-Crafted Metrics to Evolved Training-Free Performance Predictors for Neural Architecture Search via Genetic Programming](http://arxiv.org/abs/2505.15832v1)** | 2025-05-16 |  |
-| **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v1)** | 2025-05-15 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/kaist-dmlab/MONAQ</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,10 +64,10 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v5)** | 2025-06-03 |  |
 | **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
 | **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
 | **[Sim-is-More: Randomizing HW-NAS with Synthetic Devices](http://arxiv.org/abs/2504.00663v1)** | 2025-04-01 |  |
-| **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v5)** | 2025-06-03 |  |
 | **[Variation Matters: from Mitigating to Embracing Zero-Shot NAS Ranking Function Variation](http://arxiv.org/abs/2502.19657v1)** | 2025-02-27 |  |
 | **[Identification and Characterization for Disruptions in the U.S. National Airspace System (NAS)](http://arxiv.org/abs/2502.18687v1)** | 2025-02-25 | <details><summary>10 pa...</summary><p>10 pages, 13 Figures, submitted to ATRDS</p></details> |
 | **[NPB-Rust: NAS Parallel Benchmarks in Rust](http://arxiv.org/abs/2502.15536v1)** | 2025-02-21 |  |
