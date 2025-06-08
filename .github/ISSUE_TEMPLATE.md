@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 06, 2025
+title: Latest 15 Papers - June 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,13 +26,13 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models](http://arxiv.org/abs/2506.02488v2)** | 2025-06-04 | <details><summary>This ...</summary><p>This paper was intended to be a v2 version of my previous paper (arXiv:2409.17566), but it was submitted as a new paper by mistake</p></details> |
 | **[CARL: Causality-guided Architecture Representation Learning for an Interpretable Performance Predictor](http://arxiv.org/abs/2506.04001v1)** | 2025-06-04 |  |
 | **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](http://arxiv.org/abs/2506.03697v1)** | 2025-06-04 | 24 pages, 16 figures |
 | **[Automated Architecture Synthesis for Arbitrarily Structured Neural Networks](http://arxiv.org/abs/2306.02157v4)** | 2025-06-04 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2008.08261 by other authors</p></details> |
 | **[RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](http://arxiv.org/abs/2503.22733v3)** | 2025-06-03 | <details><summary>15 pa...</summary><p>15 pages, 17 figures, Published on IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
 | **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v5)** | 2025-06-03 |  |
 | **[SiamNAS: Siamese Surrogate Model for Dominance Relation Prediction in Multi-objective Neural Architecture Search](http://arxiv.org/abs/2506.02623v1)** | 2025-06-03 | <details><summary>Genet...</summary><p>Genetic and Evolutionary Computation Conference (GECCO' 25)</p></details> |
-| **[Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models](http://arxiv.org/abs/2506.02488v2)** | 2025-06-04 | <details><summary>This ...</summary><p>This paper was intended to be a v2 version of my previous paper (arXiv:2409.17566), but it was submitted as a new paper by mistake</p></details> |
 | **[Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution](http://arxiv.org/abs/2506.01231v1)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
 | **[Global optimization of graph acquisition functions for neural architecture search](http://arxiv.org/abs/2505.23640v1)** | 2025-05-29 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 3 tables</p></details> |
 | **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v2)** | 2025-05-29 | 14 pages, 5 figures |
