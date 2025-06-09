@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2025
+title: Latest 15 Papers - June 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -18,7 +18,7 @@ labels: documentation
 | **[Differentiable architecture search with multi-dimensional attention for spiking neural networks](http://arxiv.org/abs/2411.00902v1)** | 2024-11-01 |  |
 | **[OStr-DARTS: Differentiable Neural Architecture Search based on Operation Strength](http://arxiv.org/abs/2409.14433v1)** | 2024-09-22 |  |
 | **[Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.11652v1)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted By CCBR 2024</p></details> |
-| **[Robust and Efficient Transfer Learning via Supernet Transfer in Warm-started Neural Architecture Search](http://arxiv.org/abs/2407.20279v1)** | 2024-07-26 |  |
+| **[Robust and Efficient Transfer Learning via Supernet Transfer in Warm-started Neural Architecture Search](http://arxiv.org/abs/2407.20279v2)** | 2025-06-05 |  |
 | **[Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets](http://arxiv.org/abs/2406.07028v1)** | 2024-06-11 |  |
 | **[Efficient NAS with FaDE on Hierarchical Spaces](http://arxiv.org/abs/2404.16218v1)** | 2024-04-24 |  |
 | **[Evolution and Efficiency in Neural Architecture Search: Bridging the Gap Between Expert Design and Automated Optimization](http://arxiv.org/abs/2403.17012v2)** | 2024-04-02 | <details><summary>7 Pag...</summary><p>7 Pages, Double Column</p></details> |
