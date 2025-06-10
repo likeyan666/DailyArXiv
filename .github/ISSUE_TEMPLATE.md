@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust and Efficient Transfer Learning via Supernet Transfer in Warm-started Neural Architecture Search](http://arxiv.org/abs/2407.20279v2)** | 2025-06-05 |  |
 | **[DNAD: Differentiable Neural Architecture Distillation](http://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
 | **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](http://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
@@ -18,7 +19,6 @@ labels: documentation
 | **[Differentiable architecture search with multi-dimensional attention for spiking neural networks](http://arxiv.org/abs/2411.00902v1)** | 2024-11-01 |  |
 | **[OStr-DARTS: Differentiable Neural Architecture Search based on Operation Strength](http://arxiv.org/abs/2409.14433v1)** | 2024-09-22 |  |
 | **[Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.11652v1)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted By CCBR 2024</p></details> |
-| **[Robust and Efficient Transfer Learning via Supernet Transfer in Warm-started Neural Architecture Search](http://arxiv.org/abs/2407.20279v2)** | 2025-06-05 |  |
 | **[Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets](http://arxiv.org/abs/2406.07028v1)** | 2024-06-11 |  |
 | **[Efficient NAS with FaDE on Hierarchical Spaces](http://arxiv.org/abs/2404.16218v1)** | 2024-04-24 |  |
 | **[Evolution and Efficiency in Neural Architecture Search: Bridging the Gap Between Expert Design and Automated Optimization](http://arxiv.org/abs/2403.17012v2)** | 2024-04-02 | <details><summary>7 Pag...</summary><p>7 Pages, Double Column</p></details> |
@@ -26,6 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Runtime Analysis of Evolutionary NAS for Multiclass Classification](http://arxiv.org/abs/2506.06019v1)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
+| **[Loss Functions for Predictor-based Neural Architecture Search](http://arxiv.org/abs/2506.05869v1)** | 2025-06-06 |  |
+| **[Flexiffusion: Segment-wise Neural Architecture Search for Flexible Denoising Schedule](http://arxiv.org/abs/2409.17566v2)** | 2025-06-06 |  |
+| **[Robust and Efficient Transfer Learning via Supernet Transfer in Warm-started Neural Architecture Search](http://arxiv.org/abs/2407.20279v2)** | 2025-06-05 |  |
 | **[Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models](http://arxiv.org/abs/2506.02488v2)** | 2025-06-04 | <details><summary>This ...</summary><p>This paper was intended to be a v2 version of my previous paper (arXiv:2409.17566), but it was submitted as a new paper by mistake</p></details> |
 | **[CARL: Causality-guided Architecture Representation Learning for an Interpretable Performance Predictor](http://arxiv.org/abs/2506.04001v1)** | 2025-06-04 |  |
 | **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](http://arxiv.org/abs/2506.03697v1)** | 2025-06-04 | 24 pages, 16 figures |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Global optimization of graph acquisition functions for neural architecture search](http://arxiv.org/abs/2505.23640v1)** | 2025-05-29 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 3 tables</p></details> |
 | **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v2)** | 2025-05-29 | 14 pages, 5 figures |
 | **[Gibbs randomness-compression proposition: An efficient deep learning](http://arxiv.org/abs/2505.23869v1)** | 2025-05-29 | 5 pages, 5 figures |
-| **[CrossNAS: A Cross-Layer Neural Architecture Search Framework for PIM Systems](http://arxiv.org/abs/2505.22868v1)** | 2025-05-28 |  |
-| **[Auto-nnU-Net: Towards Automated Medical Image Segmentation](http://arxiv.org/abs/2505.16561v3)** | 2025-05-27 | <details><summary>31 pa...</summary><p>31 pages, 19 figures. Accepted for publication at AutoML 2025</p></details> |
-| **[Optimizing edge AI models on HPC systems with the edge in the loop](http://arxiv.org/abs/2505.19995v1)** | 2025-05-26 | <details><summary>13 pa...</summary><p>13 pages, accepted for oral presentation at Computational Aspects of Deep Learning 2025 (at ISC 2025)</p></details> |
-| **[TG-NAS: Generalizable Zero-Cost Proxies with Operator Description Embedding and Graph Learning for Efficient Neural Architecture Search](http://arxiv.org/abs/2404.00271v2)** | 2025-05-23 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
