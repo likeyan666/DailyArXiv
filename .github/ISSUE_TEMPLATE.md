@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2025
+title: Latest 15 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Effective Regularization Through Loss-Function Metalearning](http://arxiv.org/abs/2010.00788v4)** | 2025-06-08 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared in CEC 2025; this paper includes appendices, expanded references, and corrections</p></details> |
 | **[Runtime Analysis of Evolutionary NAS for Multiclass Classification](http://arxiv.org/abs/2506.06019v1)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[Loss Functions for Predictor-based Neural Architecture Search](http://arxiv.org/abs/2506.05869v1)** | 2025-06-06 |  |
 | **[Flexiffusion: Segment-wise Neural Architecture Search for Flexible Denoising Schedule](http://arxiv.org/abs/2409.17566v2)** | 2025-06-06 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution](http://arxiv.org/abs/2506.01231v1)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
 | **[Global optimization of graph acquisition functions for neural architecture search](http://arxiv.org/abs/2505.23640v1)** | 2025-05-29 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 3 tables</p></details> |
 | **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v2)** | 2025-05-29 | 14 pages, 5 figures |
-| **[Gibbs randomness-compression proposition: An efficient deep learning](http://arxiv.org/abs/2505.23869v1)** | 2025-05-29 | 5 pages, 5 figures |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
