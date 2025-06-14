@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 13, 2025
+title: Latest 15 Papers - June 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Energy-Efficient Deep Learning for Traffic Classification on Microcontrollers](http://arxiv.org/abs/2506.10851v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted at IEEE ISCC 2025</p></details> |
 | **[Effective Regularization Through Loss-Function Metalearning](http://arxiv.org/abs/2010.00788v5)** | 2025-06-11 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared in CEC 2025; this paper includes appendices, expanded references, and corrections</p></details> |
 | **[SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space](http://arxiv.org/abs/2506.08270v2)** | 2025-06-11 |  |
 | **[Quantum Architecture Search with Unsupervised Representation Learning](http://arxiv.org/abs/2401.11576v5)** | 2025-06-10 | <details><summary>10 Pa...</summary><p>10 Pages, quantum architecture search, unsupervised representation learning</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](http://arxiv.org/abs/2503.22733v3)** | 2025-06-03 | <details><summary>15 pa...</summary><p>15 pages, 17 figures, Published on IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
 | **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v5)** | 2025-06-03 |  |
 | **[SiamNAS: Siamese Surrogate Model for Dominance Relation Prediction in Multi-objective Neural Architecture Search](http://arxiv.org/abs/2506.02623v1)** | 2025-06-03 | <details><summary>Genet...</summary><p>Genetic and Evolutionary Computation Conference (GECCO' 25)</p></details> |
-| **[Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution](http://arxiv.org/abs/2506.01231v1)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba](http://arxiv.org/abs/2506.10390v1)** | 2025-06-12 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
 | **[DART$^3$: Leveraging Distance for Test Time Adaptation in Person Re-Identification](http://arxiv.org/abs/2505.18337v1)** | 2025-05-23 |  |
 | **[On the structure of (dart, odd hole)-free graphs](http://arxiv.org/abs/2504.20422v1)** | 2025-04-29 |  |
 | **[Design, Contact Modeling, and Collision-inclusive Planning of a Dual-stiffness Aerial RoboT (DART)](http://arxiv.org/abs/2504.18780v1)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICRA 2025</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: A Solution for Decentralized Federated Learning Model Robustness Analysis](http://arxiv.org/abs/2407.08652v1)** | 2024-07-11 |  |
 | **[An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](http://arxiv.org/abs/2302.10750v3)** | 2024-06-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2011.11031</p></details> |
 | **[Applicability of oculomics for individual risk prediction: Repeatability and robustness of retinal Fractal Dimension using DART and AutoMorph](http://arxiv.org/abs/2403.06950v1)** | 2024-03-11 |  |
-| **[DART: Implicit Doppler Tomography for Radar Novel View Synthesis](http://arxiv.org/abs/2403.03896v1)** | 2024-03-06 | <details><summary>To ap...</summary><p>To appear in CVPR 2024; see https://wiselabcmu.github.io/dart/ for our project site</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
