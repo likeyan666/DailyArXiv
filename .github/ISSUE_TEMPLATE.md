@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 16, 2025
+title: Latest 15 Papers - June 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Traffic Classification using HW-NAS: Advanced Analysis and Optimization for Cybersecurity on Resource-Constrained Devices](http://arxiv.org/abs/2506.11319v1)** | 2025-06-12 |  |
 | **[Energy-Efficient Deep Learning for Traffic Classification on Microcontrollers](http://arxiv.org/abs/2506.10851v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted at IEEE ISCC 2025</p></details> |
 | **[Effective Regularization Through Loss-Function Metalearning](http://arxiv.org/abs/2010.00788v5)** | 2025-06-11 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared in CEC 2025; this paper includes appendices, expanded references, and corrections</p></details> |
 | **[SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space](http://arxiv.org/abs/2506.08270v2)** | 2025-06-11 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Automated Architecture Synthesis for Arbitrarily Structured Neural Networks](http://arxiv.org/abs/2306.02157v4)** | 2025-06-04 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2008.08261 by other authors</p></details> |
 | **[RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](http://arxiv.org/abs/2503.22733v3)** | 2025-06-03 | <details><summary>15 pa...</summary><p>15 pages, 17 figures, Published on IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
 | **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v5)** | 2025-06-03 |  |
-| **[SiamNAS: Siamese Surrogate Model for Dominance Relation Prediction in Multi-objective Neural Architecture Search](http://arxiv.org/abs/2506.02623v1)** | 2025-06-03 | <details><summary>Genet...</summary><p>Genetic and Evolutionary Computation Conference (GECCO' 25)</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Distilling Autoregressive Reasoning to Silent Thought](http://arxiv.org/abs/2506.11752v1)** | 2025-06-13 |  |
 | **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba](http://arxiv.org/abs/2506.10390v1)** | 2025-06-12 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
 | **[DART$^3$: Leveraging Distance for Test Time Adaptation in Person Re-Identification](http://arxiv.org/abs/2505.18337v1)** | 2025-05-23 |  |
 | **[On the structure of (dart, odd hole)-free graphs](http://arxiv.org/abs/2504.20422v1)** | 2025-04-29 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](http://arxiv.org/abs/2407.09174v3)** | 2024-07-29 |  |
 | **[DART: A Solution for Decentralized Federated Learning Model Robustness Analysis](http://arxiv.org/abs/2407.08652v1)** | 2024-07-11 |  |
 | **[An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](http://arxiv.org/abs/2302.10750v3)** | 2024-06-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2011.11031</p></details> |
-| **[Applicability of oculomics for individual risk prediction: Repeatability and robustness of retinal Fractal Dimension using DART and AutoMorph](http://arxiv.org/abs/2403.06950v1)** | 2024-03-11 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
