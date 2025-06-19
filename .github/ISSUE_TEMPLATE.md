@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2025
+title: Latest 15 Papers - June 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DDS-NAS: Dynamic Data Selection within Neural Architecture Search via On-line Hard Example Mining applied to Image Classification](http://arxiv.org/abs/2506.14667v1)** | 2025-06-17 | <details><summary>27 si...</summary><p>27 single-column pages, 8 figures, to be published in Pattern Recognition</p></details> |
+| **[One-Shot Neural Architecture Search with Network Similarity Directed Initialization for Pathological Image Classification](http://arxiv.org/abs/2506.14176v1)** | 2025-06-17 |  |
 | **[MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering](http://arxiv.org/abs/2506.13755v1)** | 2025-06-16 |  |
-| **[Dynamic Acoustic Model Architecture Optimization in Training for ASR](http://arxiv.org/abs/2506.13180v1)** | 2025-06-16 |  |
+| **[Dynamic Acoustic Model Architecture Optimization in Training for ASR](http://arxiv.org/abs/2506.13180v2)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
 | **[Directed Acyclic Graph Convolutional Networks](http://arxiv.org/abs/2506.12218v1)** | 2025-06-13 |  |
 | **[Efficient Traffic Classification using HW-NAS: Advanced Analysis and Optimization for Cybersecurity on Resource-Constrained Devices](http://arxiv.org/abs/2506.11319v1)** | 2025-06-12 |  |
 | **[Energy-Efficient Deep Learning for Traffic Classification on Microcontrollers](http://arxiv.org/abs/2506.10851v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted at IEEE ISCC 2025</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Flexiffusion: Segment-wise Neural Architecture Search for Flexible Denoising Schedule](http://arxiv.org/abs/2409.17566v2)** | 2025-06-06 |  |
 | **[Robust and Efficient Transfer Learning via Supernet Transfer in Warm-started Neural Architecture Search](http://arxiv.org/abs/2407.20279v2)** | 2025-06-05 |  |
 | **[Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models](http://arxiv.org/abs/2506.02488v2)** | 2025-06-04 | <details><summary>This ...</summary><p>This paper was intended to be a v2 version of my previous paper (arXiv:2409.17566), but it was submitted as a new paper by mistake</p></details> |
-| **[CARL: Causality-guided Architecture Representation Learning for an Interpretable Performance Predictor](http://arxiv.org/abs/2506.04001v1)** | 2025-06-04 |  |
-| **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](http://arxiv.org/abs/2506.03697v1)** | 2025-06-04 | 24 pages, 16 figures |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
