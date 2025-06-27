@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2025
+title: Latest 15 Papers - June 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -28,7 +28,7 @@ labels: documentation
 | --- | --- | --- |
 | **[DDS-NAS: Dynamic Data Selection within Neural Architecture Search via On-line Hard Example Mining applied to Image Classification](http://arxiv.org/abs/2506.14667v2)** | 2025-06-24 | <details><summary>27 si...</summary><p>27 single-column pages, 8 figures, to be published in Pattern Recognition</p></details> |
 | **[AnalogNAS-Bench: A NAS Benchmark for Analog In-Memory Computing](http://arxiv.org/abs/2506.18495v1)** | 2025-06-23 |  |
-| **[From Tiny Machine Learning to Tiny Deep Learning: A Survey](http://arxiv.org/abs/2506.18927v1)** | 2025-06-21 |  |
+| **[From Tiny Machine Learning to Tiny Deep Learning: A Survey](http://arxiv.org/abs/2506.18927v2)** | 2025-06-25 |  |
 | **[Zero-Shot NAS via the Suppression of Local Entropy Decrease](http://arxiv.org/abs/2411.06236v3)** | 2025-06-20 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Corrected typos and latex template</p></details> |
 | **[Graph is all you need? Lightweight data-agnostic neural architecture search without training](http://arxiv.org/abs/2405.01306v2)** | 2025-06-20 |  |
 | **[Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution](http://arxiv.org/abs/2506.01231v2)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
