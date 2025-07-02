@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2025
+title: Latest 15 Papers - July 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gibbs randomness-compression proposition: An efficient deep learning](http://arxiv.org/abs/2505.23869v2)** | 2025-06-30 | 5 pages, 5 figures |
 | **[From Tiny Machine Learning to Tiny Deep Learning: A Survey](http://arxiv.org/abs/2506.18927v2)** | 2025-06-25 |  |
 | **[DDS-NAS: Dynamic Data Selection within Neural Architecture Search via On-line Hard Example Mining applied to Image Classification](http://arxiv.org/abs/2506.14667v2)** | 2025-06-24 | <details><summary>27 si...</summary><p>27 single-column pages, 8 figures, to be published in Pattern Recognition</p></details> |
 | **[AnalogNAS-Bench: A NAS Benchmark for Analog In-Memory Computing](http://arxiv.org/abs/2506.18495v1)** | 2025-06-23 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Finding Optimal Kernel Size and Dimension in Convolutional Neural Networks An Architecture Optimization Approach](http://arxiv.org/abs/2506.14846v1)** | 2025-06-16 |  |
 | **[Directed Acyclic Graph Convolutional Networks](http://arxiv.org/abs/2506.12218v1)** | 2025-06-13 |  |
 | **[Efficient Traffic Classification using HW-NAS: Advanced Analysis and Optimization for Cybersecurity on Resource-Constrained Devices](http://arxiv.org/abs/2506.11319v1)** | 2025-06-12 |  |
-| **[Energy-Efficient Deep Learning for Traffic Classification on Microcontrollers](http://arxiv.org/abs/2506.10851v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted at IEEE ISCC 2025</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
