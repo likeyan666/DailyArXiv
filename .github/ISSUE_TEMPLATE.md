@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2025
+title: Latest 15 Papers - July 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v4)** | 2025-06-30 |  |
 | **[Gibbs randomness-compression proposition: An efficient deep learning](http://arxiv.org/abs/2505.23869v2)** | 2025-06-30 | 5 pages, 5 figures |
 | **[From Tiny Machine Learning to Tiny Deep Learning: A Survey](http://arxiv.org/abs/2506.18927v2)** | 2025-06-25 |  |
 | **[DDS-NAS: Dynamic Data Selection within Neural Architecture Search via On-line Hard Example Mining applied to Image Classification](http://arxiv.org/abs/2506.14667v2)** | 2025-06-24 | <details><summary>27 si...</summary><p>27 single-column pages, 8 figures, to be published in Pattern Recognition</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering](http://arxiv.org/abs/2506.13755v1)** | 2025-06-16 |  |
 | **[Finding Optimal Kernel Size and Dimension in Convolutional Neural Networks An Architecture Optimization Approach](http://arxiv.org/abs/2506.14846v1)** | 2025-06-16 |  |
 | **[Directed Acyclic Graph Convolutional Networks](http://arxiv.org/abs/2506.12218v1)** | 2025-06-13 |  |
-| **[Efficient Traffic Classification using HW-NAS: Advanced Analysis and Optimization for Cybersecurity on Resource-Constrained Devices](http://arxiv.org/abs/2506.11319v1)** | 2025-06-12 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
