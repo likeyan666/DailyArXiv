@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 03, 2025
+title: Latest 15 Papers - July 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network-based Embedded AI Systems](http://arxiv.org/abs/2402.11322v4)** | 2025-07-02 | <details><summary>To ap...</summary><p>To appear at the IEEE Transactions on Artificial Intelligence (TAI) 2025</p></details> |
+| **[Quantum Circuit Structure Optimization for Quantum Reinforcement Learning](http://arxiv.org/abs/2507.00589v1)** | 2025-07-01 |  |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v4)** | 2025-06-30 |  |
 | **[Gibbs randomness-compression proposition: An efficient deep learning](http://arxiv.org/abs/2505.23869v2)** | 2025-06-30 | 5 pages, 5 figures |
 | **[From Tiny Machine Learning to Tiny Deep Learning: A Survey](http://arxiv.org/abs/2506.18927v2)** | 2025-06-25 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Sequential Policy Gradient for Adaptive Hyperparameter Optimization](http://arxiv.org/abs/2506.15051v1)** | 2025-06-18 | 10 pages, 2 figures |
 | **[One-Shot Neural Architecture Search with Network Similarity Directed Initialization for Pathological Image Classification](http://arxiv.org/abs/2506.14176v1)** | 2025-06-17 |  |
 | **[MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering](http://arxiv.org/abs/2506.13755v1)** | 2025-06-16 |  |
-| **[Finding Optimal Kernel Size and Dimension in Convolutional Neural Networks An Architecture Optimization Approach](http://arxiv.org/abs/2506.14846v1)** | 2025-06-16 |  |
-| **[Directed Acyclic Graph Convolutional Networks](http://arxiv.org/abs/2506.12218v1)** | 2025-06-13 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
