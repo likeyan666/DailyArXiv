@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2025
+title: Latest 15 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](http://arxiv.org/abs/2507.04671v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 | **[Transferrable Surrogates in Expressive Neural Architecture Search Spaces](http://arxiv.org/abs/2504.12971v3)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted at AutoML 25, Project page at: https://shiwenqin.github.io/TransferrableSurrogate/</p></details> |
 | **[SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network-based Embedded AI Systems](http://arxiv.org/abs/2402.11322v4)** | 2025-07-02 | <details><summary>To ap...</summary><p>To appear at the IEEE Transactions on Artificial Intelligence (TAI) 2025</p></details> |
 | **[Quantum Circuit Structure Optimization for Quantum Reinforcement Learning](http://arxiv.org/abs/2507.00589v1)** | 2025-07-01 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Dynamic Acoustic Model Architecture Optimization in Training for ASR](http://arxiv.org/abs/2506.13180v2)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
 | **[On Finding Small Hyper-Gradients in Bilevel Optimization: Hardness Results and Improved Analysis](http://arxiv.org/abs/2301.00712v8)** | 2025-06-18 | <details><summary>Publi...</summary><p>Published in COLT 2024. This arXiv version refines Assumption 4.1 (d); adds discussions on related works in Appendix A; and corrects the kappa dependency in the upper bounds</p></details> |
 | **[Sequential Policy Gradient for Adaptive Hyperparameter Optimization](http://arxiv.org/abs/2506.15051v1)** | 2025-06-18 | 10 pages, 2 figures |
-| **[One-Shot Neural Architecture Search with Network Similarity Directed Initialization for Pathological Image Classification](http://arxiv.org/abs/2506.14176v1)** | 2025-06-17 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
