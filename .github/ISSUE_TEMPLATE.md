@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2025
+title: Latest 15 Papers - July 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -28,6 +28,7 @@ labels: documentation
 | --- | --- | --- |
 | **[A Pairwise Comparison Relation-assisted Multi-objective Evolutionary Neural Architecture Search Method with Multi-population Mechanism](http://arxiv.org/abs/2407.15600v2)** | 2025-07-14 |  |
 | **[GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search](http://arxiv.org/abs/2405.20725v3)** | 2025-07-13 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
+| **[An Memory-Efficient Framework for Deformable Transformer with Neural Architecture Search](http://arxiv.org/abs/2507.11549v1)** | 2025-07-13 |  |
 | **[Neural Architecture Search generated Phase Retrieval Net for Real-time Off-axis Quantitative Phase Imaging](http://arxiv.org/abs/2210.14231v2)** | 2025-07-13 |  |
 | **[On Supernet Transfer Learning for Effective Task Adaptation](http://arxiv.org/abs/2407.20279v3)** | 2025-07-12 | <details><summary>Publi...</summary><p>Published at 4th Conference on Lifelong Learning Agents (CoLLAs), 2025</p></details> |
 | **[Zero-Shot Neural Architecture Search with Weighted Response Correlation](http://arxiv.org/abs/2507.08841v1)** | 2025-07-08 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[From Tiny Machine Learning to Tiny Deep Learning: A Survey](http://arxiv.org/abs/2506.18927v2)** | 2025-06-25 |  |
 | **[DDS-NAS: Dynamic Data Selection within Neural Architecture Search via On-line Hard Example Mining applied to Image Classification](http://arxiv.org/abs/2506.14667v2)** | 2025-06-24 | <details><summary>27 si...</summary><p>27 single-column pages, 8 figures, to be published in Pattern Recognition</p></details> |
 | **[AnalogNAS-Bench: A NAS Benchmark for Analog In-Memory Computing](http://arxiv.org/abs/2506.18495v1)** | 2025-06-23 |  |
-| **[Zero-Shot NAS via the Suppression of Local Entropy Decrease](http://arxiv.org/abs/2411.06236v3)** | 2025-06-20 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Corrected typos and latex template</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
