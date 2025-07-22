@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2025
+title: Latest 15 Papers - July 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,12 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
 | **[DNAD: Differentiable Neural Architecture Distillation](http://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
 | **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](http://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 | **[An Unsupervised Network Architecture Search Method for Solving Partial Differential Equations](http://arxiv.org/abs/2504.11140v1)** | 2025-04-15 |  |
-| **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
 | **[EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.14432v2)** | 2025-01-13 | <details><summary>Submi...</summary><p>Submited to IEEE Transactions on Instrumentation and Measurement</p></details> |
 | **[Adaptive Channel Allocation for Robust Differentiable Architecture Search](http://arxiv.org/abs/2204.04681v2)** | 2024-12-23 | Accepted by TNNLS |
 | **[An Architectural Approach to Enhance Deep Long-Tailed Learning](http://arxiv.org/abs/2411.06098v3)** | 2024-12-02 |  |
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TensorSocket: Shared Data Loading for Deep Learning Training](http://arxiv.org/abs/2409.18749v2)** | 2025-07-18 |  |
+| **[MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development](http://arxiv.org/abs/2507.13785v1)** | 2025-07-18 | <details><summary>13 pa...</summary><p>13 pages, 8 figures; Preprint of a manuscript submitted for peer review</p></details> |
+| **[Neural Architecture Search with Mixed Bio-inspired Learning Rules](http://arxiv.org/abs/2507.13485v1)** | 2025-07-17 | ECAI 2025 |
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
 | **[A Pairwise Comparison Relation-assisted Multi-objective Evolutionary Neural Architecture Search Method with Multi-population Mechanism](http://arxiv.org/abs/2407.15600v2)** | 2025-07-14 |  |
 | **[GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search](http://arxiv.org/abs/2405.20725v3)** | 2025-07-13 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network-based Embedded AI Systems](http://arxiv.org/abs/2402.11322v4)** | 2025-07-02 | <details><summary>To ap...</summary><p>To appear at the IEEE Transactions on Artificial Intelligence (TAI) 2025</p></details> |
 | **[Quantum Circuit Structure Optimization for Quantum Reinforcement Learning](http://arxiv.org/abs/2507.00589v1)** | 2025-07-01 |  |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v4)** | 2025-06-30 |  |
-| **[Gibbs randomness-compression proposition: An efficient deep learning](http://arxiv.org/abs/2505.23869v2)** | 2025-06-30 | 5 pages, 5 figures |
-| **[From Tiny Machine Learning to Tiny Deep Learning: A Survey](http://arxiv.org/abs/2506.18927v2)** | 2025-06-25 |  |
-| **[DDS-NAS: Dynamic Data Selection within Neural Architecture Search via On-line Hard Example Mining applied to Image Classification](http://arxiv.org/abs/2506.14667v2)** | 2025-06-24 | <details><summary>27 si...</summary><p>27 single-column pages, 8 figures, to be published in Pattern Recognition</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
