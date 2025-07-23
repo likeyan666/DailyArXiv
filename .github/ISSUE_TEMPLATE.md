@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2025
+title: Latest 15 Papers - July 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,25 +8,13 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
-| **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
-| **[DNAD: Differentiable Neural Architecture Distillation](http://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
-| **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](http://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
-| **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
-| **[An Unsupervised Network Architecture Search Method for Solving Partial Differential Equations](http://arxiv.org/abs/2504.11140v1)** | 2025-04-15 |  |
-| **[EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.14432v2)** | 2025-01-13 | <details><summary>Submi...</summary><p>Submited to IEEE Transactions on Instrumentation and Measurement</p></details> |
-| **[Adaptive Channel Allocation for Robust Differentiable Architecture Search](http://arxiv.org/abs/2204.04681v2)** | 2024-12-23 | Accepted by TNNLS |
-| **[An Architectural Approach to Enhance Deep Long-Tailed Learning](http://arxiv.org/abs/2411.06098v3)** | 2024-12-02 |  |
-| **[Differentiable architecture search with multi-dimensional attention for spiking neural networks](http://arxiv.org/abs/2411.00902v1)** | 2024-11-01 |  |
-| **[OStr-DARTS: Differentiable Neural Architecture Search based on Operation Strength](http://arxiv.org/abs/2409.14433v1)** | 2024-09-22 |  |
-| **[Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.11652v1)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted By CCBR 2024</p></details> |
-| **[Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets](http://arxiv.org/abs/2406.07028v1)** | 2024-06-11 |  |
-| **[Efficient NAS with FaDE on Hierarchical Spaces](http://arxiv.org/abs/2404.16218v1)** | 2024-04-24 |  |
-| **[Evolution and Efficiency in Neural Architecture Search: Bridging the Gap Between Expert Design and Automated Optimization](http://arxiv.org/abs/2403.17012v2)** | 2024-04-02 | <details><summary>7 Pag...</summary><p>7 Pages, Double Column</p></details> |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TensorSocket: Shared Data Loading for Deep Learning Training](http://arxiv.org/abs/2409.18749v2)** | 2025-07-18 |  |
+| **[TensorSocket: Shared Data Loading for Deep Learning Training](http://arxiv.org/abs/2409.18749v3)** | 2025-07-21 |  |
+| **[TSkips: Efficiency Through Explicit Temporal Delay Connections in Spiking Neural Networks](http://arxiv.org/abs/2411.16711v2)** | 2025-07-21 |  |
+| **[Data Aware Differentiable Neural Architecture Search for Tiny Keyword Spotting Applications](http://arxiv.org/abs/2507.15545v1)** | 2025-07-21 |  |
 | **[MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development](http://arxiv.org/abs/2507.13785v1)** | 2025-07-18 | <details><summary>13 pa...</summary><p>13 pages, 8 figures; Preprint of a manuscript submitted for peer review</p></details> |
 | **[Neural Architecture Search with Mixed Bio-inspired Learning Rules](http://arxiv.org/abs/2507.13485v1)** | 2025-07-17 | ECAI 2025 |
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
@@ -39,8 +27,6 @@ labels: documentation
 | **[DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](http://arxiv.org/abs/2507.04671v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 | **[Transferrable Surrogates in Expressive Neural Architecture Search Spaces](http://arxiv.org/abs/2504.12971v3)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted at AutoML 25, Project page at: https://shiwenqin.github.io/TransferrableSurrogate/</p></details> |
 | **[SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network-based Embedded AI Systems](http://arxiv.org/abs/2402.11322v4)** | 2025-07-02 | <details><summary>To ap...</summary><p>To appear at the IEEE Transactions on Artificial Intelligence (TAI) 2025</p></details> |
-| **[Quantum Circuit Structure Optimization for Quantum Reinforcement Learning](http://arxiv.org/abs/2507.00589v1)** | 2025-07-01 |  |
-| **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v4)** | 2025-06-30 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
