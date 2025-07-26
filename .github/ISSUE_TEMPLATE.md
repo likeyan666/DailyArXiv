@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 25, 2025
+title: Latest 15 Papers - July 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AlphaGo Moment for Model Architecture Discovery](http://arxiv.org/abs/2507.18074v1)** | 2025-07-24 |  |
 | **[confopt: A Library for Implementation and Evaluation of Gradient-based One-Shot NAS Methods](http://arxiv.org/abs/2507.16533v1)** | 2025-07-22 | AutoML 25 ABCD Track |
 | **[TensorSocket: Shared Data Loading for Deep Learning Training](http://arxiv.org/abs/2409.18749v3)** | 2025-07-21 |  |
 | **[TSkips: Efficiency Through Explicit Temporal Delay Connections in Spiking Neural Networks](http://arxiv.org/abs/2411.16711v2)** | 2025-07-21 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[On Supernet Transfer Learning for Effective Task Adaptation](http://arxiv.org/abs/2407.20279v3)** | 2025-07-12 | <details><summary>Publi...</summary><p>Published at 4th Conference on Lifelong Learning Agents (CoLLAs), 2025</p></details> |
 | **[Zero-Shot Neural Architecture Search with Weighted Response Correlation](http://arxiv.org/abs/2507.08841v1)** | 2025-07-08 |  |
 | **[DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](http://arxiv.org/abs/2507.04671v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
-| **[Transferrable Surrogates in Expressive Neural Architecture Search Spaces](http://arxiv.org/abs/2504.12971v3)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted at AutoML 25, Project page at: https://shiwenqin.github.io/TransferrableSurrogate/</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
