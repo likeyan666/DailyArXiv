@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2025
+title: Latest 15 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -65,18 +65,4 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[confopt: A Library for Implementation and Evaluation of Gradient-based One-Shot NAS Methods](http://arxiv.org/abs/2507.16533v1)** | 2025-07-22 | AutoML 25 ABCD Track |
-| **[AnalogNAS-Bench: A NAS Benchmark for Analog In-Memory Computing](http://arxiv.org/abs/2506.18495v1)** | 2025-06-23 |  |
-| **[Zero-Shot NAS via the Suppression of Local Entropy Decrease](http://arxiv.org/abs/2411.06236v3)** | 2025-06-20 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Corrected typos and latex template</p></details> |
-| **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v5)** | 2025-06-03 |  |
-| **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
-| **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
-| **[Sim-is-More: Randomizing HW-NAS with Synthetic Devices](http://arxiv.org/abs/2504.00663v1)** | 2025-04-01 |  |
-| **[Variation Matters: from Mitigating to Embracing Zero-Shot NAS Ranking Function Variation](http://arxiv.org/abs/2502.19657v1)** | 2025-02-27 |  |
-| **[Identification and Characterization for Disruptions in the U.S. National Airspace System (NAS)](http://arxiv.org/abs/2502.18687v1)** | 2025-02-25 | <details><summary>10 pa...</summary><p>10 pages, 13 Figures, submitted to ATRDS</p></details> |
-| **[NPB-Rust: NAS Parallel Benchmarks in Rust](http://arxiv.org/abs/2502.15536v1)** | 2025-02-21 |  |
-| **[Evaluating the Effectiveness of Mobile Game-Based Learning for Raising Adolescent Health Awareness: The Case of "AHlam Na 2.0"](http://arxiv.org/abs/2501.15047v1)** | 2025-01-25 | 10 pages |
-| **[Task Adaptation of Reinforcement Learning-based NAS Agents through Transfer Learning](http://arxiv.org/abs/2412.01420v2)** | 2024-12-19 | <details><summary>15 Pa...</summary><p>15 Pages, 13 Figures, Corrected data in Figure 5</p></details> |
-| **[Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset](http://arxiv.org/abs/2412.12349v1)** | 2024-12-16 |  |
-| **[GreenMachine: Automatic Design of Zero-Cost Proxies for Energy-Efficient NAS](http://arxiv.org/abs/2411.15290v1)** | 2024-11-22 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025</p></details> |
-| **[Improving Routability Prediction via NAS Using a Smooth One-shot Augmented Predictor](http://arxiv.org/abs/2411.14296v1)** | 2024-11-21 |  |
 
