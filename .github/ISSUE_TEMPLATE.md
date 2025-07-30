@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2025
+title: Latest 15 Papers - July 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SEAL: Searching Expandable Architectures for Incremental Learning](http://arxiv.org/abs/2505.10457v2)** | 2025-07-28 | 9 pages, 5 figures |
+| **[Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search](http://arxiv.org/abs/2503.10404v2)** | 2025-07-28 | <details><summary>Publi...</summary><p>Published in the journal Machine Learning: Science and Technology - IOPscience</p></details> |
+| **[PhaseNAS: Language-Model Driven Architecture Search with Dynamic Phase Adaptation](http://arxiv.org/abs/2507.20592v1)** | 2025-07-28 | 14pages |
+| **[Syno: Structured Synthesis for Neural Operators](http://arxiv.org/abs/2410.23745v2)** | 2025-07-27 |  |
+| **[A Memory-Efficient Framework for Deformable Transformer with Neural Architecture Search](http://arxiv.org/abs/2507.11549v2)** | 2025-07-26 | 5 pages |
 | **[Pareto-NRPA: A Novel Monte-Carlo Search Algorithm for Multi-Objective Optimization](http://arxiv.org/abs/2507.19109v1)** | 2025-07-25 | <details><summary>Prepr...</summary><p>Preprint ; accepted to ECAI 2025</p></details> |
 | **[AlphaGo Moment for Model Architecture Discovery](http://arxiv.org/abs/2507.18074v1)** | 2025-07-24 |  |
 | **[confopt: A Library for Implementation and Evaluation of Gradient-based One-Shot NAS Methods](http://arxiv.org/abs/2507.16533v1)** | 2025-07-22 | AutoML 25 ABCD Track |
@@ -36,11 +41,6 @@ labels: documentation
 | **[Neural Architecture Search with Mixed Bio-inspired Learning Rules](http://arxiv.org/abs/2507.13485v1)** | 2025-07-17 | ECAI 2025 |
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
 | **[A Pairwise Comparison Relation-assisted Multi-objective Evolutionary Neural Architecture Search Method with Multi-population Mechanism](http://arxiv.org/abs/2407.15600v2)** | 2025-07-14 |  |
-| **[GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search](http://arxiv.org/abs/2405.20725v3)** | 2025-07-13 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
-| **[A Memory-Efficient Framework for Deformable Transformer with Neural Architecture Search](http://arxiv.org/abs/2507.11549v2)** | 2025-07-26 | 5 pages |
-| **[Neural Architecture Search generated Phase Retrieval Net for Real-time Off-axis Quantitative Phase Imaging](http://arxiv.org/abs/2210.14231v2)** | 2025-07-13 |  |
-| **[On Supernet Transfer Learning for Effective Task Adaptation](http://arxiv.org/abs/2407.20279v3)** | 2025-07-12 | <details><summary>Publi...</summary><p>Published at 4th Conference on Lifelong Learning Agents (CoLLAs), 2025</p></details> |
-| **[Zero-Shot Neural Architecture Search with Weighted Response Correlation](http://arxiv.org/abs/2507.08841v1)** | 2025-07-08 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
