@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2025
+title: Latest 15 Papers - July 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems](http://arxiv.org/abs/2406.03616v4)** | 2025-07-30 |  |
 | **[SEAL: Searching Expandable Architectures for Incremental Learning](http://arxiv.org/abs/2505.10457v2)** | 2025-07-28 | 9 pages, 5 figures |
 | **[Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search](http://arxiv.org/abs/2503.10404v2)** | 2025-07-28 | <details><summary>Publi...</summary><p>Published in the journal Machine Learning: Science and Technology - IOPscience</p></details> |
 | **[PhaseNAS: Language-Model Driven Architecture Search with Dynamic Phase Adaptation](http://arxiv.org/abs/2507.20592v1)** | 2025-07-28 | 14pages |
@@ -40,7 +41,6 @@ labels: documentation
 | **[MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development](http://arxiv.org/abs/2507.13785v1)** | 2025-07-18 | <details><summary>13 pa...</summary><p>13 pages, 8 figures; Preprint of a manuscript submitted for peer review</p></details> |
 | **[Neural Architecture Search with Mixed Bio-inspired Learning Rules](http://arxiv.org/abs/2507.13485v1)** | 2025-07-17 | ECAI 2025 |
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
-| **[A Pairwise Comparison Relation-assisted Multi-objective Evolutionary Neural Architecture Search Method with Multi-population Mechanism](http://arxiv.org/abs/2407.15600v2)** | 2025-07-14 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
