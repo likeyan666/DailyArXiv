@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 01, 2025
+title: Latest 15 Papers - August 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coflex: Enhancing HW-NAS with Sparse Gaussian Processes for Efficient and Scalable DNN Accelerator Design](http://arxiv.org/abs/2507.23437v1)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted to ICCAD 2025 (camera-ready); 9 pages, 5 figures</p></details> |
 | **[BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems](http://arxiv.org/abs/2406.03616v4)** | 2025-07-30 |  |
 | **[SEAL: Searching Expandable Architectures for Incremental Learning](http://arxiv.org/abs/2505.10457v2)** | 2025-07-28 | 9 pages, 5 figures |
 | **[Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search](http://arxiv.org/abs/2503.10404v2)** | 2025-07-28 | <details><summary>Publi...</summary><p>Published in the journal Machine Learning: Science and Technology - IOPscience</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Data Aware Differentiable Neural Architecture Search for Tiny Keyword Spotting Applications](http://arxiv.org/abs/2507.15545v1)** | 2025-07-21 |  |
 | **[MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development](http://arxiv.org/abs/2507.13785v1)** | 2025-07-18 | <details><summary>13 pa...</summary><p>13 pages, 8 figures; Preprint of a manuscript submitted for peer review</p></details> |
 | **[Neural Architecture Search with Mixed Bio-inspired Learning Rules](http://arxiv.org/abs/2507.13485v1)** | 2025-07-17 | ECAI 2025 |
-| **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coflex: Enhancing HW-NAS with Sparse Gaussian Processes for Efficient and Scalable DNN Accelerator Design](http://arxiv.org/abs/2507.23437v1)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted to ICCAD 2025 (camera-ready); 9 pages, 5 figures</p></details> |
 | **[confopt: A Library for Implementation and Evaluation of Gradient-based One-Shot NAS Methods](http://arxiv.org/abs/2507.16533v1)** | 2025-07-22 | AutoML 25 ABCD Track |
 | **[AnalogNAS-Bench: A NAS Benchmark for Analog In-Memory Computing](http://arxiv.org/abs/2506.18495v1)** | 2025-06-23 |  |
 | **[Zero-Shot NAS via the Suppression of Local Entropy Decrease](http://arxiv.org/abs/2411.06236v3)** | 2025-06-20 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Corrected typos and latex template</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Task Adaptation of Reinforcement Learning-based NAS Agents through Transfer Learning](http://arxiv.org/abs/2412.01420v2)** | 2024-12-19 | <details><summary>15 Pa...</summary><p>15 Pages, 13 Figures, Corrected data in Figure 5</p></details> |
 | **[Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset](http://arxiv.org/abs/2412.12349v1)** | 2024-12-16 |  |
 | **[GreenMachine: Automatic Design of Zero-Cost Proxies for Energy-Efficient NAS](http://arxiv.org/abs/2411.15290v1)** | 2024-11-22 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025</p></details> |
-| **[Improving Routability Prediction via NAS Using a Smooth One-shot Augmented Predictor](http://arxiv.org/abs/2411.14296v1)** | 2024-11-21 |  |
 
