@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2025
+title: Latest 15 Papers - August 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FPG-NAS: FLOPs-Aware Gated Differentiable Neural Architecture Search for Efficient 6DoF Pose Estimation](http://arxiv.org/abs/2508.03618v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to the 27th IEEE International Workshop on Multimedia Signal Processing (MMSP) 2025</p></details> |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v1)** | 2025-08-04 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[ESM: A Framework for Building Effective Surrogate Models for Hardware-Aware Neural Architecture Search](http://arxiv.org/abs/2508.01505v1)** | 2025-08-02 |  |
 | **[TensorSocket: Shared Data Loading for Deep Learning Training](http://arxiv.org/abs/2409.18749v4)** | 2025-08-01 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[AlphaGo Moment for Model Architecture Discovery](http://arxiv.org/abs/2507.18074v1)** | 2025-07-24 |  |
 | **[confopt: A Library for Implementation and Evaluation of Gradient-based One-Shot NAS Methods](http://arxiv.org/abs/2507.16533v1)** | 2025-07-22 | AutoML 25 ABCD Track |
 | **[TSkips: Efficiency Through Explicit Temporal Delay Connections in Spiking Neural Networks](http://arxiv.org/abs/2411.16711v2)** | 2025-07-21 |  |
-| **[Data Aware Differentiable Neural Architecture Search for Tiny Keyword Spotting Applications](http://arxiv.org/abs/2507.15545v1)** | 2025-07-21 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
