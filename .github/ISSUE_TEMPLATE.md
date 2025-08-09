@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 08, 2025
+title: Latest 15 Papers - August 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Dual Adaptive Refinement Transfer for Open-Vocabulary Multi-Label Recognition](http://arxiv.org/abs/2508.05585v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](http://arxiv.org/abs/2407.09174v4)** | 2025-06-22 | <details><summary>Corre...</summary><p>Corrected minor typos; no changes to results or conclusions</p></details> |
 | **[DART: Distilling Autoregressive Reasoning to Silent Thought](http://arxiv.org/abs/2506.11752v1)** | 2025-06-13 |  |
 | **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba](http://arxiv.org/abs/2506.10390v1)** | 2025-06-12 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DexHub and DART: Towards Internet Scale Robot Data Collection](http://arxiv.org/abs/2411.02214v1)** | 2024-11-04 | <details><summary>Visit...</summary><p>Visit https://dexhub.ai/project for more details</p></details> |
 | **[Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.11652v1)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted By CCBR 2024</p></details> |
 | **[DART: A Solution for Decentralized Federated Learning Model Robustness Analysis](http://arxiv.org/abs/2407.08652v1)** | 2024-07-11 |  |
-| **[An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](http://arxiv.org/abs/2302.10750v3)** | 2024-06-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2011.11031</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
