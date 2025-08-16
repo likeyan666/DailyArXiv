@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 15, 2025
+title: Latest 15 Papers - August 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing](http://arxiv.org/abs/2508.10370v1)** | 2025-08-14 | <details><summary>Paper...</summary><p>Paper accepted at ESWEEK 2025 (CODES+ISSS) conference</p></details> |
 | **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](http://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v3)** | 2025-08-12 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 8 tables</p></details> |
 | **[Designing Object Detection Models for TinyML: Foundations, Comparative Analysis, Challenges, and Emerging Solutions](http://arxiv.org/abs/2508.08352v1)** | 2025-08-11 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[SEAL: Searching Expandable Architectures for Incremental Learning](http://arxiv.org/abs/2505.10457v2)** | 2025-07-28 | 9 pages, 5 figures |
 | **[Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search](http://arxiv.org/abs/2503.10404v2)** | 2025-07-28 | <details><summary>Publi...</summary><p>Published in the journal Machine Learning: Science and Technology - IOPscience</p></details> |
 | **[PhaseNAS: Language-Model Driven Architecture Search with Dynamic Phase Adaptation](http://arxiv.org/abs/2507.20592v1)** | 2025-07-28 | 14pages |
-| **[Syno: Structured Synthesis for Neural Operators](http://arxiv.org/abs/2410.23745v2)** | 2025-07-27 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
