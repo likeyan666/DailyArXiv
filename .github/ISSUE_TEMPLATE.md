@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RegimeNAS: Regime-Aware Differentiable Architecture Search With Theoretical Guarantees for Financial Trading](http://arxiv.org/abs/2508.11338v1)** | 2025-08-15 |  |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v1)** | 2025-08-04 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[OStr-DARTS: Differentiable Neural Architecture Search based on Operation Strength](http://arxiv.org/abs/2409.14433v1)** | 2024-09-22 |  |
 | **[Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.11652v1)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted By CCBR 2024</p></details> |
 | **[Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets](http://arxiv.org/abs/2406.07028v1)** | 2024-06-11 |  |
-| **[Efficient NAS with FaDE on Hierarchical Spaces](http://arxiv.org/abs/2404.16218v1)** | 2024-04-24 |  |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
