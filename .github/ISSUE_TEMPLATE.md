@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2025
+title: Latest 15 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -29,6 +29,7 @@ labels: documentation
 | **[Dextr: Zero-Shot Neural Architecture Search with Singular Value Decomposition and Extrinsic Curvature](http://arxiv.org/abs/2508.12977v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[LangVision-LoRA-NAS: Neural Architecture Search for Variable LoRA Rank in Vision Language Models](http://arxiv.org/abs/2508.12512v1)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted by ICIP 2025 Conference</p></details> |
 | **[eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing](http://arxiv.org/abs/2508.10370v1)** | 2025-08-14 | <details><summary>Paper...</summary><p>Paper accepted at ESWEEK 2025 (CODES+ISSS) conference</p></details> |
+| **[Low-power, Energy-efficient, Cardiologist-level Atrial Fibrillation Detection for Wearable Devices](http://arxiv.org/abs/2508.13181v1)** | 2025-08-13 | <details><summary>2025 ...</summary><p>2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
 | **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](http://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v3)** | 2025-08-12 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 8 tables</p></details> |
 | **[Designing Object Detection Models for TinyML: Foundations, Comparative Analysis, Challenges, and Emerging Solutions](http://arxiv.org/abs/2508.08352v1)** | 2025-08-11 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[TensorSocket: Shared Data Loading for Deep Learning Training](http://arxiv.org/abs/2409.18749v4)** | 2025-08-01 |  |
 | **[Coflex: Enhancing HW-NAS with Sparse Gaussian Processes for Efficient and Scalable DNN Accelerator Design](http://arxiv.org/abs/2507.23437v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to the 2025 International Conference on Computer-Aided Design (ICCAD); 9 pages, including 6 figures and 7 tables</p></details> |
 | **[BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems](http://arxiv.org/abs/2406.03616v4)** | 2025-07-30 |  |
-| **[SEAL: Searching Expandable Architectures for Incremental Learning](http://arxiv.org/abs/2505.10457v2)** | 2025-07-28 | 9 pages, 5 figures |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
