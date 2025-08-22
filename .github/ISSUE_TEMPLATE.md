@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2025
+title: Latest 15 Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,7 +31,7 @@ labels: documentation
 | **[eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing](http://arxiv.org/abs/2508.10370v1)** | 2025-08-14 | <details><summary>Paper...</summary><p>Paper accepted at ESWEEK 2025 (CODES+ISSS) conference</p></details> |
 | **[Low-power, Energy-efficient, Cardiologist-level Atrial Fibrillation Detection for Wearable Devices](http://arxiv.org/abs/2508.13181v1)** | 2025-08-13 | <details><summary>2025 ...</summary><p>2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
 | **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](http://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
-| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v3)** | 2025-08-12 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 8 tables</p></details> |
+| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v4)** | 2025-08-21 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 10 tables</p></details> |
 | **[Designing Object Detection Models for TinyML: Foundations, Comparative Analysis, Challenges, and Emerging Solutions](http://arxiv.org/abs/2508.08352v1)** | 2025-08-11 |  |
 | **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v3)** | 2025-08-06 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2025</p></details> |
 | **[Zero-Shot Neural Architecture Search with Weighted Response Correlation](http://arxiv.org/abs/2507.08841v2)** | 2025-08-06 |  |
