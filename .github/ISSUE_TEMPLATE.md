@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 22, 2025
+title: Latest 15 Papers - August 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum Long Short-term Memory with Differentiable Architecture Search](http://arxiv.org/abs/2508.14955v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by the IEEE International Conference on Quantum Artificial Intelligence (QAI) 2025</p></details> |
 | **[RegimeNAS: Regime-Aware Differentiable Architecture Search With Theoretical Guarantees for Financial Trading](http://arxiv.org/abs/2508.11338v1)** | 2025-08-15 |  |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v1)** | 2025-08-04 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
@@ -21,17 +22,17 @@ labels: documentation
 | **[Differentiable architecture search with multi-dimensional attention for spiking neural networks](http://arxiv.org/abs/2411.00902v1)** | 2024-11-01 |  |
 | **[OStr-DARTS: Differentiable Neural Architecture Search based on Operation Strength](http://arxiv.org/abs/2409.14433v1)** | 2024-09-22 |  |
 | **[Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.11652v1)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted By CCBR 2024</p></details> |
-| **[Heterogeneous Learning Rate Scheduling for Neural Architecture Search on Long-Tailed Datasets](http://arxiv.org/abs/2406.07028v1)** | 2024-06-11 |  |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v4)** | 2025-08-21 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 10 tables</p></details> |
+| **[HHNAS-AM: Hierarchical Hybrid Neural Architecture Search using Adaptive Mutation Policies](http://arxiv.org/abs/2508.14946v1)** | 2025-08-20 |  |
 | **[Dextr: Zero-Shot Neural Architecture Search with Singular Value Decomposition and Extrinsic Curvature](http://arxiv.org/abs/2508.12977v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[LangVision-LoRA-NAS: Neural Architecture Search for Variable LoRA Rank in Vision Language Models](http://arxiv.org/abs/2508.12512v1)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted by ICIP 2025 Conference</p></details> |
 | **[eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing](http://arxiv.org/abs/2508.10370v1)** | 2025-08-14 | <details><summary>Paper...</summary><p>Paper accepted at ESWEEK 2025 (CODES+ISSS) conference</p></details> |
 | **[Low-power, Energy-efficient, Cardiologist-level Atrial Fibrillation Detection for Wearable Devices](http://arxiv.org/abs/2508.13181v1)** | 2025-08-13 | <details><summary>2025 ...</summary><p>2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
 | **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](http://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
-| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v4)** | 2025-08-21 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 10 tables</p></details> |
 | **[Designing Object Detection Models for TinyML: Foundations, Comparative Analysis, Challenges, and Emerging Solutions](http://arxiv.org/abs/2508.08352v1)** | 2025-08-11 |  |
 | **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v3)** | 2025-08-06 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2025</p></details> |
 | **[Zero-Shot Neural Architecture Search with Weighted Response Correlation](http://arxiv.org/abs/2507.08841v2)** | 2025-08-06 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[ESM: A Framework for Building Effective Surrogate Models for Hardware-Aware Neural Architecture Search](http://arxiv.org/abs/2508.01505v1)** | 2025-08-02 |  |
 | **[TensorSocket: Shared Data Loading for Deep Learning Training](http://arxiv.org/abs/2409.18749v4)** | 2025-08-01 |  |
 | **[Coflex: Enhancing HW-NAS with Sparse Gaussian Processes for Efficient and Scalable DNN Accelerator Design](http://arxiv.org/abs/2507.23437v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to the 2025 International Conference on Computer-Aided Design (ICCAD); 9 pages, including 6 figures and 7 tables</p></details> |
-| **[BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems](http://arxiv.org/abs/2406.03616v4)** | 2025-07-30 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
