@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2025
+title: Latest 15 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,6 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Quantum Long Short-term Memory with Differentiable Architecture Search](http://arxiv.org/abs/2508.14955v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by the IEEE International Conference on Quantum Artificial Intelligence (QAI) 2025</p></details> |
+| **[MorphNAS: Differentiable Architecture Search for Morphologically-Aware Multilingual NER](http://arxiv.org/abs/2508.15836v1)** | 2025-08-19 |  |
 | **[RegimeNAS: Regime-Aware Differentiable Architecture Search With Theoretical Guarantees for Financial Trading](http://arxiv.org/abs/2508.11338v1)** | 2025-08-15 |  |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v1)** | 2025-08-04 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
@@ -21,13 +22,14 @@ labels: documentation
 | **[An Architectural Approach to Enhance Deep Long-Tailed Learning](http://arxiv.org/abs/2411.06098v3)** | 2024-12-02 |  |
 | **[Differentiable architecture search with multi-dimensional attention for spiking neural networks](http://arxiv.org/abs/2411.00902v1)** | 2024-11-01 |  |
 | **[OStr-DARTS: Differentiable Neural Architecture Search based on Operation Strength](http://arxiv.org/abs/2409.14433v1)** | 2024-09-22 |  |
-| **[Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.11652v1)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted By CCBR 2024</p></details> |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v1)** | 2025-08-21 | Tech Report |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v4)** | 2025-08-21 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 10 tables</p></details> |
 | **[HHNAS-AM: Hierarchical Hybrid Neural Architecture Search using Adaptive Mutation Policies](http://arxiv.org/abs/2508.14946v1)** | 2025-08-20 |  |
+| **[MorphNAS: Differentiable Architecture Search for Morphologically-Aware Multilingual NER](http://arxiv.org/abs/2508.15836v1)** | 2025-08-19 |  |
 | **[Dextr: Zero-Shot Neural Architecture Search with Singular Value Decomposition and Extrinsic Curvature](http://arxiv.org/abs/2508.12977v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[LangVision-LoRA-NAS: Neural Architecture Search for Variable LoRA Rank in Vision Language Models](http://arxiv.org/abs/2508.12512v1)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted by ICIP 2025 Conference</p></details> |
 | **[eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing](http://arxiv.org/abs/2508.10370v1)** | 2025-08-14 | <details><summary>Paper...</summary><p>Paper accepted at ESWEEK 2025 (CODES+ISSS) conference</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[FPG-NAS: FLOPs-Aware Gated Differentiable Neural Architecture Search for Efficient 6DoF Pose Estimation](http://arxiv.org/abs/2508.03618v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to the 27th IEEE International Workshop on Multimedia Signal Processing (MMSP) 2025</p></details> |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v1)** | 2025-08-04 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[ESM: A Framework for Building Effective Surrogate Models for Hardware-Aware Neural Architecture Search](http://arxiv.org/abs/2508.01505v1)** | 2025-08-02 |  |
-| **[TensorSocket: Shared Data Loading for Deep Learning Training](http://arxiv.org/abs/2409.18749v4)** | 2025-08-01 |  |
-| **[Coflex: Enhancing HW-NAS with Sparse Gaussian Processes for Efficient and Scalable DNN Accelerator Design](http://arxiv.org/abs/2507.23437v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to the 2025 International Conference on Computer-Aided Design (ICCAD); 9 pages, including 6 figures and 7 tables</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
