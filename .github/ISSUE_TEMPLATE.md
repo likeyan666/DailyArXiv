@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2025
+title: Latest 15 Papers - August 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v2)** | 2025-08-25 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Quantum Long Short-term Memory with Differentiable Architecture Search](http://arxiv.org/abs/2508.14955v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by the IEEE International Conference on Quantum Artificial Intelligence (QAI) 2025</p></details> |
 | **[MorphNAS: Differentiable Architecture Search for Morphologically-Aware Multilingual NER](http://arxiv.org/abs/2508.15836v1)** | 2025-08-19 |  |
 | **[RegimeNAS: Regime-Aware Differentiable Architecture Search With Theoretical Guarantees for Financial Trading](http://arxiv.org/abs/2508.11338v1)** | 2025-08-15 |  |
-| **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v1)** | 2025-08-04 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
 | **[DNAD: Differentiable Neural Architecture Distillation](http://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v2)** | 2025-08-25 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v1)** | 2025-08-21 | Tech Report |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v4)** | 2025-08-21 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 10 tables</p></details> |
 | **[HHNAS-AM: Hierarchical Hybrid Neural Architecture Search using Adaptive Mutation Policies](http://arxiv.org/abs/2508.14946v1)** | 2025-08-20 |  |
@@ -39,7 +40,6 @@ labels: documentation
 | **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v3)** | 2025-08-06 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2025</p></details> |
 | **[Zero-Shot Neural Architecture Search with Weighted Response Correlation](http://arxiv.org/abs/2507.08841v2)** | 2025-08-06 |  |
 | **[FPG-NAS: FLOPs-Aware Gated Differentiable Neural Architecture Search for Efficient 6DoF Pose Estimation](http://arxiv.org/abs/2508.03618v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to the 27th IEEE International Workshop on Multimedia Signal Processing (MMSP) 2025</p></details> |
-| **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v1)** | 2025-08-04 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[ESM: A Framework for Building Effective Surrogate Models for Hardware-Aware Neural Architecture Search](http://arxiv.org/abs/2508.01505v1)** | 2025-08-02 |  |
 
 ## DARTS
