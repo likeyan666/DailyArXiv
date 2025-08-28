@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2025
+title: Latest 15 Papers - August 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,11 +17,6 @@ labels: documentation
 | **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](http://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 | **[An Unsupervised Network Architecture Search Method for Solving Partial Differential Equations](http://arxiv.org/abs/2504.11140v1)** | 2025-04-15 |  |
-| **[EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.14432v2)** | 2025-01-13 | <details><summary>Submi...</summary><p>Submited to IEEE Transactions on Instrumentation and Measurement</p></details> |
-| **[Adaptive Channel Allocation for Robust Differentiable Architecture Search](http://arxiv.org/abs/2204.04681v2)** | 2024-12-23 | Accepted by TNNLS |
-| **[An Architectural Approach to Enhance Deep Long-Tailed Learning](http://arxiv.org/abs/2411.06098v3)** | 2024-12-02 |  |
-| **[Differentiable architecture search with multi-dimensional attention for spiking neural networks](http://arxiv.org/abs/2411.00902v1)** | 2024-11-01 |  |
-| **[OStr-DARTS: Differentiable Neural Architecture Search based on Operation Strength](http://arxiv.org/abs/2409.14433v1)** | 2024-09-22 |  |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
