@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 29, 2025
+title: Latest 15 Papers - August 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](http://arxiv.org/abs/2507.04671v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v2)** | 2025-08-25 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v1)** | 2025-08-21 | Tech Report |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v4)** | 2025-08-21 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 10 tables</p></details> |
@@ -40,14 +41,13 @@ labels: documentation
 | **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v3)** | 2025-08-06 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2025</p></details> |
 | **[Zero-Shot Neural Architecture Search with Weighted Response Correlation](http://arxiv.org/abs/2507.08841v2)** | 2025-08-06 |  |
 | **[FPG-NAS: FLOPs-Aware Gated Differentiable Neural Architecture Search for Efficient 6DoF Pose Estimation](http://arxiv.org/abs/2508.03618v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to the 27th IEEE International Workshop on Multimedia Signal Processing (MMSP) 2025</p></details> |
-| **[ESM: A Framework for Building Effective Surrogate Models for Hardware-Aware Neural Architecture Search](http://arxiv.org/abs/2508.01505v1)** | 2025-08-02 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Distilling Autoregressive Reasoning to Silent Thought](http://arxiv.org/abs/2506.11752v2)** | 2025-08-28 |  |
 | **[DART: Dual Adaptive Refinement Transfer for Open-Vocabulary Multi-Label Recognition](http://arxiv.org/abs/2508.05585v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](http://arxiv.org/abs/2407.09174v4)** | 2025-06-22 | <details><summary>Corre...</summary><p>Corrected minor typos; no changes to results or conclusions</p></details> |
-| **[DART: Distilling Autoregressive Reasoning to Silent Thought](http://arxiv.org/abs/2506.11752v2)** | 2025-08-28 |  |
 | **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba](http://arxiv.org/abs/2506.10390v1)** | 2025-06-12 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
 | **[DART$^3$: Leveraging Distance for Test Time Adaptation in Person Re-Identification](http://arxiv.org/abs/2505.18337v1)** | 2025-05-23 |  |
 | **[On the structure of (dart, odd hole)-free graphs](http://arxiv.org/abs/2504.20422v1)** | 2025-04-29 |  |
