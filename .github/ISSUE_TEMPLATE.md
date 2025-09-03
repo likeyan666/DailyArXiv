@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2025
+title: Latest 15 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -12,16 +12,6 @@ labels: documentation
 | **[MorphNAS: Differentiable Architecture Search for Morphologically-Aware Multilingual NER](http://arxiv.org/abs/2508.15836v1)** | 2025-08-19 |  |
 | **[RegimeNAS: Regime-Aware Differentiable Architecture Search With Theoretical Guarantees for Financial Trading](http://arxiv.org/abs/2508.11338v1)** | 2025-08-15 |  |
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](http://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
-| **[DASViT: Differentiable Architecture Search for Vision Transformer](http://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
-| **[DNAD: Differentiable Neural Architecture Distillation](http://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
-| **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](http://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
-| **[Regularizing Differentiable Architecture Search with Smooth Activation](http://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
-| **[An Unsupervised Network Architecture Search Method for Solving Partial Differential Equations](http://arxiv.org/abs/2504.11140v1)** | 2025-04-15 |  |
-| **[EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.14432v2)** | 2025-01-13 | <details><summary>Submi...</summary><p>Submited to IEEE Transactions on Instrumentation and Measurement</p></details> |
-| **[Adaptive Channel Allocation for Robust Differentiable Architecture Search](http://arxiv.org/abs/2204.04681v2)** | 2024-12-23 | Accepted by TNNLS |
-| **[An Architectural Approach to Enhance Deep Long-Tailed Learning](http://arxiv.org/abs/2411.06098v3)** | 2024-12-02 |  |
-| **[Differentiable architecture search with multi-dimensional attention for spiking neural networks](http://arxiv.org/abs/2411.00902v1)** | 2024-11-01 |  |
-| **[OStr-DARTS: Differentiable Neural Architecture Search based on Operation Strength](http://arxiv.org/abs/2409.14433v1)** | 2024-09-22 |  |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
@@ -48,7 +38,7 @@ labels: documentation
 | **[DART: Distilling Autoregressive Reasoning to Silent Thought](http://arxiv.org/abs/2506.11752v2)** | 2025-08-28 |  |
 | **[DART: Dual Adaptive Refinement Transfer for Open-Vocabulary Multi-Label Recognition](http://arxiv.org/abs/2508.05585v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](http://arxiv.org/abs/2407.09174v4)** | 2025-06-22 | <details><summary>Corre...</summary><p>Corrected minor typos; no changes to results or conclusions</p></details> |
-| **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba](http://arxiv.org/abs/2506.10390v1)** | 2025-06-12 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
+| **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba](http://arxiv.org/abs/2506.10390v2)** | 2025-08-31 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
 | **[DART$^3$: Leveraging Distance for Test Time Adaptation in Person Re-Identification](http://arxiv.org/abs/2505.18337v1)** | 2025-05-23 |  |
 | **[On the structure of (dart, odd hole)-free graphs](http://arxiv.org/abs/2504.20422v1)** | 2025-04-29 |  |
 | **[Design, Contact Modeling, and Collision-inclusive Planning of a Dual-stiffness Aerial RoboT (DART)](http://arxiv.org/abs/2504.18780v1)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICRA 2025</p></details> |
