@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2025
+title: Latest 15 Papers - September 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,11 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Continuous Encoding-Based Representation for Efficient Multi-Fidelity Multi-Objective Neural Architecture Search](http://arxiv.org/abs/2509.01943v1)** | 2025-09-02 |  |
+| **[Multi-Representation Adapter with Neural Architecture Search for Efficient Range-Doppler Radar Object Detection](http://arxiv.org/abs/2509.01280v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by ICANN 2025</p></details> |
+| **[SAR-NAS: Lightweight SAR Object Detection with Neural Architecture Search](http://arxiv.org/abs/2509.01279v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 | **[Pareto-NRPA: A Novel Monte-Carlo Search Algorithm for Multi-Objective Optimization](http://arxiv.org/abs/2507.19109v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted as a conference paper to ECAI 2025</p></details> |
+| **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v1)** | 2025-08-29 | PhD thesis |
 | **[DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](http://arxiv.org/abs/2507.04671v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v2)** | 2025-08-25 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v1)** | 2025-08-21 | Tech Report |
@@ -37,10 +41,6 @@ labels: documentation
 | **[LangVision-LoRA-NAS: Neural Architecture Search for Variable LoRA Rank in Vision Language Models](http://arxiv.org/abs/2508.12512v1)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted by ICIP 2025 Conference</p></details> |
 | **[eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing](http://arxiv.org/abs/2508.10370v1)** | 2025-08-14 | <details><summary>Paper...</summary><p>Paper accepted at ESWEEK 2025 (CODES+ISSS) conference</p></details> |
 | **[Low-power, Energy-efficient, Cardiologist-level Atrial Fibrillation Detection for Wearable Devices](http://arxiv.org/abs/2508.13181v1)** | 2025-08-13 | <details><summary>2025 ...</summary><p>2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
-| **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](http://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
-| **[Designing Object Detection Models for TinyML: Foundations, Comparative Analysis, Challenges, and Emerging Solutions](http://arxiv.org/abs/2508.08352v1)** | 2025-08-11 |  |
-| **[NACHOS: Neural Architecture Search for Hardware Constrained Early Exit Neural Networks](http://arxiv.org/abs/2401.13330v3)** | 2025-08-06 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2025</p></details> |
-| **[Zero-Shot Neural Architecture Search with Weighted Response Correlation](http://arxiv.org/abs/2507.08841v2)** | 2025-08-06 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
