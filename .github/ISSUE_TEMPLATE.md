@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -34,7 +34,7 @@ labels: documentation
 | **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v1)** | 2025-08-29 | PhD thesis |
 | **[DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](http://arxiv.org/abs/2507.04671v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v2)** | 2025-08-25 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
-| **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v1)** | 2025-08-21 | Tech Report |
+| **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v2)** | 2025-09-08 | Tech Report |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v4)** | 2025-08-21 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 10 tables</p></details> |
 | **[HHNAS-AM: Hierarchical Hybrid Neural Architecture Search using Adaptive Mutation Policies](http://arxiv.org/abs/2508.14946v1)** | 2025-08-20 |  |
 | **[MorphNAS: Differentiable Architecture Search for Morphologically-Aware Multilingual NER](http://arxiv.org/abs/2508.15836v1)** | 2025-08-19 |  |
