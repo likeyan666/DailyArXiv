@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2025
+title: Latest 15 Papers - September 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v5)** | 2025-09-09 |  |
 | **[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](http://arxiv.org/abs/2509.05657v2)** | 2025-09-09 | EMNLP 2025 Main |
 | **[Evaluating the Efficiency of Latent Spaces via the Coupling-Matrix](http://arxiv.org/abs/2509.06314v1)** | 2025-09-08 |  |
@@ -36,7 +37,6 @@ labels: documentation
 | **[Multi-Representation Adapter with Neural Architecture Search for Efficient Range-Doppler Radar Object Detection](http://arxiv.org/abs/2509.01280v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by ICANN 2025</p></details> |
 | **[SAR-NAS: Lightweight SAR Object Detection with Neural Architecture Search](http://arxiv.org/abs/2509.01279v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 | **[Pareto-NRPA: A Novel Monte-Carlo Search Algorithm for Multi-Objective Optimization](http://arxiv.org/abs/2507.19109v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted as a conference paper to ECAI 2025</p></details> |
-| **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
 | **[DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](http://arxiv.org/abs/2507.04671v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v2)** | 2025-08-25 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v4)** | 2025-08-21 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 10 tables</p></details> |
