@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 19, 2025
+title: Latest 15 Papers - September 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v2)** | 2025-09-18 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 4 tables</p></details> |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v4)** | 2025-09-17 |  |
 | **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v5)** | 2025-09-09 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Pareto-NRPA: A Novel Monte-Carlo Search Algorithm for Multi-Objective Optimization](http://arxiv.org/abs/2507.19109v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted as a conference paper to ECAI 2025</p></details> |
 | **[DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](http://arxiv.org/abs/2507.04671v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v2)** | 2025-08-25 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
-| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](http://arxiv.org/abs/2505.01821v4)** | 2025-08-21 | <details><summary>43 pa...</summary><p>43 pages, 10 figures, 10 tables</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
