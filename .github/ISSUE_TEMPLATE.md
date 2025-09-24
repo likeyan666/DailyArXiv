@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2025
+title: Latest 15 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Attention Search](http://arxiv.org/abs/2502.13251v3)** | 2025-09-22 | 18 pages, 8 figures |
+| **[TSGym: Design Choices for Deep Multivariate Time-Series Forecasting](http://arxiv.org/abs/2509.17063v1)** | 2025-09-21 |  |
 | **[Neural Architecture Search Algorithms for Quantum Autoencoders](http://arxiv.org/abs/2509.15451v1)** | 2025-09-18 |  |
 | **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v2)** | 2025-09-18 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 4 tables</p></details> |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v4)** | 2025-09-17 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[A Continuous Encoding-Based Representation for Efficient Multi-Fidelity Multi-Objective Neural Architecture Search](http://arxiv.org/abs/2509.01943v1)** | 2025-09-02 |  |
 | **[Multi-Representation Adapter with Neural Architecture Search for Efficient Range-Doppler Radar Object Detection](http://arxiv.org/abs/2509.01280v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by ICANN 2025</p></details> |
 | **[SAR-NAS: Lightweight SAR Object Detection with Neural Architecture Search](http://arxiv.org/abs/2509.01279v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
-| **[Pareto-NRPA: A Novel Monte-Carlo Search Algorithm for Multi-Objective Optimization](http://arxiv.org/abs/2507.19109v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted as a conference paper to ECAI 2025</p></details> |
-| **[DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](http://arxiv.org/abs/2507.04671v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
