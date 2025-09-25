@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,11 +26,13 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by *Knowledge-Based Systems* (Elsevier), 2025. DOI: https://doi.org/10.1016/j.knosys.2025.114235</p></details> |
 | **[Neural Attention Search](http://arxiv.org/abs/2502.13251v3)** | 2025-09-22 | 18 pages, 8 figures |
 | **[TSGym: Design Choices for Deep Multivariate Time-Series Forecasting](http://arxiv.org/abs/2509.17063v1)** | 2025-09-21 |  |
 | **[Neural Architecture Search Algorithms for Quantum Autoencoders](http://arxiv.org/abs/2509.15451v1)** | 2025-09-18 |  |
 | **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v2)** | 2025-09-18 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 4 tables</p></details> |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v4)** | 2025-09-17 |  |
+| **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](http://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
 | **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v5)** | 2025-09-09 |  |
 | **[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](http://arxiv.org/abs/2509.05657v2)** | 2025-09-09 | EMNLP 2025 Main |
@@ -39,8 +41,6 @@ labels: documentation
 | **[OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search](http://arxiv.org/abs/2509.05656v1)** | 2025-09-06 |  |
 | **[STA-Net: A Decoupled Shape and Texture Attention Network for Lightweight Plant Disease Classification](http://arxiv.org/abs/2509.03754v1)** | 2025-09-03 |  |
 | **[A Continuous Encoding-Based Representation for Efficient Multi-Fidelity Multi-Objective Neural Architecture Search](http://arxiv.org/abs/2509.01943v1)** | 2025-09-02 |  |
-| **[Multi-Representation Adapter with Neural Architecture Search for Efficient Range-Doppler Radar Object Detection](http://arxiv.org/abs/2509.01280v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by ICANN 2025</p></details> |
-| **[SAR-NAS: Lightweight SAR Object Detection with Neural Architecture Search](http://arxiv.org/abs/2509.01279v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](http://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
 | **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](http://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
 | **[Coflex: Enhancing HW-NAS with Sparse Gaussian Processes for Efficient and Scalable DNN Accelerator Design](http://arxiv.org/abs/2507.23437v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to the 2025 International Conference on Computer-Aided Design (ICCAD); 9 pages, including 6 figures and 7 tables</p></details> |
 | **[confopt: A Library for Implementation and Evaluation of Gradient-based One-Shot NAS Methods](http://arxiv.org/abs/2507.16533v1)** | 2025-07-22 | AutoML 25 ABCD Track |
@@ -78,5 +79,4 @@ labels: documentation
 | **[NPB-Rust: NAS Parallel Benchmarks in Rust](http://arxiv.org/abs/2502.15536v1)** | 2025-02-21 |  |
 | **[Evaluating the Effectiveness of Mobile Game-Based Learning for Raising Adolescent Health Awareness: The Case of "AHlam Na 2.0"](http://arxiv.org/abs/2501.15047v1)** | 2025-01-25 | 10 pages |
 | **[Task Adaptation of Reinforcement Learning-based NAS Agents through Transfer Learning](http://arxiv.org/abs/2412.01420v2)** | 2024-12-19 | <details><summary>15 Pa...</summary><p>15 Pages, 13 Figures, Corrected data in Figure 5</p></details> |
-| **[Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset](http://arxiv.org/abs/2412.12349v1)** | 2024-12-16 |  |
 
