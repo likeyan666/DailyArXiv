@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2025
+title: Latest 15 Papers - September 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,7 +35,7 @@ labels: documentation
 | **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](http://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
 | **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v5)** | 2025-09-09 |  |
-| **[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](http://arxiv.org/abs/2509.05657v2)** | 2025-09-09 | EMNLP 2025 Main |
+| **[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](http://arxiv.org/abs/2509.05657v3)** | 2025-09-25 | EMNLP 2025 Main |
 | **[Evaluating the Efficiency of Latent Spaces via the Coupling-Matrix](http://arxiv.org/abs/2509.06314v1)** | 2025-09-08 |  |
 | **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v2)** | 2025-09-08 | Tech Report |
 | **[OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search](http://arxiv.org/abs/2509.05656v1)** | 2025-09-06 |  |
