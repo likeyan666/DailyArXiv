@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 26, 2025
+title: Latest 15 Papers - September 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](http://arxiv.org/abs/2509.05657v3)** | 2025-09-25 | EMNLP 2025 Main |
+| **[From Sorting Algorithms to Scalable Kernels: Bayesian Optimization in High-Dimensional Permutation Spaces](http://arxiv.org/abs/2507.13263v3)** | 2025-09-25 | <details><summary>9 pag...</summary><p>9 pages, submitted to ICLR-26</p></details> |
+| **[RAM-NAS: Resource-aware Multiobjective Neural Architecture Search Method for Robot Vision Tasks](http://arxiv.org/abs/2509.20688v1)** | 2025-09-25 | <details><summary>Joint...</summary><p>Joint first authors: Shouren Mao and Minghao Qin. Published in IEEE/RSJ IROS 2024. This arXiv version adds a joint first-authorship note to correct an omission in the IEEE Xplore version. No technical changes. Please cite the IEEE version</p></details> |
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by *Knowledge-Based Systems* (Elsevier), 2025. DOI: https://doi.org/10.1016/j.knosys.2025.114235</p></details> |
 | **[Neural Attention Search](http://arxiv.org/abs/2502.13251v3)** | 2025-09-22 | 18 pages, 8 figures |
 | **[TSGym: Design Choices for Deep Multivariate Time-Series Forecasting](http://arxiv.org/abs/2509.17063v1)** | 2025-09-21 |  |
@@ -35,12 +38,9 @@ labels: documentation
 | **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](http://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
 | **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v5)** | 2025-09-09 |  |
-| **[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](http://arxiv.org/abs/2509.05657v3)** | 2025-09-25 | EMNLP 2025 Main |
 | **[Evaluating the Efficiency of Latent Spaces via the Coupling-Matrix](http://arxiv.org/abs/2509.06314v1)** | 2025-09-08 |  |
 | **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v2)** | 2025-09-08 | Tech Report |
 | **[OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search](http://arxiv.org/abs/2509.05656v1)** | 2025-09-06 |  |
-| **[STA-Net: A Decoupled Shape and Texture Attention Network for Lightweight Plant Disease Classification](http://arxiv.org/abs/2509.03754v1)** | 2025-09-03 |  |
-| **[A Continuous Encoding-Based Representation for Efficient Multi-Fidelity Multi-Objective Neural Architecture Search](http://arxiv.org/abs/2509.01943v1)** | 2025-09-02 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
