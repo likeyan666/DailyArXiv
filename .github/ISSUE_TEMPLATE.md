@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2025
+title: Latest 15 Papers - October 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v5)** | 2025-09-29 |  |
+| **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v3)** | 2025-09-28 | NeurIPS 2025 |
+| **[DPFNAS: Differential Privacy-Enhanced Federated Neural Architecture Search for 6G Edge Intelligence](http://arxiv.org/abs/2509.23030v1)** | 2025-09-27 |  |
 | **[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](http://arxiv.org/abs/2509.05657v3)** | 2025-09-25 | EMNLP 2025 Main |
 | **[From Sorting Algorithms to Scalable Kernels: Bayesian Optimization in High-Dimensional Permutation Spaces](http://arxiv.org/abs/2507.13263v3)** | 2025-09-25 | <details><summary>9 pag...</summary><p>9 pages, submitted to ICLR-26</p></details> |
 | **[RAM-NAS: Resource-aware Multiobjective Neural Architecture Search Method for Robot Vision Tasks](http://arxiv.org/abs/2509.20688v1)** | 2025-09-25 | <details><summary>Joint...</summary><p>Joint first authors: Shouren Mao and Minghao Qin. Published in IEEE/RSJ IROS 2024. This arXiv version adds a joint first-authorship note to correct an omission in the IEEE Xplore version. No technical changes. Please cite the IEEE version</p></details> |
@@ -34,18 +37,15 @@ labels: documentation
 | **[TSGym: Design Choices for Deep Multivariate Time-Series Forecasting](http://arxiv.org/abs/2509.17063v1)** | 2025-09-21 |  |
 | **[Neural Architecture Search Algorithms for Quantum Autoencoders](http://arxiv.org/abs/2509.15451v1)** | 2025-09-18 |  |
 | **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v2)** | 2025-09-18 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 4 tables</p></details> |
-| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v4)** | 2025-09-17 |  |
 | **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](http://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
 | **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
 | **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v5)** | 2025-09-09 |  |
 | **[Evaluating the Efficiency of Latent Spaces via the Coupling-Matrix](http://arxiv.org/abs/2509.06314v1)** | 2025-09-08 |  |
-| **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v2)** | 2025-09-08 | Tech Report |
-| **[OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search](http://arxiv.org/abs/2509.05656v1)** | 2025-09-06 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba](http://arxiv.org/abs/2506.10390v2)** | 2025-08-31 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
+| **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models](http://arxiv.org/abs/2506.10390v3)** | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
 | **[DART: Distilling Autoregressive Reasoning to Silent Thought](http://arxiv.org/abs/2506.11752v2)** | 2025-08-28 |  |
 | **[DART: Dual Adaptive Refinement Transfer for Open-Vocabulary Multi-Label Recognition](http://arxiv.org/abs/2508.05585v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](http://arxiv.org/abs/2407.09174v4)** | 2025-06-22 | <details><summary>Corre...</summary><p>Corrected minor typos; no changes to results or conclusions</p></details> |
