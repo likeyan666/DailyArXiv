@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2025
+title: Latest 15 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](http://arxiv.org/abs/2509.26037v1)** | 2025-09-30 |  |
+| **[CIMNAS: A Joint Framework for Compute-In-Memory-Aware Neural Architecture Search](http://arxiv.org/abs/2509.25862v1)** | 2025-09-30 |  |
+| **[Pretrained Hybrids with MAD Skills](http://arxiv.org/abs/2406.00894v2)** | 2025-09-30 | COLM 2025 |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v5)** | 2025-09-29 |  |
 | **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v3)** | 2025-09-28 | NeurIPS 2025 |
 | **[DPFNAS: Differential Privacy-Enhanced Federated Neural Architecture Search for 6G Edge Intelligence](http://arxiv.org/abs/2509.23030v1)** | 2025-09-27 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Neural Architecture Search Algorithms for Quantum Autoencoders](http://arxiv.org/abs/2509.15451v1)** | 2025-09-18 |  |
 | **[Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models](http://arxiv.org/abs/2504.20020v2)** | 2025-09-18 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 4 tables</p></details> |
 | **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](http://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
-| **[Principled Approximation Methods for Efficient and Scalable Deep Learning](http://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
-| **[Llama-Nemotron: Efficient Reasoning Models](http://arxiv.org/abs/2505.00949v5)** | 2025-09-09 |  |
-| **[Evaluating the Efficiency of Latent Spaces via the Coupling-Matrix](http://arxiv.org/abs/2509.06314v1)** | 2025-09-08 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
