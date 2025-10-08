@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2025
+title: Latest 15 Papers - October 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoMaAS: Self-Evolving Multi-Agent Architecture Search for Large Language Models](http://arxiv.org/abs/2510.02669v1)** | 2025-10-03 |  |
+| **[ONNX-Net: Towards Universal Representations and Instant Performance Prediction for Neural Architectures](http://arxiv.org/abs/2510.04938v1)** | 2025-10-06 | <details><summary>Our c...</summary><p>Our code is available at: https://github.com/shiwenqin/ONNX-Net</p></details> |
+| **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](http://arxiv.org/abs/2506.03697v2)** | 2025-10-06 | 27 pages, 19 figures |
 | **[PEL-NAS: Search Space Partitioned Architecture Prompt Co-Evolutionary LLM-driven Hardware-Aware Neural Architecture Search](http://arxiv.org/abs/2510.01472v2)** | 2025-10-04 |  |
+| **[AutoMaAS: Self-Evolving Multi-Agent Architecture Search for Large Language Models](http://arxiv.org/abs/2510.02669v1)** | 2025-10-03 |  |
 | **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](http://arxiv.org/abs/2509.26037v1)** | 2025-09-30 |  |
 | **[CIMNAS: A Joint Framework for Compute-In-Memory-Aware Neural Architecture Search](http://arxiv.org/abs/2509.25862v1)** | 2025-09-30 |  |
 | **[Pretrained Hybrids with MAD Skills](http://arxiv.org/abs/2406.00894v2)** | 2025-09-30 | COLM 2025 |
@@ -39,8 +41,6 @@ labels: documentation
 | **[RAM-NAS: Resource-aware Multiobjective Neural Architecture Search Method for Robot Vision Tasks](http://arxiv.org/abs/2509.20688v1)** | 2025-09-25 | <details><summary>Joint...</summary><p>Joint first authors: Shouren Mao and Minghao Qin. Published in IEEE/RSJ IROS 2024. This arXiv version adds a joint first-authorship note to correct an omission in the IEEE Xplore version. No technical changes. Please cite the IEEE version</p></details> |
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by *Knowledge-Based Systems* (Elsevier), 2025. DOI: https://doi.org/10.1016/j.knosys.2025.114235</p></details> |
 | **[Neural Attention Search](http://arxiv.org/abs/2502.13251v3)** | 2025-09-22 | 18 pages, 8 figures |
-| **[TSGym: Design Choices for Deep Multivariate Time-Series Forecasting](http://arxiv.org/abs/2509.17063v1)** | 2025-09-21 |  |
-| **[Neural Architecture Search Algorithms for Quantum Autoencoders](http://arxiv.org/abs/2509.15451v1)** | 2025-09-18 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
