@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2025
+title: Latest 15 Papers - October 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v2)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings), Project Page: https://kaist-dmlab.github.io/MONAQ</p></details> |
 | **[Universal Neural Architecture Space: Covering ConvNets, Transformers and Everything in Between](http://arxiv.org/abs/2510.06035v1)** | 2025-10-07 |  |
 | **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](http://arxiv.org/abs/2510.05888v1)** | 2025-10-07 |  |
 | **[ONNX-Net: Towards Universal Representations and Instant Performance Prediction for Neural Architectures](http://arxiv.org/abs/2510.04938v1)** | 2025-10-06 | <details><summary>Our c...</summary><p>Our code is available at: https://github.com/shiwenqin/ONNX-Net</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[DPFNAS: Differential Privacy-Enhanced Federated Neural Architecture Search for 6G Edge Intelligence](http://arxiv.org/abs/2509.23030v1)** | 2025-09-27 |  |
 | **[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](http://arxiv.org/abs/2509.05657v3)** | 2025-09-25 | EMNLP 2025 Main |
 | **[From Sorting Algorithms to Scalable Kernels: Bayesian Optimization in High-Dimensional Permutation Spaces](http://arxiv.org/abs/2507.13263v3)** | 2025-09-25 | <details><summary>9 pag...</summary><p>9 pages, submitted to ICLR-26</p></details> |
-| **[RAM-NAS: Resource-aware Multiobjective Neural Architecture Search Method for Robot Vision Tasks](http://arxiv.org/abs/2509.20688v1)** | 2025-09-25 | <details><summary>Joint...</summary><p>Joint first authors: Shouren Mao and Minghao Qin. Published in IEEE/RSJ IROS 2024. This arXiv version adds a joint first-authorship note to correct an omission in the IEEE Xplore version. No technical changes. Please cite the IEEE version</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
