@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2025
+title: Latest 15 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PlatformX: An End-to-End Transferable Platform for Energy-Efficient Neural Architecture Search](http://arxiv.org/abs/2510.08993v1)** | 2025-10-10 |  |
+| **[HiBBO: HiPPO-based Space Consistency for High-dimensional Bayesian Optimisation](http://arxiv.org/abs/2510.08965v1)** | 2025-10-10 |  |
 | **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v2)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings), Project Page: https://kaist-dmlab.github.io/MONAQ</p></details> |
 | **[Universal Neural Architecture Space: Covering ConvNets, Transformers and Everything in Between](http://arxiv.org/abs/2510.06035v1)** | 2025-10-07 |  |
 | **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](http://arxiv.org/abs/2510.05888v1)** | 2025-10-07 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v5)** | 2025-09-29 |  |
 | **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v3)** | 2025-09-28 | NeurIPS 2025 |
 | **[DPFNAS: Differential Privacy-Enhanced Federated Neural Architecture Search for 6G Edge Intelligence](http://arxiv.org/abs/2509.23030v1)** | 2025-09-27 |  |
-| **[LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding](http://arxiv.org/abs/2509.05657v3)** | 2025-09-25 | EMNLP 2025 Main |
-| **[From Sorting Algorithms to Scalable Kernels: Bayesian Optimization in High-Dimensional Permutation Spaces](http://arxiv.org/abs/2507.13263v3)** | 2025-09-25 | <details><summary>9 pag...</summary><p>9 pages, submitted to ICLR-26</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
