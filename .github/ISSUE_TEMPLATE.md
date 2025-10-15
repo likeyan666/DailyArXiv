@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2025
+title: Latest 15 Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](http://arxiv.org/abs/2510.10232v1)** | 2025-10-11 |  |
+| **[GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search](http://arxiv.org/abs/2405.20725v4)** | 2025-10-11 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS) 2025</p></details> |
 | **[PlatformX: An End-to-End Transferable Platform for Energy-Efficient Neural Architecture Search](http://arxiv.org/abs/2510.08993v1)** | 2025-10-10 |  |
 | **[HiBBO: HiPPO-based Space Consistency for High-dimensional Bayesian Optimisation](http://arxiv.org/abs/2510.08965v1)** | 2025-10-10 |  |
 | **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v2)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings), Project Page: https://kaist-dmlab.github.io/MONAQ</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[CIMNAS: A Joint Framework for Compute-In-Memory-Aware Neural Architecture Search](http://arxiv.org/abs/2509.25862v1)** | 2025-09-30 |  |
 | **[Pretrained Hybrids with MAD Skills](http://arxiv.org/abs/2406.00894v2)** | 2025-09-30 | COLM 2025 |
 | **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v5)** | 2025-09-29 |  |
-| **[Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](http://arxiv.org/abs/2508.15884v3)** | 2025-09-28 | NeurIPS 2025 |
-| **[DPFNAS: Differential Privacy-Enhanced Federated Neural Architecture Search for 6G Edge Intelligence](http://arxiv.org/abs/2509.23030v1)** | 2025-09-27 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
