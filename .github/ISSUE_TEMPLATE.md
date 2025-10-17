@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2025
+title: Latest 15 Papers - October 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Challenges and proposed solutions in modeling multimodal data: A systematic review](http://arxiv.org/abs/2505.06945v3)** | 2025-10-15 |  |
 | **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](http://arxiv.org/abs/2510.10232v1)** | 2025-10-11 |  |
 | **[GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search](http://arxiv.org/abs/2405.20725v4)** | 2025-10-11 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS) 2025</p></details> |
 | **[PlatformX: An End-to-End Transferable Platform for Energy-Efficient Neural Architecture Search](http://arxiv.org/abs/2510.08993v1)** | 2025-10-10 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](http://arxiv.org/abs/2509.26037v1)** | 2025-09-30 |  |
 | **[CIMNAS: A Joint Framework for Compute-In-Memory-Aware Neural Architecture Search](http://arxiv.org/abs/2509.25862v1)** | 2025-09-30 |  |
 | **[Pretrained Hybrids with MAD Skills](http://arxiv.org/abs/2406.00894v2)** | 2025-09-30 | COLM 2025 |
-| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v5)** | 2025-09-29 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
