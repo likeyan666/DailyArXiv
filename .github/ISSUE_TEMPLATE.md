@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2025
+title: Latest 15 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: A Structured Dataset of Regulatory Drug Documents in Italian for Clinical NLP](http://arxiv.org/abs/2510.18475v1)** | 2025-10-21 |  |
 | **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models](http://arxiv.org/abs/2506.10390v3)** | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
 | **[DART: Distilling Autoregressive Reasoning to Silent Thought](http://arxiv.org/abs/2506.11752v2)** | 2025-08-28 |  |
 | **[DART: Dual Adaptive Refinement Transfer for Open-Vocabulary Multi-Label Recognition](http://arxiv.org/abs/2508.05585v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Iterative Encoding-Decoding VAEs Anomaly Detection in NOAA's DART Time Series: A Machine Learning Approach for Enhancing Data Integrity for NASA's GRACE-FO Verification and Validation](http://arxiv.org/abs/2412.16375v1)** | 2024-12-20 | Preprint |
 | **[DexHub and DART: Towards Internet Scale Robot Data Collection](http://arxiv.org/abs/2411.02214v1)** | 2024-11-04 | <details><summary>Visit...</summary><p>Visit https://dexhub.ai/project for more details</p></details> |
 | **[Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.11652v1)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted By CCBR 2024</p></details> |
-| **[DART: A Solution for Decentralized Federated Learning Model Robustness Analysis](http://arxiv.org/abs/2407.08652v1)** | 2024-07-11 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
