@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 24, 2025
+title: Latest 15 Papers - October 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach](http://arxiv.org/abs/2406.05088v2)** | 2025-10-23 |  |
+| **[Neural Attention Search](http://arxiv.org/abs/2502.13251v4)** | 2025-10-23 | 35 pages, 11 figures |
+| **[An Integrated Approach to Neural Architecture Search for Deep Q-Networks](http://arxiv.org/abs/2510.19872v1)** | 2025-10-22 |  |
 | **[Challenges and proposed solutions in modeling multimodal data: A systematic review](http://arxiv.org/abs/2505.06945v4)** | 2025-10-20 |  |
 | **[ELASTIC: Efficient Once For All Iterative Search for Object Detection on Microcontrollers](http://arxiv.org/abs/2503.21999v2)** | 2025-10-16 | 8 pages, 7 figures |
 | **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](http://arxiv.org/abs/2510.10232v1)** | 2025-10-11 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[ONNX-Net: Towards Universal Representations and Instant Performance Prediction for Neural Architectures](http://arxiv.org/abs/2510.04938v1)** | 2025-10-06 | <details><summary>Our c...</summary><p>Our code is available at: https://github.com/shiwenqin/ONNX-Net</p></details> |
 | **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](http://arxiv.org/abs/2506.03697v2)** | 2025-10-06 | 27 pages, 19 figures |
 | **[PEL-NAS: Search Space Partitioned Architecture Prompt Co-Evolutionary LLM-driven Hardware-Aware Neural Architecture Search](http://arxiv.org/abs/2510.01472v2)** | 2025-10-04 |  |
-| **[AutoMaAS: Self-Evolving Multi-Agent Architecture Search for Large Language Models](http://arxiv.org/abs/2510.02669v1)** | 2025-10-03 |  |
-| **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](http://arxiv.org/abs/2509.26037v1)** | 2025-09-30 |  |
-| **[CIMNAS: A Joint Framework for Compute-In-Memory-Aware Neural Architecture Search](http://arxiv.org/abs/2509.25862v1)** | 2025-09-30 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
