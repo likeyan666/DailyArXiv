@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2025
+title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -36,6 +36,11 @@ labels: documentation
 | **[PlatformX: An End-to-End Transferable Platform for Energy-Efficient Neural Architecture Search](http://arxiv.org/abs/2510.08993v1)** | 2025-10-10 |  |
 | **[HiBBO: HiPPO-based Space Consistency for High-dimensional Bayesian Optimisation](http://arxiv.org/abs/2510.08965v1)** | 2025-10-10 |  |
 | **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v2)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings), Project Page: https://kaist-dmlab.github.io/MONAQ</p></details> |
+| **[Universal Neural Architecture Space: Covering ConvNets, Transformers and Everything in Between](http://arxiv.org/abs/2510.06035v1)** | 2025-10-07 |  |
+| **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](http://arxiv.org/abs/2510.05888v1)** | 2025-10-07 |  |
+| **[ONNX-Net: Towards Universal Representations and Instant Performance Prediction for Neural Architectures](http://arxiv.org/abs/2510.04938v1)** | 2025-10-06 | <details><summary>Our c...</summary><p>Our code is available at: https://github.com/shiwenqin/ONNX-Net</p></details> |
+| **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](http://arxiv.org/abs/2506.03697v2)** | 2025-10-06 | 27 pages, 19 figures |
+| **[PEL-NAS: Search Space Partitioned Architecture Prompt Co-Evolutionary LLM-driven Hardware-Aware Neural Architecture Search](http://arxiv.org/abs/2510.01472v2)** | 2025-10-04 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -63,4 +68,15 @@ labels: documentation
 | **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](http://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
 | **[Coflex: Enhancing HW-NAS with Sparse Gaussian Processes for Efficient and Scalable DNN Accelerator Design](http://arxiv.org/abs/2507.23437v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to the 2025 International Conference on Computer-Aided Design (ICCAD); 9 pages, including 6 figures and 7 tables</p></details> |
 | **[confopt: A Library for Implementation and Evaluation of Gradient-based One-Shot NAS Methods](http://arxiv.org/abs/2507.16533v1)** | 2025-07-22 | AutoML 25 ABCD Track |
+| **[AnalogNAS-Bench: A NAS Benchmark for Analog In-Memory Computing](http://arxiv.org/abs/2506.18495v1)** | 2025-06-23 |  |
+| **[Zero-Shot NAS via the Suppression of Local Entropy Decrease](http://arxiv.org/abs/2411.06236v3)** | 2025-06-20 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Corrected typos and latex template</p></details> |
+| **[Puzzle: Distillation-Based NAS for Inference-Optimized LLMs](http://arxiv.org/abs/2411.19146v5)** | 2025-06-03 |  |
+| **[Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks](http://arxiv.org/abs/2505.15631v1)** | 2025-05-21 |  |
+| **[L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers](http://arxiv.org/abs/2505.07300v1)** | 2025-05-12 | <details><summary>accep...</summary><p>accepted at CVPR 2025</p></details> |
+| **[Sim-is-More: Randomizing HW-NAS with Synthetic Devices](http://arxiv.org/abs/2504.00663v1)** | 2025-04-01 |  |
+| **[Variation Matters: from Mitigating to Embracing Zero-Shot NAS Ranking Function Variation](http://arxiv.org/abs/2502.19657v1)** | 2025-02-27 |  |
+| **[Identification and Characterization for Disruptions in the U.S. National Airspace System (NAS)](http://arxiv.org/abs/2502.18687v1)** | 2025-02-25 | <details><summary>10 pa...</summary><p>10 pages, 13 Figures, submitted to ATRDS</p></details> |
+| **[NPB-Rust: NAS Parallel Benchmarks in Rust](http://arxiv.org/abs/2502.15536v1)** | 2025-02-21 |  |
+| **[Evaluating the Effectiveness of Mobile Game-Based Learning for Raising Adolescent Health Awareness: The Case of "AHlam Na 2.0"](http://arxiv.org/abs/2501.15047v1)** | 2025-01-25 | 10 pages |
+| **[Task Adaptation of Reinforcement Learning-based NAS Agents through Transfer Learning](http://arxiv.org/abs/2412.01420v2)** | 2024-12-19 | <details><summary>15 Pa...</summary><p>15 Pages, 13 Figures, Corrected data in Figure 5</p></details> |
 
