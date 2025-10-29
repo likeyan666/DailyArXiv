@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 28, 2025
+title: Latest 15 Papers - October 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Architecture Search with GPT-4](http://arxiv.org/abs/2310.01436v3)** | 2025-10-26 |  |
+| **[Towards Low-Latency and Adaptive Ransomware Detection Using Contrastive Learning](http://arxiv.org/abs/2510.21957v1)** | 2025-10-24 | <details><summary>This ...</summary><p>This paper was accepted in the 2025 IEEE International Conference on Computer Design (ICCD)</p></details> |
 | **[Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach](http://arxiv.org/abs/2406.05088v2)** | 2025-10-23 |  |
 | **[Neural Attention Search](http://arxiv.org/abs/2502.13251v4)** | 2025-10-23 | 35 pages, 11 figures |
 | **[An Integrated Approach to Neural Architecture Search for Deep Q-Networks](http://arxiv.org/abs/2510.19872v1)** | 2025-10-22 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Universal Neural Architecture Space: Covering ConvNets, Transformers and Everything in Between](http://arxiv.org/abs/2510.06035v1)** | 2025-10-07 |  |
 | **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](http://arxiv.org/abs/2510.05888v1)** | 2025-10-07 |  |
 | **[ONNX-Net: Towards Universal Representations and Instant Performance Prediction for Neural Architectures](http://arxiv.org/abs/2510.04938v1)** | 2025-10-06 | <details><summary>Our c...</summary><p>Our code is available at: https://github.com/shiwenqin/ONNX-Net</p></details> |
-| **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](http://arxiv.org/abs/2506.03697v2)** | 2025-10-06 | 27 pages, 19 figures |
-| **[PEL-NAS: Search Space Partitioned Architecture Prompt Co-Evolutionary LLM-driven Hardware-Aware Neural Architecture Search](http://arxiv.org/abs/2510.01472v2)** | 2025-10-04 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
