@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Graph Neural Architecture Search with GPT-4](http://arxiv.org/abs/2310.01436v3)** | 2025-10-26 |  |
+| **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](http://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
 | **[Towards Low-Latency and Adaptive Ransomware Detection Using Contrastive Learning](http://arxiv.org/abs/2510.21957v1)** | 2025-10-24 | <details><summary>This ...</summary><p>This paper was accepted in the 2025 IEEE International Conference on Computer Design (ICCD)</p></details> |
 | **[Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach](http://arxiv.org/abs/2406.05088v2)** | 2025-10-23 |  |
 | **[Neural Attention Search](http://arxiv.org/abs/2502.13251v4)** | 2025-10-23 | 35 pages, 11 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v2)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings), Project Page: https://kaist-dmlab.github.io/MONAQ</p></details> |
 | **[Universal Neural Architecture Space: Covering ConvNets, Transformers and Everything in Between](http://arxiv.org/abs/2510.06035v1)** | 2025-10-07 |  |
 | **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](http://arxiv.org/abs/2510.05888v1)** | 2025-10-07 |  |
-| **[ONNX-Net: Towards Universal Representations and Instant Performance Prediction for Neural Architectures](http://arxiv.org/abs/2510.04938v1)** | 2025-10-06 | <details><summary>Our c...</summary><p>Our code is available at: https://github.com/shiwenqin/ONNX-Net</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](http://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
 | **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](http://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
 | **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](http://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
 | **[Coflex: Enhancing HW-NAS with Sparse Gaussian Processes for Efficient and Scalable DNN Accelerator Design](http://arxiv.org/abs/2507.23437v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to the 2025 International Conference on Computer-Aided Design (ICCAD); 9 pages, including 6 figures and 7 tables</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Identification and Characterization for Disruptions in the U.S. National Airspace System (NAS)](http://arxiv.org/abs/2502.18687v1)** | 2025-02-25 | <details><summary>10 pa...</summary><p>10 pages, 13 Figures, submitted to ATRDS</p></details> |
 | **[NPB-Rust: NAS Parallel Benchmarks in Rust](http://arxiv.org/abs/2502.15536v1)** | 2025-02-21 |  |
 | **[Evaluating the Effectiveness of Mobile Game-Based Learning for Raising Adolescent Health Awareness: The Case of "AHlam Na 2.0"](http://arxiv.org/abs/2501.15047v1)** | 2025-01-25 | 10 pages |
-| **[Task Adaptation of Reinforcement Learning-based NAS Agents through Transfer Learning](http://arxiv.org/abs/2412.01420v2)** | 2024-12-19 | <details><summary>15 Pa...</summary><p>15 Pages, 13 Figures, Corrected data in Figure 5</p></details> |
 
