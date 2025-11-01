@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 31, 2025
+title: Latest 15 Papers - November 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Omnipresent Yet Overlooked: Heat Kernels in Combinatorial Bayesian Optimization](http://arxiv.org/abs/2510.26633v1)** | 2025-10-30 |  |
+| **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](http://arxiv.org/abs/2510.26501v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to the 24th International Conference on Pervasive Computing and Communications (PerCom 2026)</p></details> |
 | **[Graph Neural Architecture Search with GPT-4](http://arxiv.org/abs/2310.01436v3)** | 2025-10-26 |  |
 | **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](http://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
 | **[Towards Low-Latency and Adaptive Ransomware Detection Using Contrastive Learning](http://arxiv.org/abs/2510.21957v1)** | 2025-10-24 | <details><summary>This ...</summary><p>This paper was accepted in the 2025 IEEE International Conference on Computer Design (ICCD)</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[PlatformX: An End-to-End Transferable Platform for Energy-Efficient Neural Architecture Search](http://arxiv.org/abs/2510.08993v1)** | 2025-10-10 |  |
 | **[HiBBO: HiPPO-based Space Consistency for High-dimensional Bayesian Optimisation](http://arxiv.org/abs/2510.08965v1)** | 2025-10-10 |  |
 | **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v2)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings), Project Page: https://kaist-dmlab.github.io/MONAQ</p></details> |
-| **[Universal Neural Architecture Space: Covering ConvNets, Transformers and Everything in Between](http://arxiv.org/abs/2510.06035v1)** | 2025-10-07 |  |
-| **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](http://arxiv.org/abs/2510.05888v1)** | 2025-10-07 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DARTS: A Drone-Based AI-Powered Real-Time Traffic Incident Detection System](http://arxiv.org/abs/2510.26004v1)** | 2025-10-29 | <details><summary>Prepr...</summary><p>Preprint version. This manuscript is currently under review at Transportation Research Part C: Emerging Technologies. The PDF corresponds to the version submitted in June 2025. The main findings of this work were recognized with the Best Intelligent Transportation Systems Paper Award at the 2025 TRB Annual Meeting</p></details> |
 | **[DART: A Structured Dataset of Regulatory Drug Documents in Italian for Clinical NLP](http://arxiv.org/abs/2510.18475v1)** | 2025-10-21 |  |
 | **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models](http://arxiv.org/abs/2506.10390v3)** | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
 | **[DART: Distilling Autoregressive Reasoning to Silent Thought](http://arxiv.org/abs/2506.11752v2)** | 2025-08-28 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](http://arxiv.org/abs/2410.08159v2)** | 2025-01-23 | Accepted by ICLR2025 |
 | **[Iterative Encoding-Decoding VAEs Anomaly Detection in NOAA's DART Time Series: A Machine Learning Approach for Enhancing Data Integrity for NASA's GRACE-FO Verification and Validation](http://arxiv.org/abs/2412.16375v1)** | 2024-12-20 | Preprint |
 | **[DexHub and DART: Towards Internet Scale Robot Data Collection](http://arxiv.org/abs/2411.02214v1)** | 2024-11-04 | <details><summary>Visit...</summary><p>Visit https://dexhub.ai/project for more details</p></details> |
-| **[Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition](http://arxiv.org/abs/2409.11652v1)** | 2024-09-18 | <details><summary>Accep...</summary><p>Accepted By CCBR 2024</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
