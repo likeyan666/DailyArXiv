@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2025
+title: Latest 15 Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](http://arxiv.org/abs/2510.14336v1)** | 2025-10-16 |  |
+| **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](http://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
 | **[OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search](http://arxiv.org/abs/2509.05656v1)** | 2025-09-06 |  |
 | **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](http://arxiv.org/abs/2508.02148v2)** | 2025-08-25 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
 | **[Quantum Long Short-term Memory with Differentiable Architecture Search](http://arxiv.org/abs/2508.14955v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by the IEEE International Conference on Quantum Artificial Intelligence (QAI) 2025</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Elastic Architecture Search for Efficient Language Models](http://arxiv.org/abs/2510.27037v1)** | 2025-10-30 | ICME 2025 |
 | **[Omnipresent Yet Overlooked: Heat Kernels in Combinatorial Bayesian Optimization](http://arxiv.org/abs/2510.26633v1)** | 2025-10-30 |  |
 | **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](http://arxiv.org/abs/2510.26501v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to the 24th International Conference on Pervasive Computing and Communications (PerCom 2026)</p></details> |
 | **[Graph Neural Architecture Search with GPT-4](http://arxiv.org/abs/2310.01436v3)** | 2025-10-26 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search](http://arxiv.org/abs/2405.20725v4)** | 2025-10-11 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS) 2025</p></details> |
 | **[PlatformX: An End-to-End Transferable Platform for Energy-Efficient Neural Architecture Search](http://arxiv.org/abs/2510.08993v1)** | 2025-10-10 |  |
 | **[HiBBO: HiPPO-based Space Consistency for High-dimensional Bayesian Optimisation](http://arxiv.org/abs/2510.08965v1)** | 2025-10-10 |  |
-| **[MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices](http://arxiv.org/abs/2505.10607v2)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings), Project Page: https://kaist-dmlab.github.io/MONAQ</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
