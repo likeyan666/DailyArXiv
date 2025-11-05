@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2025
+title: Latest 15 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pareto-NRPA: A Novel Monte-Carlo Search Algorithm for Multi-Objective Optimization](http://arxiv.org/abs/2507.19109v3)** | 2025-11-02 | <details><summary>Accep...</summary><p>Accepted as a conference paper to ECAI 2025</p></details> |
 | **[Elastic Architecture Search for Efficient Language Models](http://arxiv.org/abs/2510.27037v1)** | 2025-10-30 | ICME 2025 |
 | **[Omnipresent Yet Overlooked: Heat Kernels in Combinatorial Bayesian Optimization](http://arxiv.org/abs/2510.26633v1)** | 2025-10-30 |  |
 | **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](http://arxiv.org/abs/2510.26501v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to the 24th International Conference on Pervasive Computing and Communications (PerCom 2026)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](http://arxiv.org/abs/2510.10232v1)** | 2025-10-11 |  |
 | **[GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search](http://arxiv.org/abs/2405.20725v4)** | 2025-10-11 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS) 2025</p></details> |
 | **[PlatformX: An End-to-End Transferable Platform for Energy-Efficient Neural Architecture Search](http://arxiv.org/abs/2510.08993v1)** | 2025-10-10 |  |
-| **[HiBBO: HiPPO-based Space Consistency for High-dimensional Bayesian Optimisation](http://arxiv.org/abs/2510.08965v1)** | 2025-10-10 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
