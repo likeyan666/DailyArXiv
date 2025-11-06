@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2025
+title: Latest 15 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,10 +26,12 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Explainable Graph Neural Architecture Search via Monte-Carlo Tree Search (Full version)](http://arxiv.org/abs/2308.15734v3)** | 2025-11-04 |  |
 | **[Pareto-NRPA: A Novel Monte-Carlo Search Algorithm for Multi-Objective Optimization](http://arxiv.org/abs/2507.19109v3)** | 2025-11-02 | <details><summary>Accep...</summary><p>Accepted as a conference paper to ECAI 2025</p></details> |
 | **[Elastic Architecture Search for Efficient Language Models](http://arxiv.org/abs/2510.27037v1)** | 2025-10-30 | ICME 2025 |
 | **[Omnipresent Yet Overlooked: Heat Kernels in Combinatorial Bayesian Optimization](http://arxiv.org/abs/2510.26633v1)** | 2025-10-30 |  |
 | **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](http://arxiv.org/abs/2510.26501v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to the 24th International Conference on Pervasive Computing and Communications (PerCom 2026)</p></details> |
+| **[Neural Architecture Search for global multi-step Forecasting of Energy Production Time Series](http://arxiv.org/abs/2511.00035v1)** | 2025-10-27 |  |
 | **[Graph Neural Architecture Search with GPT-4](http://arxiv.org/abs/2310.01436v3)** | 2025-10-26 |  |
 | **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](http://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
 | **[Towards Low-Latency and Adaptive Ransomware Detection Using Contrastive Learning](http://arxiv.org/abs/2510.21957v1)** | 2025-10-24 | <details><summary>This ...</summary><p>This paper was accepted in the 2025 IEEE International Conference on Computer Design (ICCD)</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Challenges and proposed solutions in modeling multimodal data: A systematic review](http://arxiv.org/abs/2505.06945v4)** | 2025-10-20 |  |
 | **[ELASTIC: Efficient Once For All Iterative Search for Object Detection on Microcontrollers](http://arxiv.org/abs/2503.21999v2)** | 2025-10-16 | 8 pages, 7 figures |
 | **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](http://arxiv.org/abs/2510.10232v1)** | 2025-10-11 |  |
-| **[GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search](http://arxiv.org/abs/2405.20725v4)** | 2025-10-11 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS) 2025</p></details> |
-| **[PlatformX: An End-to-End Transferable Platform for Energy-Efficient Neural Architecture Search](http://arxiv.org/abs/2510.08993v1)** | 2025-10-10 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](http://arxiv.org/abs/2511.01170v1)** | 2025-11-03 |  |
 | **[DARTS: A Drone-Based AI-Powered Real-Time Traffic Incident Detection System](http://arxiv.org/abs/2510.26004v1)** | 2025-10-29 | <details><summary>Prepr...</summary><p>Preprint version. This manuscript is currently under review at Transportation Research Part C: Emerging Technologies. The PDF corresponds to the version submitted in June 2025. The main findings of this work were recognized with the Best Intelligent Transportation Systems Paper Award at the 2025 TRB Annual Meeting</p></details> |
 | **[DART: A Structured Dataset of Regulatory Drug Documents in Italian for Clinical NLP](http://arxiv.org/abs/2510.18475v1)** | 2025-10-21 |  |
 | **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models](http://arxiv.org/abs/2506.10390v3)** | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: An AIGT Detector using AMR of Rephrased Text](http://arxiv.org/abs/2412.11517v2)** | 2025-02-04 | <details><summary>Prese...</summary><p>Presented in NAACL 2025</p></details> |
 | **[DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](http://arxiv.org/abs/2410.08159v2)** | 2025-01-23 | Accepted by ICLR2025 |
 | **[Iterative Encoding-Decoding VAEs Anomaly Detection in NOAA's DART Time Series: A Machine Learning Approach for Enhancing Data Integrity for NASA's GRACE-FO Verification and Validation](http://arxiv.org/abs/2412.16375v1)** | 2024-12-20 | Preprint |
-| **[DexHub and DART: Towards Internet Scale Robot Data Collection](http://arxiv.org/abs/2411.02214v1)** | 2024-11-04 | <details><summary>Visit...</summary><p>Visit https://dexhub.ai/project for more details</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
