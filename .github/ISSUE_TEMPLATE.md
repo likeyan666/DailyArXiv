@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2025
+title: Latest 15 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](http://arxiv.org/abs/2511.02992v1)** | 2025-11-04 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
 | **[Explainable Graph Neural Architecture Search via Monte-Carlo Tree Search (Full version)](http://arxiv.org/abs/2308.15734v3)** | 2025-11-04 |  |
 | **[Pareto-NRPA: A Novel Monte-Carlo Search Algorithm for Multi-Objective Optimization](http://arxiv.org/abs/2507.19109v3)** | 2025-11-02 | <details><summary>Accep...</summary><p>Accepted as a conference paper to ECAI 2025</p></details> |
 | **[Elastic Architecture Search for Efficient Language Models](http://arxiv.org/abs/2510.27037v1)** | 2025-10-30 | ICME 2025 |
@@ -40,7 +41,6 @@ labels: documentation
 | **[An Integrated Approach to Neural Architecture Search for Deep Q-Networks](http://arxiv.org/abs/2510.19872v1)** | 2025-10-22 |  |
 | **[Challenges and proposed solutions in modeling multimodal data: A systematic review](http://arxiv.org/abs/2505.06945v4)** | 2025-10-20 |  |
 | **[ELASTIC: Efficient Once For All Iterative Search for Object Detection on Microcontrollers](http://arxiv.org/abs/2503.21999v2)** | 2025-10-16 | 8 pages, 7 figures |
-| **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](http://arxiv.org/abs/2510.10232v1)** | 2025-10-11 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](http://arxiv.org/abs/2511.02992v1)** | 2025-11-04 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
 | **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](http://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
 | **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](http://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
 | **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](http://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Variation Matters: from Mitigating to Embracing Zero-Shot NAS Ranking Function Variation](http://arxiv.org/abs/2502.19657v1)** | 2025-02-27 |  |
 | **[Identification and Characterization for Disruptions in the U.S. National Airspace System (NAS)](http://arxiv.org/abs/2502.18687v1)** | 2025-02-25 | <details><summary>10 pa...</summary><p>10 pages, 13 Figures, submitted to ATRDS</p></details> |
 | **[NPB-Rust: NAS Parallel Benchmarks in Rust](http://arxiv.org/abs/2502.15536v1)** | 2025-02-21 |  |
-| **[Evaluating the Effectiveness of Mobile Game-Based Learning for Raising Adolescent Health Awareness: The Case of "AHlam Na 2.0"](http://arxiv.org/abs/2501.15047v1)** | 2025-01-25 | 10 pages |
 
