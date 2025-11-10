@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -34,13 +34,6 @@ labels: documentation
 | **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](http://arxiv.org/abs/2510.26501v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to the 24th International Conference on Pervasive Computing and Communications (PerCom 2026)</p></details> |
 | **[Neural Architecture Search for global multi-step Forecasting of Energy Production Time Series](http://arxiv.org/abs/2511.00035v1)** | 2025-10-27 |  |
 | **[Graph Neural Architecture Search with GPT-4](http://arxiv.org/abs/2310.01436v3)** | 2025-10-26 |  |
-| **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](http://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
-| **[Towards Low-Latency and Adaptive Ransomware Detection Using Contrastive Learning](http://arxiv.org/abs/2510.21957v1)** | 2025-10-24 | <details><summary>This ...</summary><p>This paper was accepted in the 2025 IEEE International Conference on Computer Design (ICCD)</p></details> |
-| **[Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach](http://arxiv.org/abs/2406.05088v2)** | 2025-10-23 |  |
-| **[Neural Attention Search](http://arxiv.org/abs/2502.13251v4)** | 2025-10-23 | 35 pages, 11 figures |
-| **[An Integrated Approach to Neural Architecture Search for Deep Q-Networks](http://arxiv.org/abs/2510.19872v1)** | 2025-10-22 |  |
-| **[Challenges and proposed solutions in modeling multimodal data: A systematic review](http://arxiv.org/abs/2505.06945v4)** | 2025-10-20 |  |
-| **[ELASTIC: Efficient Once For All Iterative Search for Object Detection on Microcontrollers](http://arxiv.org/abs/2503.21999v2)** | 2025-10-16 | 8 pages, 7 figures |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
