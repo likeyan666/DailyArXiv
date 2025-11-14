@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -32,14 +32,14 @@ labels: documentation
 | **[ReNAS:Relativistic Evaluation of Neural Architecture Search](https://arxiv.org/pdf/1910.01523v7)** | 2021-09-27 | CVPR 2021, Oral |
 | **[Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056v2)** | 2020-08-04 | <details><summary>To ap...</summary><p>To appear in ECCV 2020 as spotlight. Code release: https://github.com/facebookresearch/unnas</p></details> |
 | **[Federated Neural Architecture Search](https://arxiv.org/pdf/2002.06352v5)** | 2022-07-07 |  |
-| **[Neural Architecture Search as Sparse Supernet](https://arxiv.org/pdf/2007.16112v2)** | 2021-04-01 | <details><summary>Accep...</summary><p>Accepted to AAAI 2021</p></details> |
 | **[Contrastive Neural Architecture Search with Neural Architecture Comparators](https://arxiv.org/pdf/2103.05471v2)** | 2021-04-07 | <details><summary>Accpe...</summary><p>Accpeted by CVPR 2021. The code is available at https://github.com/chenyaofo/CTNAS</p></details> |
+| **[Neural Architecture Search as Sparse Supernet](https://arxiv.org/pdf/2007.16112v2)** | 2021-04-01 | <details><summary>Accep...</summary><p>Accepted to AAAI 2021</p></details> |
 | **[Graph HyperNetworks for Neural Architecture Search](https://arxiv.org/pdf/1810.05749v3)** | 2020-12-21 | ICLR 2019 |
 | **[ADWPNAS: Architecture-Driven Weight Prediction for Neural Architecture Search](https://arxiv.org/pdf/2003.01335v1)** | 2020-03-04 |  |
 | **[Sub-Architecture Ensemble Pruning in Neural Architecture Search](https://arxiv.org/pdf/1910.00370v2)** | 2022-05-23 | <details><summary>Accep...</summary><p>Accepted by TNNLS. This work was done when the first author was a visiting research scholar at Texas A&M University</p></details> |
 | **[Task-Aware Neural Architecture Search](https://arxiv.org/pdf/2010.13962v3)** | 2021-03-17 |  |
-| **[Conceptual Expansion Neural Architecture Search (CENAS)](https://arxiv.org/pdf/2110.03144v1)** | 2021-10-08 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, ICCC 2021 Poster</p></details> |
 | **[Probabilistic Neural Architecture Search](https://arxiv.org/pdf/1902.05116v1)** | 2019-02-15 |  |
+| **[Conceptual Expansion Neural Architecture Search (CENAS)](https://arxiv.org/pdf/2110.03144v1)** | 2021-10-08 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, ICCC 2021 Poster</p></details> |
 | **[Binarized Neural Architecture Search](https://arxiv.org/pdf/1911.10862v2)** | 2020-02-12 |  |
 
 ## DARTS
@@ -52,8 +52,8 @@ labels: documentation
 | **[k-d Darts: Sampling by k-Dimensional Flat Searches](https://arxiv.org/pdf/1302.3917v1)** | 2014-02-12 | 19 pages 16 figures |
 | **[On the structure of (dart, odd hole)-free graphs](https://arxiv.org/pdf/2504.20422v1)** | 2025-04-30 |  |
 | **[DARTS+: Improved Differentiable Architecture Search with Early Stopping](https://arxiv.org/pdf/1909.06035v2)** | 2020-10-21 |  |
-| **[DARTS without a Validation Set: Optimizing the Marginal Likelihood](https://arxiv.org/pdf/2112.13023v1)** | 2021-12-28 | <details><summary>Prese...</summary><p>Presented at the 5th Workshop on Meta-Learning at NeurIPS 2021</p></details> |
 | **[DART: A Compact Platform For Autonomous Driving Research](https://arxiv.org/pdf/2402.07602v1)** | 2024-02-13 | 8 pages, 10 figures |
+| **[DARTS without a Validation Set: Optimizing the Marginal Likelihood](https://arxiv.org/pdf/2112.13023v1)** | 2021-12-28 | <details><summary>Prese...</summary><p>Presented at the 5th Workshop on Meta-Learning at NeurIPS 2021</p></details> |
 | **[Single-DARTS: Towards Stable Architecture Search](https://arxiv.org/pdf/2108.08128v1)** | 2021-08-19 | <details><summary>Accep...</summary><p>Accepted by ICCV 2021 NeurArch Workshp</p></details> |
 | **[$μ$DARTS: Model Uncertainty-Aware Differentiable Architecture Search](https://arxiv.org/pdf/2107.11500v2)** | 2022-09-13 | <details><summary>10 pa...</summary><p>10 pages, 7 Tables, 6 Figures, Accepted in IEEE ACCESS</p></details> |
 | **[MS-DARTS: Mean-Shift Based Differentiable Architecture Search](https://arxiv.org/pdf/2108.09996v4)** | 2022-03-10 | 14pages |
@@ -66,8 +66,8 @@ labels: documentation
 | --- | --- | --- |
 | **[GP-NAS-ensemble: a model for NAS Performance Prediction](https://arxiv.org/pdf/2301.09231v1)** | 2023-01-24 |  |
 | **[NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy](https://arxiv.org/pdf/2201.13396v2)** | 2022-02-14 | ICLR 2022 |
-| **[BOMP-NAS: Bayesian Optimization Mixed Precision NAS](https://arxiv.org/pdf/2301.11810v1)** | 2023-01-30 |  |
 | **[BRP-NAS: Prediction-based NAS using GCNs](https://arxiv.org/pdf/2007.08668v4)** | 2021-01-20 | <details><summary>Publi...</summary><p>Published at NeurIPS 2020</p></details> |
+| **[BOMP-NAS: Bayesian Optimization Mixed Precision NAS](https://arxiv.org/pdf/2301.11810v1)** | 2023-01-30 |  |
 | **[TND-NAS: Towards Non-differentiable Objectives in Progressive Differentiable NAS Framework](https://arxiv.org/pdf/2111.03892v4)** | 2023-07-04 |  |
 | **[Surrogate NAS Benchmarks: Going Beyond the Limited Search Spaces of Tabular NAS Benchmarks](https://arxiv.org/pdf/2008.09777v4)** | 2022-04-15 |  |
 | **[How Much Is Hidden in the NAS Benchmarks? Few-Shot Adaptation of a NAS Predictor](https://arxiv.org/pdf/2311.18451v1)** | 2023-12-01 |  |
