@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 18, 2025
+title: Latest 15 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks](https://arxiv.org/abs/2511.12097v1)** | 2025-11-15 |  |
 | **[Machine Learning-Guided Memory Optimization for DLRM Inference on Tiered Memory](https://arxiv.org/abs/2511.08568v1)** | 2025-11-11 |  |
 | **[Automated machine learning for physics-informed convolutional neural networks](https://arxiv.org/abs/2407.06151v2)** | 2025-11-10 |  |
 | **[MoSKA: Mixture of Shared KV Attention for Efficient Long-Sequence LLM Inference](https://arxiv.org/abs/2511.06010v1)** | 2025-11-08 | <details><summary>4 pag...</summary><p>4 pages, 5 figures, accepted for publication at IEEE Computer Architecture Letters (IEEE CAL), 2025</p></details> |
@@ -21,15 +22,16 @@ labels: documentation
 | **[Pretrained Hybrids with MAD Skills](https://arxiv.org/abs/2406.00894v2)** | 2025-09-30 | COLM 2025 |
 | **[DPFNAS: Differential Privacy-Enhanced Federated Neural Architecture Search for 6G Edge Intelligence](https://arxiv.org/abs/2509.23030v1)** | 2025-09-27 |  |
 | **[Principled Approximation Methods for Efficient and Scalable Deep Learning](https://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
-| **[APML: Adaptive Probabilistic Matching Loss for Robust 3D Point Cloud Reconstruction](https://arxiv.org/abs/2509.08104v1)** | 2025-09-09 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, conference, 7 tables, 15 formulas</p></details> |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Revisiting Long-Tailed Learning: Insights from an Architectural Perspective](https://arxiv.org/abs/2411.06098v4)** | 2025-11-16 | Accepted by CIKM2025 |
+| **[Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks](https://arxiv.org/abs/2511.12097v1)** | 2025-11-15 |  |
+| **[Heterogeneous Graph Neural Networks for Assumption-Based Argumentation](https://arxiv.org/abs/2511.08982v2)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted to AAAI2026. Version with Appendix</p></details> |
 | **[FAQNAS: FLOPs-aware Hybrid Quantum Neural Architecture Search using Genetic Algorithm](https://arxiv.org/abs/2511.10062v1)** | 2025-11-13 |  |
 | **[RF-DETR: Neural Architecture Search for Real-Time Detection Transformers](https://arxiv.org/abs/2511.09554v1)** | 2025-11-12 | <details><summary>Proje...</summary><p>Project Page: https://rfdetr.roboflow.com/</p></details> |
 | **[Distribution-Aware Tensor Decomposition for Compression of Convolutional Neural Networks](https://arxiv.org/abs/2511.04494v2)** | 2025-11-12 | <details><summary>Corre...</summary><p>Corrected typos in references</p></details> |
-| **[Heterogeneous Graph Neural Networks for Assumption-Based Argumentation](https://arxiv.org/abs/2511.08982v1)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted to AAAI2026. Version with Appendix</p></details> |
 | **[QIBONN: A Quantum-Inspired Bilevel Optimizer for Neural Networks on Tabular Classification](https://arxiv.org/abs/2511.08940v1)** | 2025-11-12 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 3 tables. Accepted at IEEE International Conference on Big Data 2025</p></details> |
 | **[SemanticForge: Repository-Level Code Generation through Semantic Knowledge Graphs and Constraint Satisfaction](https://arxiv.org/abs/2511.07584v1)** | 2025-11-10 |  |
 | **[HyCTAS: Multi-Objective Hybrid Convolution-Transformer Architecture Search for Real-Time Image Segmentation](https://arxiv.org/abs/2403.10413v3)** | 2025-11-10 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, published at Neurocomputing</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights](https://arxiv.org/abs/2406.16715v3)** | 2025-11-09 | <details><summary>30 pa...</summary><p>30 pages, Accepted by NeurIPS 2025 Datasets & Benchmarks Track</p></details> |
 | **[Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection](https://arxiv.org/abs/2402.02196v5)** | 2025-11-09 |  |
 | **[Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training](https://arxiv.org/abs/2511.06157v1)** | 2025-11-08 |  |
-| **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v1)** | 2025-11-04 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
-| **[Explainable Graph Neural Architecture Search via Monte-Carlo Tree Search (Full version)](https://arxiv.org/abs/2308.15734v3)** | 2025-11-04 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
