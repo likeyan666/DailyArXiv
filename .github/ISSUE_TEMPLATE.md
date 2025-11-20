@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering](https://arxiv.org/abs/2511.13998v1)** | 2025-11-17 | 54-pages |
+| **[QUASAR: An Evolutionary Algorithm to Accelerate High-Dimensional Optimization](https://arxiv.org/abs/2511.13843v1)** | 2025-11-17 | <details><summary>Sourc...</summary><p>Source code found at https://github.com/jgsoltes/hdim-opt</p></details> |
 | **[Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks](https://arxiv.org/abs/2511.12097v1)** | 2025-11-15 |  |
 | **[Machine Learning-Guided Memory Optimization for DLRM Inference on Tiered Memory](https://arxiv.org/abs/2511.08568v1)** | 2025-11-11 |  |
 | **[Automated machine learning for physics-informed convolutional neural networks](https://arxiv.org/abs/2407.06151v2)** | 2025-11-10 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](https://arxiv.org/abs/2506.03697v2)** | 2025-10-06 | 27 pages, 19 figures |
 | **[OneDSE: A Unified Microprocessor Metric Prediction and Design Space Exploration Framework](https://arxiv.org/abs/2505.03771v2)** | 2025-10-04 |  |
 | **[Pretrained Hybrids with MAD Skills](https://arxiv.org/abs/2406.00894v2)** | 2025-09-30 | COLM 2025 |
-| **[DPFNAS: Differential Privacy-Enhanced Federated Neural Architecture Search for 6G Edge Intelligence](https://arxiv.org/abs/2509.23030v1)** | 2025-09-27 |  |
-| **[Principled Approximation Methods for Efficient and Scalable Deep Learning](https://arxiv.org/abs/2509.00174v2)** | 2025-09-13 | PhD thesis |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space](https://arxiv.org/abs/2506.08270v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Big Data</p></details> |
 | **[Revisiting Long-Tailed Learning: Insights from an Architectural Perspective](https://arxiv.org/abs/2411.06098v4)** | 2025-11-16 | Accepted by CIKM2025 |
 | **[Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks](https://arxiv.org/abs/2511.12097v1)** | 2025-11-15 |  |
 | **[Heterogeneous Graph Neural Networks for Assumption-Based Argumentation](https://arxiv.org/abs/2511.08982v2)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted to AAAI2026. Version with Appendix</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Automated machine learning for physics-informed convolutional neural networks](https://arxiv.org/abs/2407.06151v2)** | 2025-11-10 |  |
 | **[GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights](https://arxiv.org/abs/2406.16715v3)** | 2025-11-09 | <details><summary>30 pa...</summary><p>30 pages, Accepted by NeurIPS 2025 Datasets & Benchmarks Track</p></details> |
 | **[Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection](https://arxiv.org/abs/2402.02196v5)** | 2025-11-09 |  |
-| **[Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training](https://arxiv.org/abs/2511.06157v1)** | 2025-11-08 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Darts Analysis](https://arxiv.org/abs/2511.14537v1)** | 2025-11-18 | 16 pages, 8 figures |
 | **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v1)** | 2025-11-03 |  |
 | **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
 | **[DARTS: A Drone-Based AI-Powered Real-Time Traffic Incident Detection System](https://arxiv.org/abs/2510.26004v1)** | 2025-10-29 | <details><summary>Prepr...</summary><p>Preprint version. This manuscript is currently under review at Transportation Research Part C: Emerging Technologies. The PDF corresponds to the version submitted in June 2025. The main findings of this work were recognized with the Best Intelligent Transportation Systems Paper Award at the 2025 TRB Annual Meeting</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART$^3$: Leveraging Distance for Test Time Adaptation in Person Re-Identification](https://arxiv.org/abs/2505.18337v1)** | 2025-05-23 |  |
 | **[On the structure of (dart, odd hole)-free graphs](https://arxiv.org/abs/2504.20422v1)** | 2025-04-29 |  |
 | **[Design, Contact Modeling, and Collision-inclusive Planning of a Dual-stiffness Aerial RoboT (DART)](https://arxiv.org/abs/2504.18780v1)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICRA 2025</p></details> |
-| **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](https://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
