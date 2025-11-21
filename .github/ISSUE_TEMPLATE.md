@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 20, 2025
+title: Latest 15 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VeriFlow: Modeling Distributions for Neural Network Verification](https://arxiv.org/abs/2406.14265v3)** | 2025-11-19 |  |
+| **[Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training](https://arxiv.org/abs/2511.06157v2)** | 2025-11-19 |  |
 | **[SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space](https://arxiv.org/abs/2506.08270v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Big Data</p></details> |
 | **[Revisiting Long-Tailed Learning: Insights from an Architectural Perspective](https://arxiv.org/abs/2411.06098v4)** | 2025-11-16 | Accepted by CIKM2025 |
 | **[Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks](https://arxiv.org/abs/2511.12097v1)** | 2025-11-15 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Weight-Entanglement Meets Gradient-Based Neural Architecture Search](https://arxiv.org/abs/2312.10440v2)** | 2025-11-10 |  |
 | **[DeNAS-ViT: Data Efficient NAS-Optimized Vision Transformer for Ultrasound Image Segmentation](https://arxiv.org/abs/2407.04203v3)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Technical Track</p></details> |
 | **[Automated machine learning for physics-informed convolutional neural networks](https://arxiv.org/abs/2407.06151v2)** | 2025-11-10 |  |
-| **[GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights](https://arxiv.org/abs/2406.16715v3)** | 2025-11-09 | <details><summary>30 pa...</summary><p>30 pages, Accepted by NeurIPS 2025 Datasets & Benchmarks Track</p></details> |
-| **[Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection](https://arxiv.org/abs/2402.02196v5)** | 2025-11-09 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
