@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 24, 2025
+title: Latest 15 Papers - November 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[E$^3$-Pruner: Towards Efficient, Economical, and Effective Layer Pruning for Large Language Models](https://arxiv.org/abs/2511.17205v1)** | 2025-11-21 |  |
 | **[QUASAR: An Evolutionary Algorithm to Accelerate High-Dimensional Optimization](https://arxiv.org/abs/2511.13843v2)** | 2025-11-20 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Open-source package containing QUASAR is available on PyPI via 'pip install hdim_opt'; source code (with experiments) is also maintained on GitHub at [https://www.github.com/jgsoltes/hdim-opt]</p></details> |
 | **[LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering](https://arxiv.org/abs/2511.13998v1)** | 2025-11-17 | 54-pages |
 | **[Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks](https://arxiv.org/abs/2511.12097v1)** | 2025-11-15 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[LoMix: Learnable Weighted Multi-Scale Logits Mixing for Medical Image Segmentation](https://arxiv.org/abs/2510.22995v1)** | 2025-10-27 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, NeurIPS 2025 accepted paper</p></details> |
 | **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](https://arxiv.org/abs/2506.03697v2)** | 2025-10-06 | 27 pages, 19 figures |
 | **[OneDSE: A Unified Microprocessor Metric Prediction and Design Space Exploration Framework](https://arxiv.org/abs/2505.03771v2)** | 2025-10-04 |  |
-| **[Pretrained Hybrids with MAD Skills](https://arxiv.org/abs/2406.00894v2)** | 2025-09-30 | COLM 2025 |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
