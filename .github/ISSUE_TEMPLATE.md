@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tiny-TSM: Efficiently Training a Lightweight SOTA Time Series Foundation Model](https://arxiv.org/abs/2511.19272v1)** | 2025-11-24 |  |
+| **[Neural Architecture Search for Quantum Autoencoders](https://arxiv.org/abs/2511.19246v1)** | 2025-11-24 |  |
+| **[Learning Potential Energy Surfaces of Hydrogen Atom Transfer Reactions in Peptides](https://arxiv.org/abs/2508.00578v2)** | 2025-11-24 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, and 4 tables (references and SI included)</p></details> |
+| **[Octopus Inspired Optimization (OIO): A Hierarchical Framework for Navigating Protein Fitness Landscapes](https://arxiv.org/abs/2410.07968v4)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2025 (HP4MoDa), 8 pages, 6 figures</p></details> |
+| **[Comprehensive Design Space Exploration for Tensorized Neural Network Hardware Accelerators](https://arxiv.org/abs/2511.17971v1)** | 2025-11-22 |  |
 | **[VeriFlow: Modeling Distributions for Neural Network Verification](https://arxiv.org/abs/2406.14265v3)** | 2025-11-19 |  |
 | **[Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training](https://arxiv.org/abs/2511.06157v2)** | 2025-11-19 |  |
 | **[SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space](https://arxiv.org/abs/2506.08270v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Big Data</p></details> |
@@ -36,11 +41,6 @@ labels: documentation
 | **[RF-DETR: Neural Architecture Search for Real-Time Detection Transformers](https://arxiv.org/abs/2511.09554v1)** | 2025-11-12 | <details><summary>Proje...</summary><p>Project Page: https://rfdetr.roboflow.com/</p></details> |
 | **[Distribution-Aware Tensor Decomposition for Compression of Convolutional Neural Networks](https://arxiv.org/abs/2511.04494v2)** | 2025-11-12 | <details><summary>Corre...</summary><p>Corrected typos in references</p></details> |
 | **[QIBONN: A Quantum-Inspired Bilevel Optimizer for Neural Networks on Tabular Classification](https://arxiv.org/abs/2511.08940v1)** | 2025-11-12 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 3 tables. Accepted at IEEE International Conference on Big Data 2025</p></details> |
-| **[SemanticForge: Repository-Level Code Generation through Semantic Knowledge Graphs and Constraint Satisfaction](https://arxiv.org/abs/2511.07584v1)** | 2025-11-10 |  |
-| **[HyCTAS: Multi-Objective Hybrid Convolution-Transformer Architecture Search for Real-Time Image Segmentation](https://arxiv.org/abs/2403.10413v3)** | 2025-11-10 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, published at Neurocomputing</p></details> |
-| **[Weight-Entanglement Meets Gradient-Based Neural Architecture Search](https://arxiv.org/abs/2312.10440v2)** | 2025-11-10 |  |
-| **[DeNAS-ViT: Data Efficient NAS-Optimized Vision Transformer for Ultrasound Image Segmentation](https://arxiv.org/abs/2407.04203v3)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Technical Track</p></details> |
-| **[Automated machine learning for physics-informed convolutional neural networks](https://arxiv.org/abs/2407.06151v2)** | 2025-11-10 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
