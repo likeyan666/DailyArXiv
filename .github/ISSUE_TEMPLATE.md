@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 27, 2025
+title: Latest 15 Papers - November 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automated Neural Architecture Design for Industrial Defect Detection](https://arxiv.org/abs/2510.06669v2)** | 2025-11-26 |  |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
 | **[NNGPT: Rethinking AutoML with Large Language Models](https://arxiv.org/abs/2511.20333v1)** | 2025-11-25 |  |
 | **[Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation](https://arxiv.org/abs/2511.20222v1)** | 2025-11-25 | <details><summary>11pag...</summary><p>11pages,5 figures,6 tables</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[VeriFlow: Modeling Distributions for Neural Network Verification](https://arxiv.org/abs/2406.14265v3)** | 2025-11-19 |  |
 | **[Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training](https://arxiv.org/abs/2511.06157v2)** | 2025-11-19 |  |
 | **[SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space](https://arxiv.org/abs/2506.08270v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Big Data</p></details> |
-| **[Revisiting Long-Tailed Learning: Insights from an Architectural Perspective](https://arxiv.org/abs/2411.06098v4)** | 2025-11-16 | Accepted by CIKM2025 |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
