@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 02, 2025
+title: Latest 15 Papers - December 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning](https://arxiv.org/abs/2512.01113v1)** | 2025-11-30 | <details><summary>31 pa...</summary><p>31 pages. Preprint, to appear in KDD'26</p></details> |
+| **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v1)** | 2025-11-29 |  |
+| **[A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond](https://arxiv.org/abs/2502.12048v3)** | 2025-11-28 |  |
 | **[Automated Neural Architecture Design for Industrial Defect Detection](https://arxiv.org/abs/2510.06669v2)** | 2025-11-26 |  |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
 | **[NNGPT: Rethinking AutoML with Large Language Models](https://arxiv.org/abs/2511.20333v1)** | 2025-11-25 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Neural Architecture Search for Quantum Autoencoders](https://arxiv.org/abs/2511.19246v1)** | 2025-11-24 |  |
 | **[Learning Potential Energy Surfaces of Hydrogen Atom Transfer Reactions in Peptides](https://arxiv.org/abs/2508.00578v2)** | 2025-11-24 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, and 4 tables (references and SI included)</p></details> |
 | **[Octopus Inspired Optimization (OIO): A Hierarchical Framework for Navigating Protein Fitness Landscapes](https://arxiv.org/abs/2410.07968v4)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2025 (HP4MoDa), 8 pages, 6 figures</p></details> |
-| **[VeriFlow: Modeling Distributions for Neural Network Verification](https://arxiv.org/abs/2406.14265v3)** | 2025-11-19 |  |
-| **[Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training](https://arxiv.org/abs/2511.06157v2)** | 2025-11-19 |  |
-| **[SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space](https://arxiv.org/abs/2506.08270v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Big Data</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
