@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 03, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,13 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v3)** | 2025-12-02 |  |
+| **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v2)** | 2025-12-02 |  |
+| **[Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks](https://arxiv.org/abs/2512.02459v1)** | 2025-12-02 |  |
+| **[Adversarial Robustness of Traffic Classification under Resource Constraints: Input Structure Matters](https://arxiv.org/abs/2512.02276v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Symposium on Networks, Computers and Communications (ISNCC)</p></details> |
+| **[Intrusion Detection on Resource-Constrained IoT Devices with Hardware-Aware ML and DL](https://arxiv.org/abs/2512.02272v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM). Recipient of the ETECOM 2025 Best Paper Award</p></details> |
+| **[On the Approximation of Phylogenetic Distance Functions by Artificial Neural Networks](https://arxiv.org/abs/2512.02223v1)** | 2025-12-01 | 10 pages |
 | **[Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning](https://arxiv.org/abs/2512.01113v1)** | 2025-11-30 | <details><summary>31 pa...</summary><p>31 pages. Preprint, to appear in KDD'26</p></details> |
-| **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v1)** | 2025-11-29 |  |
 | **[A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond](https://arxiv.org/abs/2502.12048v3)** | 2025-11-28 |  |
 | **[Automated Neural Architecture Design for Industrial Defect Detection](https://arxiv.org/abs/2510.06669v2)** | 2025-11-26 |  |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
@@ -36,11 +41,6 @@ labels: documentation
 | **[Searching Latent Program Spaces](https://arxiv.org/abs/2411.08706v3)** | 2025-11-25 | <details><summary>NeurI...</summary><p>NeurIPS 2025 spotlight. Code available at https://github.com/clement-bonnet/lpn</p></details> |
 | **[Comprehensive Design Space Exploration for Tensorized Neural Network Hardware Accelerators](https://arxiv.org/abs/2511.17971v2)** | 2025-11-25 |  |
 | **[Hyperparameter Optimization in Machine Learning](https://arxiv.org/abs/2410.22854v3)** | 2025-11-24 | <details><summary>https...</summary><p>https://www.nowpublishers.com/article/Details/MAL-088</p></details> |
-| **[Efficient Multi-Hop Question Answering over Knowledge Graphs via LLM Planning and Embedding-Guided Search](https://arxiv.org/abs/2511.19648v1)** | 2025-11-24 |  |
-| **[Tiny-TSM: Efficiently Training a Lightweight SOTA Time Series Foundation Model](https://arxiv.org/abs/2511.19272v1)** | 2025-11-24 |  |
-| **[Neural Architecture Search for Quantum Autoencoders](https://arxiv.org/abs/2511.19246v1)** | 2025-11-24 |  |
-| **[Learning Potential Energy Surfaces of Hydrogen Atom Transfer Reactions in Peptides](https://arxiv.org/abs/2508.00578v2)** | 2025-11-24 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, and 4 tables (references and SI included)</p></details> |
-| **[Octopus Inspired Optimization (OIO): A Hierarchical Framework for Navigating Protein Fitness Landscapes](https://arxiv.org/abs/2410.07968v4)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2025 (HP4MoDa), 8 pages, 6 figures</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,12 +64,12 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v3)** | 2025-12-02 |  |
 | **[DeNAS-ViT: Data Efficient NAS-Optimized Vision Transformer for Ultrasound Image Segmentation](https://arxiv.org/abs/2407.04203v3)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Technical Track</p></details> |
 | **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v1)** | 2025-11-04 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
 | **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](https://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
 | **[GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search](https://arxiv.org/abs/2405.20725v4)** | 2025-10-11 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS) 2025</p></details> |
 | **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](https://arxiv.org/abs/2510.05888v1)** | 2025-10-07 |  |
-| **[PEL-NAS: Search Space Partitioned Architecture Prompt Co-Evolutionary LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v2)** | 2025-10-04 |  |
 | **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](https://arxiv.org/abs/2509.26037v1)** | 2025-09-30 |  |
 | **[RAM-NAS: Resource-aware Multiobjective Neural Architecture Search Method for Robot Vision Tasks](https://arxiv.org/abs/2509.20688v1)** | 2025-09-25 | <details><summary>Joint...</summary><p>Joint first authors: Shouren Mao and Minghao Qin. Published in IEEE/RSJ IROS 2024. This arXiv version adds a joint first-authorship note to correct an omission in the IEEE Xplore version. No technical changes. Please cite the IEEE version</p></details> |
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](https://arxiv.org/abs/2504.21254v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by *Knowledge-Based Systems* (Elsevier), 2025. DOI: https://doi.org/10.1016/j.knosys.2025.114235</p></details> |
