@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 04, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Idea-Gated Transformers: Enforcing Semantic Coherence via Differentiable Vocabulary Pruning](https://arxiv.org/abs/2512.03343v1)** | 2025-12-03 | <details><summary>Code ...</summary><p>Code available at https://github.com/DarshanFofadiya/idea-gated-transformers/tree/main</p></details> |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
 | **[E$^3$-Pruner: Towards Efficient, Economical, and Effective Layer Pruning for Large Language Models](https://arxiv.org/abs/2511.17205v1)** | 2025-11-21 |  |
 | **[QUASAR: An Evolutionary Algorithm to Accelerate High-Dimensional Optimization](https://arxiv.org/abs/2511.13843v2)** | 2025-11-20 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Open-source package containing QUASAR is available on PyPI via 'pip install hdim_opt'; source code (with experiments) is also maintained on GitHub at [https://www.github.com/jgsoltes/hdim-opt]</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
 | **[Riemannian-Geometric Fingerprints of Generative Models](https://arxiv.org/abs/2506.22802v2)** | 2025-10-28 | <details><summary>ICCV ...</summary><p>ICCV 2025 Highlight paper</p></details> |
 | **[LoMix: Learnable Weighted Multi-Scale Logits Mixing for Medical Image Segmentation](https://arxiv.org/abs/2510.22995v1)** | 2025-10-27 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, NeurIPS 2025 accepted paper</p></details> |
-| **[RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations](https://arxiv.org/abs/2506.03697v2)** | 2025-10-06 | 27 pages, 19 figures |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerating shape optimization by deep neural networks with on-the-fly determined architecture](https://arxiv.org/abs/2512.03555v1)** | 2025-12-03 | <details><summary>Initi...</summary><p>Initial submitted manuscript version</p></details> |
+| **[NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation](https://arxiv.org/abs/2512.03499v1)** | 2025-12-03 |  |
 | **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v3)** | 2025-12-02 |  |
 | **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v2)** | 2025-12-02 |  |
 | **[Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks](https://arxiv.org/abs/2512.02459v1)** | 2025-12-02 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[NNGPT: Rethinking AutoML with Large Language Models](https://arxiv.org/abs/2511.20333v1)** | 2025-11-25 |  |
 | **[Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation](https://arxiv.org/abs/2511.20222v1)** | 2025-11-25 | <details><summary>11pag...</summary><p>11pages,5 figures,6 tables</p></details> |
 | **[Searching Latent Program Spaces](https://arxiv.org/abs/2411.08706v3)** | 2025-11-25 | <details><summary>NeurI...</summary><p>NeurIPS 2025 spotlight. Code available at https://github.com/clement-bonnet/lpn</p></details> |
-| **[Comprehensive Design Space Exploration for Tensorized Neural Network Hardware Accelerators](https://arxiv.org/abs/2511.17971v2)** | 2025-11-25 |  |
-| **[Hyperparameter Optimization in Machine Learning](https://arxiv.org/abs/2410.22854v3)** | 2025-11-24 | <details><summary>https...</summary><p>https://www.nowpublishers.com/article/Details/MAL-088</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation](https://arxiv.org/abs/2512.03499v1)** | 2025-12-03 |  |
 | **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v3)** | 2025-12-02 |  |
 | **[DeNAS-ViT: Data Efficient NAS-Optimized Vision Transformer for Ultrasound Image Segmentation](https://arxiv.org/abs/2407.04203v3)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Technical Track</p></details> |
 | **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v1)** | 2025-11-04 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[SAR-NAS: Lightweight SAR Object Detection with Neural Architecture Search](https://arxiv.org/abs/2509.01279v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 | **[LangVision-LoRA-NAS: Neural Architecture Search for Variable LoRA Rank in Vision Language Models](https://arxiv.org/abs/2508.12512v1)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted by ICIP 2025 Conference</p></details> |
 | **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](https://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
-| **[FPG-NAS: FLOPs-Aware Gated Differentiable Neural Architecture Search for Efficient 6DoF Pose Estimation](https://arxiv.org/abs/2508.03618v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to the 27th IEEE International Workshop on Multimedia Signal Processing (MMSP) 2025</p></details> |
 
