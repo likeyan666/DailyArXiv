@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evolutionary Architecture Search through Grammar-Based Sequence Alignment](https://arxiv.org/abs/2512.04992v1)** | 2025-12-04 |  |
+| **[Hardware-aware Neural Architecture Search of Early Exiting Networks on Edge Accelerators](https://arxiv.org/abs/2512.04705v1)** | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
+| **[A Retrieval-Augmented Generation Approach to Extracting Algorithmic Logic from Neural Networks](https://arxiv.org/abs/2512.04329v1)** | 2025-12-03 |  |
 | **[Accelerating shape optimization by deep neural networks with on-the-fly determined architecture](https://arxiv.org/abs/2512.03555v1)** | 2025-12-03 | <details><summary>Initi...</summary><p>Initial submitted manuscript version</p></details> |
 | **[NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation](https://arxiv.org/abs/2512.03499v1)** | 2025-12-03 |  |
 | **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v3)** | 2025-12-02 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond](https://arxiv.org/abs/2502.12048v3)** | 2025-11-28 |  |
 | **[Automated Neural Architecture Design for Industrial Defect Detection](https://arxiv.org/abs/2510.06669v2)** | 2025-11-26 |  |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
-| **[NNGPT: Rethinking AutoML with Large Language Models](https://arxiv.org/abs/2511.20333v1)** | 2025-11-25 |  |
-| **[Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation](https://arxiv.org/abs/2511.20222v1)** | 2025-11-25 | <details><summary>11pag...</summary><p>11pages,5 figures,6 tables</p></details> |
-| **[Searching Latent Program Spaces](https://arxiv.org/abs/2411.08706v3)** | 2025-11-25 | <details><summary>NeurI...</summary><p>NeurIPS 2025 spotlight. Code available at https://github.com/clement-bonnet/lpn</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
