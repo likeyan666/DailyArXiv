@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Idea-Gated Transformers: Enforcing Semantic Coherence via Differentiable Vocabulary Pruning](https://arxiv.org/abs/2512.03343v1)** | 2025-12-03 | <details><summary>Code ...</summary><p>Code available at https://github.com/DarshanFofadiya/idea-gated-transformers/tree/main</p></details> |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
-| **[E$^3$-Pruner: Towards Efficient, Economical, and Effective Layer Pruning for Large Language Models](https://arxiv.org/abs/2511.17205v1)** | 2025-11-21 |  |
-| **[QUASAR: An Evolutionary Algorithm to Accelerate High-Dimensional Optimization](https://arxiv.org/abs/2511.13843v2)** | 2025-11-20 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Open-source package containing QUASAR is available on PyPI via 'pip install hdim_opt'; source code (with experiments) is also maintained on GitHub at [https://www.github.com/jgsoltes/hdim-opt]</p></details> |
-| **[LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering](https://arxiv.org/abs/2511.13998v1)** | 2025-11-17 | 54-pages |
-| **[Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks](https://arxiv.org/abs/2511.12097v1)** | 2025-11-15 |  |
-| **[Machine Learning-Guided Memory Optimization for DLRM Inference on Tiered Memory](https://arxiv.org/abs/2511.08568v1)** | 2025-11-11 |  |
-| **[Automated machine learning for physics-informed convolutional neural networks](https://arxiv.org/abs/2407.06151v2)** | 2025-11-10 |  |
-| **[MoSKA: Mixture of Shared KV Attention for Efficient Long-Sequence LLM Inference](https://arxiv.org/abs/2511.06010v1)** | 2025-11-08 | <details><summary>4 pag...</summary><p>4 pages, 5 figures, accepted for publication at IEEE Computer Architecture Letters (IEEE CAL), 2025</p></details> |
-| **[Flow matching for reaction pathway generation](https://arxiv.org/abs/2507.10530v4)** | 2025-11-05 | <details><summary>Updat...</summary><p>Updates from the previous version: fixed some typos of energy units. (Miswritten kcal/mol as eV several times in the previous version)</p></details> |
-| **[Design of quasi phase matching crystal based on differential gray wolf algorithm](https://arxiv.org/abs/2511.01255v1)** | 2025-11-03 |  |
-| **[Lares: LLM-driven Code Slice Semantic Search for Patch Presence Testing](https://arxiv.org/abs/2511.01252v1)** | 2025-11-03 |  |
 | **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
-| **[Riemannian-Geometric Fingerprints of Generative Models](https://arxiv.org/abs/2506.22802v2)** | 2025-10-28 | <details><summary>ICCV ...</summary><p>ICCV 2025 Highlight paper</p></details> |
-| **[LoMix: Learnable Weighted Multi-Scale Logits Mixing for Medical Image Segmentation](https://arxiv.org/abs/2510.22995v1)** | 2025-10-27 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, NeurIPS 2025 accepted paper</p></details> |
+| **[OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search](https://arxiv.org/abs/2509.05656v1)** | 2025-09-06 |  |
+| **[Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation](https://arxiv.org/abs/2508.02148v2)** | 2025-08-25 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 3 tables</p></details> |
+| **[Quantum Long Short-term Memory with Differentiable Architecture Search](https://arxiv.org/abs/2508.14955v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by the IEEE International Conference on Quantum Artificial Intelligence (QAI) 2025</p></details> |
+| **[MorphNAS: Differentiable Architecture Search for Morphologically-Aware Multilingual NER](https://arxiv.org/abs/2508.15836v1)** | 2025-08-19 |  |
+| **[RegimeNAS: Regime-Aware Differentiable Architecture Search With Theoretical Guarantees for Financial Trading](https://arxiv.org/abs/2508.11338v1)** | 2025-08-15 |  |
+| **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](https://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
+| **[DASViT: Differentiable Architecture Search for Vision Transformer](https://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
+| **[DNAD: Differentiable Neural Architecture Distillation](https://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
+| **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](https://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
+| **[Regularizing Differentiable Architecture Search with Smooth Activation](https://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
+| **[EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition](https://arxiv.org/abs/2409.14432v2)** | 2025-01-13 | <details><summary>Submi...</summary><p>Submited to IEEE Transactions on Instrumentation and Measurement</p></details> |
+| **[Adaptive Channel Allocation for Robust Differentiable Architecture Search](https://arxiv.org/abs/2204.04681v2)** | 2024-12-23 | Accepted by TNNLS |
+| **[Differentiable architecture search with multi-dimensional attention for spiking neural networks](https://arxiv.org/abs/2411.00902v1)** | 2024-11-01 |  |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
 | **[Evolutionary Architecture Search through Grammar-Based Sequence Alignment](https://arxiv.org/abs/2512.04992v1)** | 2025-12-04 |  |
 | **[Hardware-aware Neural Architecture Search of Early Exiting Networks on Edge Accelerators](https://arxiv.org/abs/2512.04705v1)** | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
-| **[A Retrieval-Augmented Generation Approach to Extracting Algorithmic Logic from Neural Networks](https://arxiv.org/abs/2512.04329v1)** | 2025-12-03 |  |
-| **[Accelerating shape optimization by deep neural networks with on-the-fly determined architecture](https://arxiv.org/abs/2512.03555v1)** | 2025-12-03 | <details><summary>Initi...</summary><p>Initial submitted manuscript version</p></details> |
 | **[NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation](https://arxiv.org/abs/2512.03499v1)** | 2025-12-03 |  |
-| **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v3)** | 2025-12-02 |  |
 | **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v2)** | 2025-12-02 |  |
 | **[Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks](https://arxiv.org/abs/2512.02459v1)** | 2025-12-02 |  |
 | **[Adversarial Robustness of Traffic Classification under Resource Constraints: Input Structure Matters](https://arxiv.org/abs/2512.02276v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Symposium on Networks, Computers and Communications (ISNCC)</p></details> |
 | **[Intrusion Detection on Resource-Constrained IoT Devices with Hardware-Aware ML and DL](https://arxiv.org/abs/2512.02272v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM). Recipient of the ETECOM 2025 Best Paper Award</p></details> |
-| **[On the Approximation of Phylogenetic Distance Functions by Artificial Neural Networks](https://arxiv.org/abs/2512.02223v1)** | 2025-12-01 | 10 pages |
-| **[Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning](https://arxiv.org/abs/2512.01113v1)** | 2025-11-30 | <details><summary>31 pa...</summary><p>31 pages. Preprint, to appear in KDD'26</p></details> |
-| **[A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond](https://arxiv.org/abs/2502.12048v3)** | 2025-11-28 |  |
-| **[Automated Neural Architecture Design for Industrial Defect Detection](https://arxiv.org/abs/2510.06669v2)** | 2025-11-26 |  |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
+| **[Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation](https://arxiv.org/abs/2511.20222v1)** | 2025-11-25 | <details><summary>11pag...</summary><p>11pages,5 figures,6 tables</p></details> |
+| **[Hyperparameter Optimization in Machine Learning](https://arxiv.org/abs/2410.22854v3)** | 2025-11-24 | <details><summary>https...</summary><p>https://www.nowpublishers.com/article/Details/MAL-088</p></details> |
+| **[Tiny-TSM: Efficiently Training a Lightweight SOTA Time Series Foundation Model](https://arxiv.org/abs/2511.19272v1)** | 2025-11-24 |  |
+| **[Neural Architecture Search for Quantum Autoencoders](https://arxiv.org/abs/2511.19246v1)** | 2025-11-24 |  |
+| **[Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training](https://arxiv.org/abs/2511.06157v2)** | 2025-11-19 |  |
+| **[SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space](https://arxiv.org/abs/2506.08270v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Big Data</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,8 +64,8 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
 | **[NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation](https://arxiv.org/abs/2512.03499v1)** | 2025-12-03 |  |
-| **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v3)** | 2025-12-02 |  |
 | **[DeNAS-ViT: Data Efficient NAS-Optimized Vision Transformer for Ultrasound Image Segmentation](https://arxiv.org/abs/2407.04203v3)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Technical Track</p></details> |
 | **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v1)** | 2025-11-04 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
 | **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](https://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
