@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 09, 2025
+title: Latest 15 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding](https://arxiv.org/abs/2512.06982v1)** | 2025-12-07 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning</p></details> |
+| **[Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- AutoML from Basics to State-of-the-Art Techniques](https://arxiv.org/abs/2410.09596v3)** | 2025-12-07 | <details><summary>This ...</summary><p>This book contains 169 pages and 5 figures</p></details> |
 | **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
 | **[Evolutionary Architecture Search through Grammar-Based Sequence Alignment](https://arxiv.org/abs/2512.04992v1)** | 2025-12-04 |  |
 | **[Hardware-aware Neural Architecture Search of Early Exiting Networks on Edge Accelerators](https://arxiv.org/abs/2512.04705v1)** | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Hyperparameter Optimization in Machine Learning](https://arxiv.org/abs/2410.22854v3)** | 2025-11-24 | <details><summary>https...</summary><p>https://www.nowpublishers.com/article/Details/MAL-088</p></details> |
 | **[Tiny-TSM: Efficiently Training a Lightweight SOTA Time Series Foundation Model](https://arxiv.org/abs/2511.19272v1)** | 2025-11-24 |  |
 | **[Neural Architecture Search for Quantum Autoencoders](https://arxiv.org/abs/2511.19246v1)** | 2025-11-24 |  |
-| **[Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training](https://arxiv.org/abs/2511.06157v2)** | 2025-11-19 |  |
-| **[SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space](https://arxiv.org/abs/2506.08270v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE International Conference on Big Data</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning](https://arxiv.org/abs/2512.07132v1)** | 2025-12-08 | <details><summary>Code:...</summary><p>Code: https://github.com/nsivaku/dart</p></details> |
 | **[Darts Analysis](https://arxiv.org/abs/2511.14537v1)** | 2025-11-18 | 16 pages, 8 figures |
 | **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v1)** | 2025-11-03 |  |
 | **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART-Vetter: A Deep LeARning Tool for automatic triage of exoplanet candidates](https://arxiv.org/abs/2506.05556v1)** | 2025-06-05 | <details><summary>Numbe...</summary><p>Number of pages: 24, Number of figures: 8, Article accepted for publication in The Astronomical Journal on 2025-05-30</p></details> |
 | **[DART$^3$: Leveraging Distance for Test Time Adaptation in Person Re-Identification](https://arxiv.org/abs/2505.18337v1)** | 2025-05-23 |  |
 | **[On the structure of (dart, odd hole)-free graphs](https://arxiv.org/abs/2504.20422v1)** | 2025-04-29 |  |
-| **[Design, Contact Modeling, and Collision-inclusive Planning of a Dual-stiffness Aerial RoboT (DART)](https://arxiv.org/abs/2504.18780v1)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICRA 2025</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
