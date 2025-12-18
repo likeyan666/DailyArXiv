@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 17, 2025
+title: Latest 15 Papers - December 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,9 +45,10 @@ labels: documentation
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v2)** | 2025-12-16 |  |
+| **[DARTs: A Dual-Path Robust Framework for Anomaly Detection in High-Dimensional Multivariate Time Series](https://arxiv.org/abs/2512.13735v1)** | 2025-12-14 |  |
 | **[DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning](https://arxiv.org/abs/2512.07132v1)** | 2025-12-08 | <details><summary>Code:...</summary><p>Code: https://github.com/nsivaku/dart</p></details> |
 | **[Darts Analysis](https://arxiv.org/abs/2511.14537v1)** | 2025-11-18 | 16 pages, 8 figures |
-| **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v1)** | 2025-11-03 |  |
 | **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
 | **[DARTS: A Drone-Based AI-Powered Real-Time Traffic Incident Detection System](https://arxiv.org/abs/2510.26004v1)** | 2025-10-29 | <details><summary>Prepr...</summary><p>Preprint version. This manuscript is currently under review at Transportation Research Part C: Emerging Technologies. The PDF corresponds to the version submitted in June 2025. The main findings of this work were recognized with the Best Intelligent Transportation Systems Paper Award at the 2025 TRB Annual Meeting</p></details> |
 | **[DART: A Structured Dataset of Regulatory Drug Documents in Italian for Clinical NLP](https://arxiv.org/abs/2510.18475v1)** | 2025-10-21 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](https://arxiv.org/abs/2407.09174v4)** | 2025-06-22 | <details><summary>Corre...</summary><p>Corrected minor typos; no changes to results or conclusions</p></details> |
 | **[DART-Vetter: A Deep LeARning Tool for automatic triage of exoplanet candidates](https://arxiv.org/abs/2506.05556v1)** | 2025-06-05 | <details><summary>Numbe...</summary><p>Number of pages: 24, Number of figures: 8, Article accepted for publication in The Astronomical Journal on 2025-05-30</p></details> |
 | **[DART$^3$: Leveraging Distance for Test Time Adaptation in Person Re-Identification](https://arxiv.org/abs/2505.18337v1)** | 2025-05-23 |  |
-| **[On the structure of (dart, odd hole)-free graphs](https://arxiv.org/abs/2504.20422v1)** | 2025-04-29 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
