@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 18, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,6 +31,7 @@ labels: documentation
 | **[LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding](https://arxiv.org/abs/2512.06982v2)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning</p></details> |
 | **[AEBNAS: Strengthening Exit Branches in Early-Exit Networks through Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2512.10671v1)** | 2025-12-11 |  |
 | **[Hard Work Does Not Always Pay Off: Poisoning Attacks on Neural Architecture Search](https://arxiv.org/abs/2405.06073v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at TMLR 2025.12</p></details> |
+| **[LLM as a Neural Architect: Controlled Generation of Image Captioning Models Under Strict API Contracts](https://arxiv.org/abs/2512.14706v1)** | 2025-12-07 |  |
 | **[Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- AutoML from Basics to State-of-the-Art Techniques](https://arxiv.org/abs/2410.09596v3)** | 2025-12-07 | <details><summary>This ...</summary><p>This book contains 169 pages and 5 figures</p></details> |
 | **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
 | **[Evolutionary Architecture Search through Grammar-Based Sequence Alignment](https://arxiv.org/abs/2512.04992v1)** | 2025-12-04 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks](https://arxiv.org/abs/2512.02459v1)** | 2025-12-02 |  |
 | **[Adversarial Robustness of Traffic Classification under Resource Constraints: Input Structure Matters](https://arxiv.org/abs/2512.02276v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Symposium on Networks, Computers and Communications (ISNCC)</p></details> |
 | **[Intrusion Detection on Resource-Constrained IoT Devices with Hardware-Aware ML and DL](https://arxiv.org/abs/2512.02272v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM). Recipient of the ETECOM 2025 Best Paper Award</p></details> |
-| **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
