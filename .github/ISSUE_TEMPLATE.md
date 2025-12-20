@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 19, 2025
+title: Latest 15 Papers - December 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sequencing to Mitigate Catastrophic Forgetting in Continual Learning](https://arxiv.org/abs/2512.16871v1)** | 2025-12-18 | <details><summary>The M...</summary><p>The Manuscript is submitted for review under IEEE Transactions on Artificial intelligence</p></details> |
+| **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2512.15998v1)** | 2025-12-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Machine Learning and the Physical Sciences Workshop, 8 pages, 4 figures, 3 tables</p></details> |
 | **[Cognitive-YOLO: LLM-Driven Architecture Synthesis from First Principles of Data for Object Detection](https://arxiv.org/abs/2512.12281v1)** | 2025-12-13 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 ttables</p></details> |
 | **[Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](https://arxiv.org/abs/2512.11130v1)** | 2025-12-11 |  |
 | **[LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding](https://arxiv.org/abs/2512.06982v2)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation](https://arxiv.org/abs/2512.03499v1)** | 2025-12-03 |  |
 | **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v2)** | 2025-12-02 |  |
 | **[Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks](https://arxiv.org/abs/2512.02459v1)** | 2025-12-02 |  |
-| **[Adversarial Robustness of Traffic Classification under Resource Constraints: Input Structure Matters](https://arxiv.org/abs/2512.02276v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Symposium on Networks, Computers and Communications (ISNCC)</p></details> |
-| **[Intrusion Detection on Resource-Constrained IoT Devices with Hardware-Aware ML and DL](https://arxiv.org/abs/2512.02272v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM). Recipient of the ETECOM 2025 Best Paper Award</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
