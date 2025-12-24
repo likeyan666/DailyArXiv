@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NA-DiD: Extending Difference-in-Differences with Capabilities](https://arxiv.org/abs/2507.12690v2)** | 2025-12-22 | <details><summary>I hav...</summary><p>I have received a reviews from a journal, and after reading them I came to the conclusion that this research does not meet novelty threshold for a paper I would like to put in public. I missed some references, which are more relevant to the problem I try to solve and offer a better solution</p></details> |
 | **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
 | **[NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation](https://arxiv.org/abs/2512.03499v1)** | 2025-12-03 |  |
 | **[DeNAS-ViT: Data Efficient NAS-Optimized Vision Transformer for Ultrasound Image Segmentation](https://arxiv.org/abs/2407.04203v3)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Technical Track</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search](https://arxiv.org/abs/2509.05656v1)** | 2025-09-06 |  |
 | **[SAR-NAS: Lightweight SAR Object Detection with Neural Architecture Search](https://arxiv.org/abs/2509.01279v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 | **[LangVision-LoRA-NAS: Neural Architecture Search for Variable LoRA Rank in Vision Language Models](https://arxiv.org/abs/2508.12512v1)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted by ICIP 2025 Conference</p></details> |
-| **[Learn to Explore: Meta NAS via Bayesian Optimization Guided Graph Generation](https://arxiv.org/abs/2508.09467v1)** | 2025-08-13 |  |
 
