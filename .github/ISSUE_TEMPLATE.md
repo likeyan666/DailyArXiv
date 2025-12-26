@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 25, 2025
+title: Latest 15 Papers - December 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection](https://arxiv.org/abs/2512.20746v1)** | 2025-12-23 | <details><summary>10 pa...</summary><p>10 pages. The paper has been accepted by the WACV 2026 workshop</p></details> |
 | **[Learning Informative Attention Weights for Person Re-Identification](https://arxiv.org/abs/2505.08961v2)** | 2025-12-23 |  |
 | **[Evolutionary Neural Architecture Search with Dual Contrastive Learning](https://arxiv.org/abs/2512.20112v1)** | 2025-12-23 | 26 pages |
 | **[Sequencing to Mitigate Catastrophic Forgetting in Continual Learning](https://arxiv.org/abs/2512.16871v1)** | 2025-12-18 | <details><summary>The M...</summary><p>The Manuscript is submitted for review under IEEE Transactions on Artificial intelligence</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- AutoML from Basics to State-of-the-Art Techniques](https://arxiv.org/abs/2410.09596v3)** | 2025-12-07 | <details><summary>This ...</summary><p>This book contains 169 pages and 5 figures</p></details> |
 | **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
 | **[Evolutionary Architecture Search through Grammar-Based Sequence Alignment](https://arxiv.org/abs/2512.04992v1)** | 2025-12-04 |  |
-| **[Hardware-aware Neural Architecture Search of Early Exiting Networks on Edge Accelerators](https://arxiv.org/abs/2512.04705v1)** | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Emerging Topics in Computing</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
