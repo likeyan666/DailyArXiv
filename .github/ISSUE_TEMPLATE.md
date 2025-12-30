@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Pairwise Comparison Relation-assisted Multi-objective Evolutionary Neural Architecture Search Method with Multi-population Mechanism](https://arxiv.org/abs/2407.15600v3)** | 2025-12-26 |  |
+| **[Discovering Sparse Recovery Algorithms Using Neural Architecture Search](https://arxiv.org/abs/2512.21563v1)** | 2025-12-25 | <details><summary>Prese...</summary><p>Presented at the 59th Asilomar Conference on Signals, Systems, and Computers</p></details> |
 | **[TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection](https://arxiv.org/abs/2512.20746v1)** | 2025-12-23 | <details><summary>10 pa...</summary><p>10 pages. The paper has been accepted by the WACV 2026 workshop</p></details> |
 | **[Learning Informative Attention Weights for Person Re-Identification](https://arxiv.org/abs/2505.08961v2)** | 2025-12-23 |  |
 | **[Evolutionary Neural Architecture Search with Dual Contrastive Learning](https://arxiv.org/abs/2512.20112v1)** | 2025-12-23 | 26 pages |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Hard Work Does Not Always Pay Off: Poisoning Attacks on Neural Architecture Search](https://arxiv.org/abs/2405.06073v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at TMLR 2025.12</p></details> |
 | **[LLM as a Neural Architect: Controlled Generation of Image Captioning Models Under Strict API Contracts](https://arxiv.org/abs/2512.14706v1)** | 2025-12-07 |  |
 | **[Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- AutoML from Basics to State-of-the-Art Techniques](https://arxiv.org/abs/2410.09596v3)** | 2025-12-07 | <details><summary>This ...</summary><p>This book contains 169 pages and 5 figures</p></details> |
-| **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
-| **[Evolutionary Architecture Search through Grammar-Based Sequence Alignment](https://arxiv.org/abs/2512.04992v1)** | 2025-12-04 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
