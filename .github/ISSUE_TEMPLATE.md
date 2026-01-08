@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Offline Model-Based Optimization: Comprehensive Review](https://arxiv.org/abs/2503.17286v2)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026 (Survey Certification)</p></details> |
 | **[Gibbs randomness-compression proposition: An efficient deep learning](https://arxiv.org/abs/2505.23869v3)** | 2026-01-05 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table, 1 algorithm, 1 theorem</p></details> |
 | **[A Pairwise Comparison Relation-assisted Multi-objective Evolutionary Neural Architecture Search Method with Multi-population Mechanism](https://arxiv.org/abs/2407.15600v4)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems. Published on https://ieeexplore.ieee.org/document/11321923</p></details> |
 | **[Self-Supervised Neural Architecture Search for Multimodal Deep Neural Networks](https://arxiv.org/abs/2512.24793v1)** | 2025-12-31 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Exploring Deep-to-Shallow Transformable Neural Networks for Intelligent Embedded Systems](https://arxiv.org/abs/2512.19731v1)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</p></details> |
 | **[Cognitive-YOLO: LLM-Driven Architecture Synthesis from First Principles of Data for Object Detection](https://arxiv.org/abs/2512.12281v1)** | 2025-12-13 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 ttables</p></details> |
 | **[Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](https://arxiv.org/abs/2512.11130v1)** | 2025-12-11 |  |
-| **[LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding](https://arxiv.org/abs/2512.06982v2)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
