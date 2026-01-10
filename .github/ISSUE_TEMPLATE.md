@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 09, 2026
+title: Latest 15 Papers - January 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective](https://arxiv.org/abs/2601.04918v1)** | 2026-01-08 | KDD2026, 15 pages |
+| **[FAQNAS: FLOPs-aware Hybrid Quantum Neural Architecture Search using Genetic Algorithm](https://arxiv.org/abs/2511.10062v2)** | 2026-01-08 |  |
 | **[Offline Model-Based Optimization: Comprehensive Review](https://arxiv.org/abs/2503.17286v2)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026 (Survey Certification)</p></details> |
 | **[Gibbs randomness-compression proposition: An efficient deep learning](https://arxiv.org/abs/2505.23869v3)** | 2026-01-05 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table, 1 algorithm, 1 theorem</p></details> |
 | **[Lightweight Transformer Architectures for Edge Devices in Real-Time Applications](https://arxiv.org/abs/2601.03290v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables. Comprehensive study of lightweight transformer architectures for edge computing with novel findings on memory-bandwidth tradeoffs, quantization strategies, and hardware-specific optimizations. Includes detailed benchmarks across NLP and vision tasks with practical deployment recommendations</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Evolutionary Neural Architecture Search with Dual Contrastive Learning](https://arxiv.org/abs/2512.20112v1)** | 2025-12-23 | 26 pages |
 | **[Sequencing to Mitigate Catastrophic Forgetting in Continual Learning](https://arxiv.org/abs/2512.16871v1)** | 2025-12-18 | <details><summary>The M...</summary><p>The Manuscript is submitted for review under IEEE Transactions on Artificial intelligence</p></details> |
 | **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2512.15998v1)** | 2025-12-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Machine Learning and the Physical Sciences Workshop, 8 pages, 4 figures, 3 tables</p></details> |
-| **[Exploring Deep-to-Shallow Transformable Neural Networks for Intelligent Embedded Systems](https://arxiv.org/abs/2512.19731v1)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</p></details> |
-| **[Cognitive-YOLO: LLM-Driven Architecture Synthesis from First Principles of Data for Object Detection](https://arxiv.org/abs/2512.12281v1)** | 2025-12-13 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 ttables</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
