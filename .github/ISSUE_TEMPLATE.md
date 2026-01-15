@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 14, 2026
+title: Latest 15 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Closed-Loop LLM Discovery of Non-Standard Channel Priors in Vision Models](https://arxiv.org/abs/2601.08517v1)** | 2026-01-13 |  |
 | **[Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective](https://arxiv.org/abs/2601.04918v1)** | 2026-01-08 | KDD2026, 15 pages |
 | **[FAQNAS: FLOPs-aware Hybrid Quantum Neural Architecture Search using Genetic Algorithm](https://arxiv.org/abs/2511.10062v2)** | 2026-01-08 |  |
 | **[Offline Model-Based Optimization: Comprehensive Review](https://arxiv.org/abs/2503.17286v2)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026 (Survey Certification)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Learning Informative Attention Weights for Person Re-Identification](https://arxiv.org/abs/2505.08961v2)** | 2025-12-23 |  |
 | **[Evolutionary Neural Architecture Search with Dual Contrastive Learning](https://arxiv.org/abs/2512.20112v1)** | 2025-12-23 | 26 pages |
 | **[Sequencing to Mitigate Catastrophic Forgetting in Continual Learning](https://arxiv.org/abs/2512.16871v1)** | 2025-12-18 | <details><summary>The M...</summary><p>The Manuscript is submitted for review under IEEE Transactions on Artificial intelligence</p></details> |
-| **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2512.15998v1)** | 2025-12-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Machine Learning and the Physical Sciences Workshop, 8 pages, 4 figures, 3 tables</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
