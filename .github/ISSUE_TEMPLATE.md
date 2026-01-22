@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mobile-friendly Image de-noising: Hardware Conscious Optimization for Edge Application](https://arxiv.org/abs/2601.11684v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
+| **[Distill-then-Replace: Efficient Task-Specific Hybrid Attention Model Construction](https://arxiv.org/abs/2601.11667v1)** | 2026-01-16 |  |
 | **[Closed-Loop LLM Discovery of Non-Standard Channel Priors in Vision Models](https://arxiv.org/abs/2601.08517v1)** | 2026-01-13 |  |
 | **[Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective](https://arxiv.org/abs/2601.04918v1)** | 2026-01-08 | KDD2026, 15 pages |
 | **[FAQNAS: FLOPs-aware Hybrid Quantum Neural Architecture Search using Genetic Algorithm](https://arxiv.org/abs/2511.10062v2)** | 2026-01-08 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Discovering Sparse Recovery Algorithms Using Neural Architecture Search](https://arxiv.org/abs/2512.21563v1)** | 2025-12-25 | <details><summary>Prese...</summary><p>Presented at the 59th Asilomar Conference on Signals, Systems, and Computers</p></details> |
 | **[TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection](https://arxiv.org/abs/2512.20746v1)** | 2025-12-23 | <details><summary>10 pa...</summary><p>10 pages. The paper has been accepted by the WACV 2026 workshop</p></details> |
 | **[Learning Informative Attention Weights for Person Re-Identification](https://arxiv.org/abs/2505.08961v2)** | 2025-12-23 |  |
-| **[Evolutionary Neural Architecture Search with Dual Contrastive Learning](https://arxiv.org/abs/2512.20112v1)** | 2025-12-23 | 26 pages |
-| **[Sequencing to Mitigate Catastrophic Forgetting in Continual Learning](https://arxiv.org/abs/2512.16871v1)** | 2025-12-18 | <details><summary>The M...</summary><p>The Manuscript is submitted for review under IEEE Transactions on Artificial intelligence</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
