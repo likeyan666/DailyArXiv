@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differentiable Architecture Search for Adversarially Robust Quantum Computer Vision](https://arxiv.org/abs/2601.18058v1)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published in Quantum Machine Intelligence</p></details> |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
 | **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
 | **[OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search](https://arxiv.org/abs/2509.05656v1)** | 2025-09-06 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](https://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 | **[EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition](https://arxiv.org/abs/2409.14432v2)** | 2025-01-13 | <details><summary>Submi...</summary><p>Submited to IEEE Transactions on Instrumentation and Measurement</p></details> |
 | **[Adaptive Channel Allocation for Robust Differentiable Architecture Search](https://arxiv.org/abs/2204.04681v2)** | 2024-12-23 | Accepted by TNNLS |
-| **[Differentiable architecture search with multi-dimensional attention for spiking neural networks](https://arxiv.org/abs/2411.00902v1)** | 2024-11-01 |  |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum Architecture Search with Unsupervised Representation Learning](https://arxiv.org/abs/2401.11576v6)** | 2026-01-25 | <details><summary>12 Pa...</summary><p>12 Pages, quantum architecture search, unsupervised representation learning</p></details> |
 | **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](https://arxiv.org/abs/2510.26501v2)** | 2026-01-23 | <details><summary>7 pag...</summary><p>7 pages, LaTeX; Accepted at the 5th IEEE Workshop on Pervasive and Resource-constrained Artificial Intelligence (PeRConAI) 2026; Shortened the text and removed Fig. 2 and Table II, results unchanged; updated faculty name of one author</p></details> |
 | **[DeepFedNAS: A Unified Framework for Principled, Hardware-Aware, and Predictor-Free Federated Neural Architecture Search](https://arxiv.org/abs/2601.15127v1)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
 | **[Mobile-friendly Image de-noising: Hardware Conscious Optimization for Edge Application](https://arxiv.org/abs/2601.11684v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Self-Supervised Neural Architecture Search for Multimodal Deep Neural Networks](https://arxiv.org/abs/2512.24793v1)** | 2025-12-31 |  |
 | **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v2)** | 2025-12-31 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
 | **[Enhancing LLM-Based Neural Network Generation: Few-Shot Prompting and Efficient Validation for Automated Architecture Design](https://arxiv.org/abs/2512.24120v1)** | 2025-12-30 |  |
-| **[Discovering Sparse Recovery Algorithms Using Neural Architecture Search](https://arxiv.org/abs/2512.21563v1)** | 2025-12-25 | <details><summary>Prese...</summary><p>Presented at the 59th Asilomar Conference on Signals, Systems, and Computers</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
