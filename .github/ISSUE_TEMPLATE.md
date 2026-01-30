@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[Differentiable Architecture Search for Adversarially Robust Quantum Computer Vision](https://arxiv.org/abs/2601.18058v1)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published in Quantum Machine Intelligence</p></details> |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
 | **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
@@ -21,14 +22,14 @@ labels: documentation
 | **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](https://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](https://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 | **[EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition](https://arxiv.org/abs/2409.14432v2)** | 2025-01-13 | <details><summary>Submi...</summary><p>Submited to IEEE Transactions on Instrumentation and Measurement</p></details> |
-| **[Adaptive Channel Allocation for Robust Differentiable Architecture Search](https://arxiv.org/abs/2204.04681v2)** | 2024-12-23 | Accepted by TNNLS |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
+| **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[Quantum Architecture Search with Unsupervised Representation Learning](https://arxiv.org/abs/2401.11576v6)** | 2026-01-25 | <details><summary>12 Pa...</summary><p>12 Pages, quantum architecture search, unsupervised representation learning</p></details> |
 | **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](https://arxiv.org/abs/2510.26501v2)** | 2026-01-23 | <details><summary>7 pag...</summary><p>7 pages, LaTeX; Accepted at the 5th IEEE Workshop on Pervasive and Resource-constrained Artificial Intelligence (PeRConAI) 2026; Shortened the text and removed Fig. 2 and Table II, results unchanged; updated faculty name of one author</p></details> |
-| **[DeepFedNAS: A Unified Framework for Principled, Hardware-Aware, and Predictor-Free Federated Neural Architecture Search](https://arxiv.org/abs/2601.15127v1)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
 | **[Mobile-friendly Image de-noising: Hardware Conscious Optimization for Edge Application](https://arxiv.org/abs/2601.11684v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
 | **[Distill-then-Replace: Efficient Task-Specific Hybrid Attention Model Construction](https://arxiv.org/abs/2601.11667v1)** | 2026-01-16 |  |
 | **[Closed-Loop LLM Discovery of Non-Standard Channel Priors in Vision Models](https://arxiv.org/abs/2601.08517v1)** | 2026-01-13 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[A Pairwise Comparison Relation-assisted Multi-objective Evolutionary Neural Architecture Search Method with Multi-population Mechanism](https://arxiv.org/abs/2407.15600v4)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems. Published on https://ieeexplore.ieee.org/document/11321923</p></details> |
 | **[Self-Supervised Neural Architecture Search for Multimodal Deep Neural Networks](https://arxiv.org/abs/2512.24793v1)** | 2025-12-31 |  |
 | **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v2)** | 2025-12-31 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
-| **[Enhancing LLM-Based Neural Network Generation: Few-Shot Prompting and Efficient Validation for Automated Architecture Design](https://arxiv.org/abs/2512.24120v1)** | 2025-12-30 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[NAS-GS: Noise-Aware Sonar Gaussian Splatting](https://arxiv.org/abs/2601.06285v1)** | 2026-01-09 |  |
 | **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v2)** | 2025-12-31 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
 | **[NA-DiD: Extending Difference-in-Differences with Capabilities](https://arxiv.org/abs/2507.12690v2)** | 2025-12-22 | <details><summary>I hav...</summary><p>I have received a reviews from a journal, and after reading them I came to the conclusion that this research does not meet novelty threshold for a paper I would like to put in public. I missed some references, which are more relevant to the problem I try to solve and offer a better solution</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](https://arxiv.org/abs/2504.21254v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by *Knowledge-Based Systems* (Elsevier), 2025. DOI: https://doi.org/10.1016/j.knosys.2025.114235</p></details> |
 | **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](https://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
 | **[OptiProxy-NAS: Optimization Proxy based End-to-End Neural Architecture Search](https://arxiv.org/abs/2509.05656v1)** | 2025-09-06 |  |
-| **[SAR-NAS: Lightweight SAR Object Detection with Neural Architecture Search](https://arxiv.org/abs/2509.01279v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 
