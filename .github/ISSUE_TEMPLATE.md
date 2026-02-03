@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 02, 2026
+title: Latest 15 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
 | **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
 | **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[Quantum Architecture Search with Unsupervised Representation Learning](https://arxiv.org/abs/2401.11576v6)** | 2026-01-25 | <details><summary>12 Pa...</summary><p>12 Pages, quantum architecture search, unsupervised representation learning</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Lightweight Transformer Architectures for Edge Devices in Real-Time Applications](https://arxiv.org/abs/2601.03290v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables. Comprehensive study of lightweight transformer architectures for edge computing with novel findings on memory-bandwidth tradeoffs, quantization strategies, and hardware-specific optimizations. Includes detailed benchmarks across NLP and vision tasks with practical deployment recommendations</p></details> |
 | **[A Pairwise Comparison Relation-assisted Multi-objective Evolutionary Neural Architecture Search Method with Multi-population Mechanism](https://arxiv.org/abs/2407.15600v4)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems. Published on https://ieeexplore.ieee.org/document/11321923</p></details> |
 | **[Self-Supervised Neural Architecture Search for Multimodal Deep Neural Networks](https://arxiv.org/abs/2512.24793v1)** | 2025-12-31 |  |
-| **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v2)** | 2025-12-31 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART-ing Through the Drift: Dynamic Tracing of Knowledge Neurons for Adaptive Inference-Time Pruning](https://arxiv.org/abs/2601.22632v1)** | 2026-01-30 |  |
 | **[DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference](https://arxiv.org/abs/2601.19278v1)** | 2026-01-27 |  |
 | **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v2)** | 2025-12-16 |  |
 | **[DARTs: A Dual-Path Robust Framework for Anomaly Detection in High-Dimensional Multivariate Time Series](https://arxiv.org/abs/2512.13735v1)** | 2025-12-14 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Dual Adaptive Refinement Transfer for Open-Vocabulary Multi-Label Recognition](https://arxiv.org/abs/2508.05585v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA](https://arxiv.org/abs/2412.05430v2)** | 2025-08-04 | <details><summary>NeurI...</summary><p>NeurIPS Datasets and Benchmarks 2024</p></details> |
 | **[DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](https://arxiv.org/abs/2407.09174v4)** | 2025-06-22 | <details><summary>Corre...</summary><p>Corrected minor typos; no changes to results or conclusions</p></details> |
-| **[DART-Vetter: A Deep LeARning Tool for automatic triage of exoplanet candidates](https://arxiv.org/abs/2506.05556v1)** | 2025-06-05 | <details><summary>Numbe...</summary><p>Number of pages: 24, Number of figures: 8, Article accepted for publication in The Astronomical Journal on 2025-05-30</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
