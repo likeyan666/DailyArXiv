@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RF-DETR: Neural Architecture Search for Real-Time Detection Transformers](https://arxiv.org/abs/2511.09554v2)** | 2026-02-03 | <details><summary>This ...</summary><p>This work has been accepted to the International Conference on Learning Representations (ICLR) 2026. Project Page: https://rfdetr.roboflow.com/</p></details> |
+| **[Child Mortality Prediction in Bangladesh: A Decade-Long Validation Study](https://arxiv.org/abs/2602.03957v1)** | 2026-02-03 |  |
 | **[TraceNAS: Zero-shot LLM Pruning via Gradient Trace Correlation](https://arxiv.org/abs/2602.02891v1)** | 2026-02-02 | Preprint |
 | **[Green-NAS: A Global-Scale Multi-Objective Neural Architecture Search for Robust and Efficient Edge-Native Weather Forecasting](https://arxiv.org/abs/2602.00240v1)** | 2026-01-30 |  |
 | **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective](https://arxiv.org/abs/2601.04918v1)** | 2026-01-08 | KDD2026, 15 pages |
 | **[FAQNAS: FLOPs-aware Hybrid Quantum Neural Architecture Search using Genetic Algorithm](https://arxiv.org/abs/2511.10062v2)** | 2026-01-08 |  |
 | **[Offline Model-Based Optimization: Comprehensive Review](https://arxiv.org/abs/2503.17286v2)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026 (Survey Certification)</p></details> |
-| **[Gibbs randomness-compression proposition: An efficient deep learning](https://arxiv.org/abs/2505.23869v3)** | 2026-01-05 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table, 1 algorithm, 1 theorem</p></details> |
-| **[Lightweight Transformer Architectures for Edge Devices in Real-Time Applications](https://arxiv.org/abs/2601.03290v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables. Comprehensive study of lightweight transformer architectures for edge computing with novel findings on memory-bandwidth tradeoffs, quantization strategies, and hardware-specific optimizations. Includes detailed benchmarks across NLP and vision tasks with practical deployment recommendations</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
