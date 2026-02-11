@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 08, 2026
+title: Latest 15 Papers - February 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multi-objective Evolutionary Algorithm Based on Bi-population with Uniform Sampling for Neural Architecture Search](https://arxiv.org/abs/2602.08513v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Neural Networks and Learning Systems. Published on this https URL: https://doi.org/10.1109/TNNLS.2026.3659508</p></details> |
 | **[RF-DETR: Neural Architecture Search for Real-Time Detection Transformers](https://arxiv.org/abs/2511.09554v2)** | 2026-02-03 | <details><summary>This ...</summary><p>This work has been accepted to the International Conference on Learning Representations (ICLR) 2026. Project Page: https://rfdetr.roboflow.com/</p></details> |
 | **[Child Mortality Prediction in Bangladesh: A Decade-Long Validation Study](https://arxiv.org/abs/2602.03957v1)** | 2026-02-03 |  |
 | **[TraceNAS: Zero-shot LLM Pruning via Gradient Trace Correlation](https://arxiv.org/abs/2602.02891v1)** | 2026-02-02 | Preprint |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Closed-Loop LLM Discovery of Non-Standard Channel Priors in Vision Models](https://arxiv.org/abs/2601.08517v1)** | 2026-01-13 |  |
 | **[Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective](https://arxiv.org/abs/2601.04918v1)** | 2026-01-08 | KDD2026, 15 pages |
 | **[FAQNAS: FLOPs-aware Hybrid Quantum Neural Architecture Search using Genetic Algorithm](https://arxiv.org/abs/2511.10062v2)** | 2026-01-08 |  |
-| **[Offline Model-Based Optimization: Comprehensive Review](https://arxiv.org/abs/2503.17286v2)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026 (Survey Certification)</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
