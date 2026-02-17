@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 16, 2026
+title: Latest 15 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection](https://arxiv.org/abs/2402.02196v6)** | 2026-02-13 |  |
+| **[Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback](https://arxiv.org/abs/2602.12612v1)** | 2026-02-13 |  |
 | **[Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration](https://arxiv.org/abs/2602.11937v1)** | 2026-02-12 |  |
 | **[Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design](https://arxiv.org/abs/2507.15336v2)** | 2026-02-11 | <details><summary>Title...</summary><p>Title changed from "Beyond Model Base Selection: Weaving Knowledge to Master Fine-grained Neural Network Design" to "Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design"</p></details> |
 | **[Automated Model Design using Gated Neuron Selection in Telecom](https://arxiv.org/abs/2602.10854v1)** | 2026-02-11 |  |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[Quantum Architecture Search with Unsupervised Representation Learning](https://arxiv.org/abs/2401.11576v6)** | 2026-01-25 | <details><summary>12 Pa...</summary><p>12 Pages, quantum architecture search, unsupervised representation learning</p></details> |
 | **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](https://arxiv.org/abs/2510.26501v2)** | 2026-01-23 | <details><summary>7 pag...</summary><p>7 pages, LaTeX; Accepted at the 5th IEEE Workshop on Pervasive and Resource-constrained Artificial Intelligence (PeRConAI) 2026; Shortened the text and removed Fig. 2 and Table II, results unchanged; updated faculty name of one author</p></details> |
-| **[Mobile-friendly Image de-noising: Hardware Conscious Optimization for Edge Application](https://arxiv.org/abs/2601.11684v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
-| **[Distill-then-Replace: Efficient Task-Specific Hybrid Attention Model Construction](https://arxiv.org/abs/2601.11667v1)** | 2026-01-16 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: aDaptive Accept RejecT for non-linear top-K subset identification](https://arxiv.org/abs/2011.07687v2)** | 2026-02-12 | <details><summary>exten...</summary><p>extended version of AAAI 2021 paper</p></details> |
 | **[DART-ing Through the Drift: Dynamic Tracing of Knowledge Neurons for Adaptive Inference-Time Pruning](https://arxiv.org/abs/2601.22632v1)** | 2026-01-30 |  |
 | **[DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference](https://arxiv.org/abs/2601.19278v1)** | 2026-01-27 |  |
 | **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v2)** | 2025-12-16 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Distilling Autoregressive Reasoning to Silent Thought](https://arxiv.org/abs/2506.11752v2)** | 2025-08-28 |  |
 | **[DART: Dual Adaptive Refinement Transfer for Open-Vocabulary Multi-Label Recognition](https://arxiv.org/abs/2508.05585v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA](https://arxiv.org/abs/2412.05430v2)** | 2025-08-04 | <details><summary>NeurI...</summary><p>NeurIPS Datasets and Benchmarks 2024</p></details> |
-| **[DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](https://arxiv.org/abs/2407.09174v4)** | 2025-06-22 | <details><summary>Corre...</summary><p>Corrected minor typos; no changes to results or conclusions</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
