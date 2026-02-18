@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Width Neural Networks](https://arxiv.org/abs/2501.15889v5)** | 2026-02-16 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR 2026)</p></details> |
 | **[Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection](https://arxiv.org/abs/2402.02196v6)** | 2026-02-13 |  |
 | **[Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback](https://arxiv.org/abs/2602.12612v1)** | 2026-02-13 |  |
 | **[Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration](https://arxiv.org/abs/2602.11937v1)** | 2026-02-12 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
 | **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[Quantum Architecture Search with Unsupervised Representation Learning](https://arxiv.org/abs/2401.11576v6)** | 2026-01-25 | <details><summary>12 Pa...</summary><p>12 Pages, quantum architecture search, unsupervised representation learning</p></details> |
-| **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](https://arxiv.org/abs/2510.26501v2)** | 2026-01-23 | <details><summary>7 pag...</summary><p>7 pages, LaTeX; Accepted at the 5th IEEE Workshop on Pervasive and Resource-constrained Artificial Intelligence (PeRConAI) 2026; Shortened the text and removed Fig. 2 and Table II, results unchanged; updated faculty name of one author</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
