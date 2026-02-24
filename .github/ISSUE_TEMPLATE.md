@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v1)** | 2026-02-06 |  |
 | **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[Differentiable Architecture Search for Adversarially Robust Quantum Computer Vision](https://arxiv.org/abs/2601.18058v1)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published in Quantum Machine Intelligence</p></details> |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[DNAD: Differentiable Neural Architecture Distillation](https://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
 | **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](https://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
 | **[Regularizing Differentiable Architecture Search with Smooth Activation](https://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
-| **[EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition](https://arxiv.org/abs/2409.14432v2)** | 2025-01-13 | <details><summary>Submi...</summary><p>Submited to IEEE Transactions on Instrumentation and Measurement</p></details> |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
@@ -34,13 +34,13 @@ labels: documentation
 | **[Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design](https://arxiv.org/abs/2507.15336v2)** | 2026-02-11 | <details><summary>Title...</summary><p>Title changed from "Beyond Model Base Selection: Weaving Knowledge to Master Fine-grained Neural Network Design" to "Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design"</p></details> |
 | **[Automated Model Design using Gated Neuron Selection in Telecom](https://arxiv.org/abs/2602.10854v1)** | 2026-02-11 |  |
 | **[A Multi-objective Evolutionary Algorithm Based on Bi-population with Uniform Sampling for Neural Architecture Search](https://arxiv.org/abs/2602.08513v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Neural Networks and Learning Systems. Published on this https URL: https://doi.org/10.1109/TNNLS.2026.3659508</p></details> |
+| **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v1)** | 2026-02-06 |  |
 | **[RF-DETR: Neural Architecture Search for Real-Time Detection Transformers](https://arxiv.org/abs/2511.09554v2)** | 2026-02-03 | <details><summary>This ...</summary><p>This work has been accepted to the International Conference on Learning Representations (ICLR) 2026. Project Page: https://rfdetr.roboflow.com/</p></details> |
 | **[Child Mortality Prediction in Bangladesh: A Decade-Long Validation Study](https://arxiv.org/abs/2602.03957v1)** | 2026-02-03 |  |
 | **[TraceNAS: Zero-shot LLM Pruning via Gradient Trace Correlation](https://arxiv.org/abs/2602.02891v1)** | 2026-02-02 | Preprint |
 | **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
 | **[Predictor-Free and Hardware-Aware Federated Neural Architecture Search via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v2)** | 2026-01-28 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work accepted at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
 | **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
-| **[Quantum Architecture Search with Unsupervised Representation Learning](https://arxiv.org/abs/2401.11576v6)** | 2026-01-25 | <details><summary>12 Pa...</summary><p>12 Pages, quantum architecture search, unsupervised representation learning</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
