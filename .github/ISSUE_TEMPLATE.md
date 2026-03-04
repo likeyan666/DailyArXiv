@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Search Multilayer Perceptron-Based Fusion for Efficient and Accurate Siamese Tracking](https://arxiv.org/abs/2603.01706v1)** | 2026-03-02 | <details><summary>23 pa...</summary><p>23 pages, 12 figures, 7 tables. This work was completed in 2024 and accepted for publication in IEEE TCDS (2026)</p></details> |
 | **[Optimizing Neural Network Architecture for Medical Image Segmentation Using Monte Carlo Tree Search](https://arxiv.org/abs/2602.22361v1)** | 2026-02-25 |  |
 | **[DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation](https://arxiv.org/abs/2602.19261v1)** | 2026-02-22 | <details><summary>Submi...</summary><p>Submitted to IJCNN 2026 (IEEE WCCI). 6 pages, 4 figures</p></details> |
+| **[SEval-NAS: A Search-Agnostic Evaluation for Neural Architecture Search](https://arxiv.org/abs/2603.00099v1)** | 2026-02-17 | <details><summary>To be...</summary><p>To be published in the Proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC26)</p></details> |
 | **[Green-NAS: A Global-Scale Multi-Objective Neural Architecture Search for Robust and Efficient Edge-Native Weather Forecasting](https://arxiv.org/abs/2602.00240v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking</p></details> |
 | **[Adaptive Width Neural Networks](https://arxiv.org/abs/2501.15889v5)** | 2026-02-16 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR 2026)</p></details> |
 | **[Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection](https://arxiv.org/abs/2402.02196v6)** | 2026-02-13 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v1)** | 2026-02-06 |  |
 | **[RF-DETR: Neural Architecture Search for Real-Time Detection Transformers](https://arxiv.org/abs/2511.09554v2)** | 2026-02-03 | <details><summary>This ...</summary><p>This work has been accepted to the International Conference on Learning Representations (ICLR) 2026. Project Page: https://rfdetr.roboflow.com/</p></details> |
 | **[Child Mortality Prediction in Bangladesh: A Decade-Long Validation Study](https://arxiv.org/abs/2602.03957v1)** | 2026-02-03 |  |
-| **[TraceNAS: Zero-shot LLM Pruning via Gradient Trace Correlation](https://arxiv.org/abs/2602.02891v1)** | 2026-02-02 | Preprint |
-| **[SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks](https://arxiv.org/abs/2601.22711v1)** | 2026-01-30 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SEval-NAS: A Search-Agnostic Evaluation for Neural Architecture Search](https://arxiv.org/abs/2603.00099v1)** | 2026-02-17 | <details><summary>To be...</summary><p>To be published in the Proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC26)</p></details> |
 | **[Green-NAS: A Global-Scale Multi-Objective Neural Architecture Search for Robust and Efficient Edge-Native Weather Forecasting](https://arxiv.org/abs/2602.00240v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking</p></details> |
 | **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[NAS-GS: Noise-Aware Sonar Gaussian Splatting](https://arxiv.org/abs/2601.06285v1)** | 2026-01-09 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](https://arxiv.org/abs/2509.26037v1)** | 2025-09-30 |  |
 | **[RAM-NAS: Resource-aware Multiobjective Neural Architecture Search Method for Robot Vision Tasks](https://arxiv.org/abs/2509.20688v1)** | 2025-09-25 | <details><summary>Joint...</summary><p>Joint first authors: Shouren Mao and Minghao Qin. Published in IEEE/RSJ IROS 2024. This arXiv version adds a joint first-authorship note to correct an omission in the IEEE Xplore version. No technical changes. Please cite the IEEE version</p></details> |
 | **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](https://arxiv.org/abs/2504.21254v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by *Knowledge-Based Systems* (Elsevier), 2025. DOI: https://doi.org/10.1016/j.knosys.2025.114235</p></details> |
-| **[HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](https://arxiv.org/abs/2509.18151v1)** | 2025-09-16 |  |
 
