@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 08, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPOILER: TEE-Shielded DNN Partitioning of On-Device Secure Inference with Poison Learning](https://arxiv.org/abs/2603.06263v1)** | 2026-03-06 | 17 pages |
 | **[InstMeter: An Instruction-Level Method to Predict Energy and Latency of DL Model Inference on MCUs](https://arxiv.org/abs/2603.04134v1)** | 2026-03-04 | 17 pages |
 | **[Search Multilayer Perceptron-Based Fusion for Efficient and Accurate Siamese Tracking](https://arxiv.org/abs/2603.01706v1)** | 2026-03-02 | <details><summary>23 pa...</summary><p>23 pages, 12 figures, 7 tables. This work was completed in 2024 and accepted for publication in IEEE TCDS (2026)</p></details> |
 | **[Optimizing Neural Network Architecture for Medical Image Segmentation Using Monte Carlo Tree Search](https://arxiv.org/abs/2602.22361v1)** | 2026-02-25 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Automated Model Design using Gated Neuron Selection in Telecom](https://arxiv.org/abs/2602.10854v1)** | 2026-02-11 |  |
 | **[A Multi-objective Evolutionary Algorithm Based on Bi-population with Uniform Sampling for Neural Architecture Search](https://arxiv.org/abs/2602.08513v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Neural Networks and Learning Systems. Published on this https URL: https://doi.org/10.1109/TNNLS.2026.3659508</p></details> |
 | **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v1)** | 2026-02-06 |  |
-| **[RF-DETR: Neural Architecture Search for Real-Time Detection Transformers](https://arxiv.org/abs/2511.09554v2)** | 2026-02-03 | <details><summary>This ...</summary><p>This work has been accepted to the International Conference on Learning Representations (ICLR) 2026. Project Page: https://rfdetr.roboflow.com/</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
