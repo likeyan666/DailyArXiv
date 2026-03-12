@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey of Weight Space Learning: Understanding, Representation, and Generation](https://arxiv.org/abs/2603.10090v1)** | 2026-03-10 |  |
 | **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v1)** | 2026-03-10 |  |
 | **[SPOILER: TEE-Shielded DNN Partitioning of On-Device Secure Inference with Poison Learning](https://arxiv.org/abs/2603.06263v1)** | 2026-03-06 | 17 pages |
 | **[InstMeter: An Instruction-Level Method to Predict Energy and Latency of DL Model Inference on MCUs](https://arxiv.org/abs/2603.04134v1)** | 2026-03-04 | 17 pages |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration](https://arxiv.org/abs/2602.11937v1)** | 2026-02-12 |  |
 | **[Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design](https://arxiv.org/abs/2507.15336v2)** | 2026-02-11 | <details><summary>Title...</summary><p>Title changed from "Beyond Model Base Selection: Weaving Knowledge to Master Fine-grained Neural Network Design" to "Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design"</p></details> |
 | **[Automated Model Design using Gated Neuron Selection in Telecom](https://arxiv.org/abs/2602.10854v1)** | 2026-02-11 |  |
-| **[A Multi-objective Evolutionary Algorithm Based on Bi-population with Uniform Sampling for Neural Architecture Search](https://arxiv.org/abs/2602.08513v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Neural Networks and Learning Systems. Published on this https URL: https://doi.org/10.1109/TNNLS.2026.3659508</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
