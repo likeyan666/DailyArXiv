@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2026
+title: Latest 15 Papers - March 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,12 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](https://arxiv.org/abs/2512.11130v2)** | 2026-03-17 |  |
+| **[Data-Local Autonomous LLM-Guided Neural Architecture Search for Multiclass Multimodal Time-Series Classification](https://arxiv.org/abs/2603.15939v1)** | 2026-03-16 |  |
+| **[PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units](https://arxiv.org/abs/2603.15106v1)** | 2026-03-16 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
+| **[Affordable Precision Agriculture: A Deployment-Oriented Review of Low-Cost, Low-Power Edge AI and TinyML for Resource-Constrained Farming Systems](https://arxiv.org/abs/2603.15085v1)** | 2026-03-16 |  |
+| **[On the Adversarial Transferability of Generalized "Skip Connections"](https://arxiv.org/abs/2410.08950v2)** | 2026-03-16 |  |
+| **[ELASTIC: Efficient Once For All Iterative Search for Object Detection on Microcontrollers](https://arxiv.org/abs/2503.21999v3)** | 2026-03-15 | 8 pages, 7 figures |
 | **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
 | **[A Survey of Weight Space Learning: Understanding, Representation, and Generation](https://arxiv.org/abs/2603.10090v1)** | 2026-03-10 |  |
 | **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v1)** | 2026-03-10 |  |
@@ -35,12 +41,6 @@ labels: documentation
 | **[Optimizing Neural Network Architecture for Medical Image Segmentation Using Monte Carlo Tree Search](https://arxiv.org/abs/2602.22361v1)** | 2026-02-25 |  |
 | **[DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation](https://arxiv.org/abs/2602.19261v1)** | 2026-02-22 | <details><summary>Submi...</summary><p>Submitted to IJCNN 2026 (IEEE WCCI). 6 pages, 4 figures</p></details> |
 | **[SEval-NAS: A Search-Agnostic Evaluation for Neural Architecture Search](https://arxiv.org/abs/2603.00099v1)** | 2026-02-17 | <details><summary>To be...</summary><p>To be published in the Proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC26)</p></details> |
-| **[Green-NAS: A Global-Scale Multi-Objective Neural Architecture Search for Robust and Efficient Edge-Native Weather Forecasting](https://arxiv.org/abs/2602.00240v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking</p></details> |
-| **[Adaptive Width Neural Networks](https://arxiv.org/abs/2501.15889v5)** | 2026-02-16 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection](https://arxiv.org/abs/2402.02196v6)** | 2026-02-13 |  |
-| **[Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback](https://arxiv.org/abs/2602.12612v1)** | 2026-02-13 |  |
-| **[Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration](https://arxiv.org/abs/2602.11937v1)** | 2026-02-12 |  |
-| **[Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design](https://arxiv.org/abs/2507.15336v2)** | 2026-02-11 | <details><summary>Title...</summary><p>Title changed from "Beyond Model Base Selection: Weaving Knowledge to Master Fine-grained Neural Network Design" to "Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design"</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
