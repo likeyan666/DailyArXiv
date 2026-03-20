@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2026
+title: Latest 15 Papers - March 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hardware-Aware Neural Architecture Search for Encrypted Traffic Classification on Resource-Constrained Devices](https://arxiv.org/abs/2506.11319v2)** | 2026-03-18 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Published in IEEE Transactions on Network and Service Management (2026)</p></details> |
+| **[Fast and Generalizable NeRF Architecture Selection for Satellite Scene Reconstruction](https://arxiv.org/abs/2603.18306v1)** | 2026-03-18 |  |
+| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](https://arxiv.org/abs/2505.01821v5)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by IEEE ComST. 45 pages, 13 figures, 10 tables</p></details> |
 | **[Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](https://arxiv.org/abs/2512.11130v2)** | 2026-03-17 |  |
 | **[Data-Local Autonomous LLM-Guided Neural Architecture Search for Multiclass Multimodal Time-Series Classification](https://arxiv.org/abs/2603.15939v1)** | 2026-03-16 |  |
 | **[PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units](https://arxiv.org/abs/2603.15106v1)** | 2026-03-16 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[SPOILER: TEE-Shielded DNN Partitioning of On-Device Secure Inference with Poison Learning](https://arxiv.org/abs/2603.06263v1)** | 2026-03-06 | 17 pages |
 | **[InstMeter: An Instruction-Level Method to Predict Energy and Latency of DL Model Inference on MCUs](https://arxiv.org/abs/2603.04134v1)** | 2026-03-04 | 17 pages |
 | **[Search Multilayer Perceptron-Based Fusion for Efficient and Accurate Siamese Tracking](https://arxiv.org/abs/2603.01706v1)** | 2026-03-02 | <details><summary>23 pa...</summary><p>23 pages, 12 figures, 7 tables. This work was completed in 2024 and accepted for publication in IEEE TCDS (2026)</p></details> |
-| **[Optimizing Neural Network Architecture for Medical Image Segmentation Using Monte Carlo Tree Search](https://arxiv.org/abs/2602.22361v1)** | 2026-02-25 |  |
-| **[DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation](https://arxiv.org/abs/2602.19261v1)** | 2026-02-22 | <details><summary>Submi...</summary><p>Submitted to IJCNN 2026 (IEEE WCCI). 6 pages, 4 figures</p></details> |
-| **[SEval-NAS: A Search-Agnostic Evaluation for Neural Architecture Search](https://arxiv.org/abs/2603.00099v1)** | 2026-02-17 | <details><summary>To be...</summary><p>To be published in the Proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC26)</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
