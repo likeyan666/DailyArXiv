@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development](https://arxiv.org/abs/2507.13785v2)** | 2026-03-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures. Published in Kibernetyka i Systemnyj Analiz (Cybernetics and Systems Analysis), vol. 62, no. 2, 2026. English translation by Springer Nature forthcoming. v2: Aligned with published version; corrected author email address</p></details> |
+| **[Weak-PDE-Net: Discovering Open-Form PDEs via Differentiable Symbolic Networks and Weak Formulation](https://arxiv.org/abs/2603.22951v1)** | 2026-03-24 |  |
 | **[AgenticRS-EnsNAS: Ensemble-Decoupled Self-Evolving Architecture Search](https://arxiv.org/abs/2603.20014v1)** | 2026-03-20 |  |
 | **[Dual-Domain Representation Alignment: Bridging 2D and 3D Vision via Geometry-Aware Architecture Search](https://arxiv.org/abs/2603.19563v1)** | 2026-03-20 |  |
 | **[Hardware-Aware Neural Architecture Search for Encrypted Traffic Classification on Resource-Constrained Devices](https://arxiv.org/abs/2506.11319v2)** | 2026-03-18 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Published in IEEE Transactions on Network and Service Management (2026)</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[ELASTIC: Efficient Once For All Iterative Search for Object Detection on Microcontrollers](https://arxiv.org/abs/2503.21999v3)** | 2026-03-15 | 8 pages, 7 figures |
 | **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
 | **[A Survey of Weight Space Learning: Understanding, Representation, and Generation](https://arxiv.org/abs/2603.10090v1)** | 2026-03-10 |  |
-| **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v1)** | 2026-03-10 |  |
-| **[SPOILER: TEE-Shielded DNN Partitioning of On-Device Secure Inference with Poison Learning](https://arxiv.org/abs/2603.06263v1)** | 2026-03-06 | 17 pages |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA](https://arxiv.org/abs/2412.05430v3)** | 2026-03-23 | <details><summary>NeurI...</summary><p>NeurIPS Datasets and Benchmarks 2024</p></details> |
 | **[DART: Input-Difficulty-AwaRe Adaptive Threshold for Early-Exit DNNs](https://arxiv.org/abs/2603.12269v1)** | 2026-02-17 |  |
 | **[DART: aDaptive Accept RejecT for non-linear top-K subset identification](https://arxiv.org/abs/2011.07687v2)** | 2026-02-12 | <details><summary>exten...</summary><p>extended version of AAAI 2021 paper</p></details> |
 | **[DART-ing Through the Drift: Dynamic Tracing of Knowledge Neurons for Adaptive Inference-Time Pruning](https://arxiv.org/abs/2601.22632v1)** | 2026-01-30 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models](https://arxiv.org/abs/2506.10390v3)** | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
 | **[Hi-DARTS: Hierarchical Dynamically Adapting Reinforcement Trading System](https://arxiv.org/abs/2509.12048v1)** | 2025-09-15 | <details><summary>Accep...</summary><p>Accepted paper at International Conference on ICT Convergence 2025</p></details> |
 | **[DART: Distilling Autoregressive Reasoning to Silent Thought](https://arxiv.org/abs/2506.11752v2)** | 2025-08-28 |  |
-| **[DART: Dual Adaptive Refinement Transfer for Open-Vocabulary Multi-Label Recognition](https://arxiv.org/abs/2508.05585v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
