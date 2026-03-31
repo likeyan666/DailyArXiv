@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 28, 2026
+title: Latest 15 Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration](https://arxiv.org/abs/2602.11937v2)** | 2026-03-26 |  |
 | **[Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search](https://arxiv.org/abs/2503.10404v3)** | 2026-03-24 | <details><summary>Publi...</summary><p>Published in the journal Machine Learning: Science and Technology - IOPscience</p></details> |
 | **[MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development](https://arxiv.org/abs/2507.13785v2)** | 2026-03-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures. Published in Kibernetyka i Systemnyj Analiz (Cybernetics and Systems Analysis), vol. 62, no. 2, 2026. English translation by Springer Nature forthcoming. v2: Aligned with published version; corrected author email address</p></details> |
 | **[Weak-PDE-Net: Discovering Open-Form PDEs via Differentiable Symbolic Networks and Weak Formulation](https://arxiv.org/abs/2603.22951v1)** | 2026-03-24 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Affordable Precision Agriculture: A Deployment-Oriented Review of Low-Cost, Low-Power Edge AI and TinyML for Resource-Constrained Farming Systems](https://arxiv.org/abs/2603.15085v1)** | 2026-03-16 |  |
 | **[On the Adversarial Transferability of Generalized "Skip Connections"](https://arxiv.org/abs/2410.08950v2)** | 2026-03-16 |  |
 | **[ELASTIC: Efficient Once For All Iterative Search for Object Detection on Microcontrollers](https://arxiv.org/abs/2503.21999v3)** | 2026-03-15 | 8 pages, 7 figures |
-| **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
