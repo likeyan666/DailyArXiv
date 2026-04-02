@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2026
+title: Latest 15 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CHEEM: Continual Learning by Reuse, New, Adapt and Skip -- A Hierarchical Exploration-Exploitation Approach](https://arxiv.org/abs/2303.08250v5)** | 2026-04-01 | CVPR 2026 |
+| **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
+| **[Hardware-Algorithm Co-Optimization of Early-Exit Neural Networks for Multi-Core Edge Accelerators](https://arxiv.org/abs/2512.04705v2)** | 2026-03-31 |  |
+| **[DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation](https://arxiv.org/abs/2602.19261v2)** | 2026-03-30 | <details><summary>Submi...</summary><p>Submitted to IJCNN 2026 (IEEE WCCI). 7 pages, 4 figures</p></details> |
+| **[GEAKG: Generative Executable Algorithm Knowledge Graphs](https://arxiv.org/abs/2603.27922v1)** | 2026-03-30 |  |
 | **[Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration](https://arxiv.org/abs/2602.11937v2)** | 2026-03-26 |  |
 | **[Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search](https://arxiv.org/abs/2503.10404v3)** | 2026-03-24 | <details><summary>Publi...</summary><p>Published in the journal Machine Learning: Science and Technology - IOPscience</p></details> |
 | **[MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development](https://arxiv.org/abs/2507.13785v2)** | 2026-03-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures. Published in Kibernetyka i Systemnyj Analiz (Cybernetics and Systems Analysis), vol. 62, no. 2, 2026. English translation by Springer Nature forthcoming. v2: Aligned with published version; corrected author email address</p></details> |
@@ -36,11 +41,6 @@ labels: documentation
 | **[Fast and Generalizable NeRF Architecture Selection for Satellite Scene Reconstruction](https://arxiv.org/abs/2603.18306v1)** | 2026-03-18 |  |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](https://arxiv.org/abs/2505.01821v5)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by IEEE ComST. 45 pages, 13 figures, 10 tables</p></details> |
 | **[Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](https://arxiv.org/abs/2512.11130v2)** | 2026-03-17 |  |
-| **[Data-Local Autonomous LLM-Guided Neural Architecture Search for Multiclass Multimodal Time-Series Classification](https://arxiv.org/abs/2603.15939v1)** | 2026-03-16 |  |
-| **[PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units](https://arxiv.org/abs/2603.15106v1)** | 2026-03-16 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
-| **[Affordable Precision Agriculture: A Deployment-Oriented Review of Low-Cost, Low-Power Edge AI and TinyML for Resource-Constrained Farming Systems](https://arxiv.org/abs/2603.15085v1)** | 2026-03-16 |  |
-| **[On the Adversarial Transferability of Generalized "Skip Connections"](https://arxiv.org/abs/2410.08950v2)** | 2026-03-16 |  |
-| **[ELASTIC: Efficient Once For All Iterative Search for Object Detection on Microcontrollers](https://arxiv.org/abs/2503.21999v3)** | 2026-03-15 | 8 pages, 7 figures |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
 | **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
 | **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v1)** | 2026-03-10 |  |
 | **[AI-Driven Phase Identification from X-ray Hyperspectral Imaging of cycled Na-ion Cathode Materials](https://arxiv.org/abs/2603.07666v1)** | 2026-03-08 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[DeNAS-ViT: Data Efficient NAS-Optimized Vision Transformer for Ultrasound Image Segmentation](https://arxiv.org/abs/2407.04203v3)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Technical Track</p></details> |
 | **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](https://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
 | **[GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search](https://arxiv.org/abs/2405.20725v4)** | 2025-10-11 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Information Forensics and Security (TIFS) 2025</p></details> |
-| **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](https://arxiv.org/abs/2510.05888v1)** | 2025-10-07 |  |
 
