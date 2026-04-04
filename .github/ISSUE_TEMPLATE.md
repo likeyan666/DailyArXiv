@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2026
+title: Latest 15 Papers - April 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLMs as Idiomatic Decompilers: Recovering High-Level Code from x86-64 Assembly for Dart](https://arxiv.org/abs/2604.02278v1)** | 2026-04-02 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Accepted at SANER 2026 ERA Track</p></details> |
+| **[Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling](https://arxiv.org/abs/2604.01130v2)** | 2026-04-02 |  |
 | **[DART: A Server-side Plug-in for Resource-efficient Robust Federated Learning](https://arxiv.org/abs/2508.17381v2)** | 2026-03-25 |  |
 | **[DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA](https://arxiv.org/abs/2412.05430v3)** | 2026-03-23 | <details><summary>NeurI...</summary><p>NeurIPS Datasets and Benchmarks 2024</p></details> |
 | **[DART: Input-Difficulty-AwaRe Adaptive Threshold for Early-Exit DNNs](https://arxiv.org/abs/2603.12269v1)** | 2026-02-17 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
 | **[DARTS: A Drone-Based AI-Powered Real-Time Traffic Incident Detection System](https://arxiv.org/abs/2510.26004v1)** | 2025-10-29 | <details><summary>Prepr...</summary><p>Preprint version. This manuscript is currently under review at Transportation Research Part C: Emerging Technologies. The PDF corresponds to the version submitted in June 2025. The main findings of this work were recognized with the Best Intelligent Transportation Systems Paper Award at the 2025 TRB Annual Meeting</p></details> |
 | **[DART: A Structured Dataset of Regulatory Drug Documents in Italian for Clinical NLP](https://arxiv.org/abs/2510.18475v1)** | 2025-10-21 |  |
-| **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models](https://arxiv.org/abs/2506.10390v3)** | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HCPLab-SYSU/DART</p></details> |
-| **[Hi-DARTS: Hierarchical Dynamically Adapting Reinforcement Trading System](https://arxiv.org/abs/2509.12048v1)** | 2025-09-15 | <details><summary>Accep...</summary><p>Accepted paper at International Conference on ICT Convergence 2025</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
