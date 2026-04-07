@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 06, 2026
+title: Latest 15 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Activity-Dependent Plasticity in Morphogenetically-Grown Recurrent Networks](https://arxiv.org/abs/2604.03386v1)** | 2026-04-03 | 7 pages, 6 figures |
 | **[CHEEM: Continual Learning by Reuse, New, Adapt and Skip -- A Hierarchical Exploration-Exploitation Approach](https://arxiv.org/abs/2303.08250v5)** | 2026-04-01 | CVPR 2026 |
 | **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
 | **[Hardware-Algorithm Co-Optimization of Early-Exit Neural Networks for Multi-Core Edge Accelerators](https://arxiv.org/abs/2512.04705v2)** | 2026-03-31 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Hardware-Aware Neural Architecture Search for Encrypted Traffic Classification on Resource-Constrained Devices](https://arxiv.org/abs/2506.11319v2)** | 2026-03-18 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Published in IEEE Transactions on Network and Service Management (2026)</p></details> |
 | **[Fast and Generalizable NeRF Architecture Selection for Satellite Scene Reconstruction](https://arxiv.org/abs/2603.18306v1)** | 2026-03-18 |  |
 | **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](https://arxiv.org/abs/2505.01821v5)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by IEEE ComST. 45 pages, 13 figures, 10 tables</p></details> |
-| **[Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](https://arxiv.org/abs/2512.11130v2)** | 2026-03-17 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
