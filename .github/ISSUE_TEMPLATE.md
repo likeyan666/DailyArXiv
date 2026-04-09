@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QNAS: A Neural Architecture Search Framework for Accurate and Efficient Quantum Neural Networks](https://arxiv.org/abs/2604.07013v1)** | 2026-04-08 | <details><summary>To ap...</summary><p>To appear at the IEEE International Joint Conference on Neural Networks (IJCNN), Maastricht, The Netherlands, June 2026</p></details> |
+| **[POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP](https://arxiv.org/abs/2604.06938v1)** | 2026-04-08 |  |
 | **[Activity-Dependent Plasticity in Morphogenetically-Grown Recurrent Networks](https://arxiv.org/abs/2604.03386v1)** | 2026-04-03 | 7 pages, 6 figures |
 | **[CHEEM: Continual Learning by Reuse, New, Adapt and Skip -- A Hierarchical Exploration-Exploitation Approach](https://arxiv.org/abs/2303.08250v5)** | 2026-04-01 | CVPR 2026 |
 | **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
@@ -39,14 +41,12 @@ labels: documentation
 | **[AgenticRS-EnsNAS: Ensemble-Decoupled Self-Evolving Architecture Search](https://arxiv.org/abs/2603.20014v1)** | 2026-03-20 |  |
 | **[Dual-Domain Representation Alignment: Bridging 2D and 3D Vision via Geometry-Aware Architecture Search](https://arxiv.org/abs/2603.19563v1)** | 2026-03-20 |  |
 | **[Hardware-Aware Neural Architecture Search for Encrypted Traffic Classification on Resource-Constrained Devices](https://arxiv.org/abs/2506.11319v2)** | 2026-03-18 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Published in IEEE Transactions on Network and Service Management (2026)</p></details> |
-| **[Fast and Generalizable NeRF Architecture Selection for Satellite Scene Reconstruction](https://arxiv.org/abs/2603.18306v1)** | 2026-03-18 |  |
-| **[Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey](https://arxiv.org/abs/2505.01821v5)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by IEEE ComST. 45 pages, 13 figures, 10 tables</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling](https://arxiv.org/abs/2604.01130v3)** | 2026-04-08 |  |
 | **[LLMs as Idiomatic Decompilers: Recovering High-Level Code from x86-64 Assembly for Dart](https://arxiv.org/abs/2604.02278v1)** | 2026-04-02 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Accepted at SANER 2026 ERA Track</p></details> |
-| **[Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling](https://arxiv.org/abs/2604.01130v2)** | 2026-04-02 |  |
 | **[DART: A Server-side Plug-in for Resource-efficient Robust Federated Learning](https://arxiv.org/abs/2508.17381v2)** | 2026-03-25 |  |
 | **[DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA](https://arxiv.org/abs/2412.05430v3)** | 2026-03-23 | <details><summary>NeurI...</summary><p>NeurIPS Datasets and Benchmarks 2024</p></details> |
 | **[DART: Input-Difficulty-AwaRe Adaptive Threshold for Early-Exit DNNs](https://arxiv.org/abs/2603.12269v1)** | 2026-02-17 |  |
