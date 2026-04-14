@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SatReg: Regression-based Neural Architecture Search for Lightweight Satellite Image Segmentation](https://arxiv.org/abs/2604.10306v1)** | 2026-04-11 |  |
+| **[Device-Conditioned Neural Architecture Search for Efficient Robotic Manipulation](https://arxiv.org/abs/2604.10170v1)** | 2026-04-11 | 17 pages, 4 figures |
+| **[End-to-end Automated Deep Neural Network Optimization for PPG-based Blood Pressure Estimation on Wearables](https://arxiv.org/abs/2604.10117v1)** | 2026-04-11 |  |
 | **[QNAS: A Neural Architecture Search Framework for Accurate and Efficient Quantum Neural Networks](https://arxiv.org/abs/2604.07013v1)** | 2026-04-08 | <details><summary>To ap...</summary><p>To appear at the IEEE International Joint Conference on Neural Networks (IJCNN), Maastricht, The Netherlands, June 2026</p></details> |
 | **[POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP](https://arxiv.org/abs/2604.06938v1)** | 2026-04-08 |  |
 | **[Activity-Dependent Plasticity in Morphogenetically-Grown Recurrent Networks](https://arxiv.org/abs/2604.03386v1)** | 2026-04-03 | 7 pages, 6 figures |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search](https://arxiv.org/abs/2503.10404v3)** | 2026-03-24 | <details><summary>Publi...</summary><p>Published in the journal Machine Learning: Science and Technology - IOPscience</p></details> |
 | **[MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development](https://arxiv.org/abs/2507.13785v2)** | 2026-03-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures. Published in Kibernetyka i Systemnyj Analiz (Cybernetics and Systems Analysis), vol. 62, no. 2, 2026. English translation by Springer Nature forthcoming. v2: Aligned with published version; corrected author email address</p></details> |
 | **[Weak-PDE-Net: Discovering Open-Form PDEs via Differentiable Symbolic Networks and Weak Formulation](https://arxiv.org/abs/2603.22951v1)** | 2026-03-24 |  |
-| **[AgenticRS-EnsNAS: Ensemble-Decoupled Self-Evolving Architecture Search](https://arxiv.org/abs/2603.20014v1)** | 2026-03-20 |  |
-| **[Dual-Domain Representation Alignment: Bridging 2D and 3D Vision via Geometry-Aware Architecture Search](https://arxiv.org/abs/2603.19563v1)** | 2026-03-20 |  |
-| **[Hardware-Aware Neural Architecture Search for Encrypted Traffic Classification on Resource-Constrained Devices](https://arxiv.org/abs/2506.11319v2)** | 2026-03-18 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Published in IEEE Transactions on Network and Service Management (2026)</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
