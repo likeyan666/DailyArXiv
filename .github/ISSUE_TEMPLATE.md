@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2026
+title: Latest 15 Papers - April 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing LLM-Based Neural Network Generation: Few-Shot Prompting and Efficient Validation for Automated Architecture Design](https://arxiv.org/abs/2512.24120v2)** | 2026-04-16 |  |
+| **[Sequence Search: Automated Sequence Design using Neural Architecture Search](https://arxiv.org/abs/2604.14788v1)** | 2026-04-16 | 10 pages, 6 figures |
+| **[Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data](https://arxiv.org/abs/2310.02540v2)** | 2026-04-15 |  |
 | **[Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks for Efficient Eye-based Emotion Recognition](https://arxiv.org/abs/2512.02459v2)** | 2026-04-14 |  |
 | **[SatReg: Regression-based Neural Architecture Search for Lightweight Satellite Image Segmentation](https://arxiv.org/abs/2604.10306v1)** | 2026-04-11 |  |
 | **[Device-Conditioned Neural Architecture Search for Efficient Robotic Manipulation](https://arxiv.org/abs/2604.10170v1)** | 2026-04-11 | 17 pages, 4 figures |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Hardware-Algorithm Co-Optimization of Early-Exit Neural Networks for Multi-Core Edge Accelerators](https://arxiv.org/abs/2512.04705v2)** | 2026-03-31 |  |
 | **[DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation](https://arxiv.org/abs/2602.19261v2)** | 2026-03-30 | <details><summary>Submi...</summary><p>Submitted to IJCNN 2026 (IEEE WCCI). 7 pages, 4 figures</p></details> |
 | **[GEAKG: Generative Executable Algorithm Knowledge Graphs](https://arxiv.org/abs/2603.27922v1)** | 2026-03-30 |  |
-| **[Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration](https://arxiv.org/abs/2602.11937v2)** | 2026-03-26 |  |
-| **[Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search](https://arxiv.org/abs/2503.10404v3)** | 2026-03-24 | <details><summary>Publi...</summary><p>Published in the journal Machine Learning: Science and Technology - IOPscience</p></details> |
-| **[MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development](https://arxiv.org/abs/2507.13785v2)** | 2026-03-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures. Published in Kibernetyka i Systemnyj Analiz (Cybernetics and Systems Analysis), vol. 62, no. 2, 2026. English translation by Springer Nature forthcoming. v2: Aligned with published version; corrected author email address</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
