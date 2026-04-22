@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 18, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs](https://arxiv.org/abs/2410.03294v4)** | 2026-04-21 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 6 tables, accepted by the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous2024)</p></details> |
+| **[Expressive yet Efficient Feature Expansion with Adaptive Cross-Hadamard Products](https://arxiv.org/abs/2505.22226v2)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. Camera-ready Version. 24 pages, 9 figures</p></details> |
+| **[LLM as a Tool, Not an Agent: Code-Mined Tree Transformations for Neural Architecture Search](https://arxiv.org/abs/2604.16555v1)** | 2026-04-17 | 72 pages |
+| **[AdaVFM: Adaptive Vision Foundation Models for Edge Intelligence via LLM-Guided Execution](https://arxiv.org/abs/2604.15622v1)** | 2026-04-17 |  |
 | **[Enhancing LLM-Based Neural Network Generation: Few-Shot Prompting and Efficient Validation for Automated Architecture Design](https://arxiv.org/abs/2512.24120v2)** | 2026-04-16 |  |
 | **[Sequence Search: Automated Sequence Design using Neural Architecture Search](https://arxiv.org/abs/2604.14788v1)** | 2026-04-16 | 10 pages, 6 figures |
 | **[Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data](https://arxiv.org/abs/2310.02540v2)** | 2026-04-15 |  |
@@ -37,14 +41,12 @@ labels: documentation
 | **[POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP](https://arxiv.org/abs/2604.06938v1)** | 2026-04-08 |  |
 | **[Activity-Dependent Plasticity in Morphogenetically-Grown Recurrent Networks](https://arxiv.org/abs/2604.03386v1)** | 2026-04-03 | 7 pages, 6 figures |
 | **[CHEEM: Continual Learning by Reuse, New, Adapt and Skip -- A Hierarchical Exploration-Exploitation Approach](https://arxiv.org/abs/2303.08250v5)** | 2026-04-01 | CVPR 2026 |
-| **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
-| **[Hardware-Algorithm Co-Optimization of Early-Exit Neural Networks for Multi-Core Edge Accelerators](https://arxiv.org/abs/2512.04705v2)** | 2026-03-31 |  |
-| **[DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation](https://arxiv.org/abs/2602.19261v2)** | 2026-03-30 | <details><summary>Submi...</summary><p>Submitted to IJCNN 2026 (IEEE WCCI). 7 pages, 4 figures</p></details> |
-| **[GEAKG: Generative Executable Algorithm Knowledge Graphs](https://arxiv.org/abs/2603.27922v1)** | 2026-03-30 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Learning-Enhanced Model Predictive Control for Dual-Arm Non-Prehensile Manipulation](https://arxiv.org/abs/2604.17833v1)** | 2026-04-20 |  |
+| **[DART: Mitigating Harm Drift in Difference-Aware LLMs via Distill-Audit-Repair Training](https://arxiv.org/abs/2604.16845v1)** | 2026-04-18 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling](https://arxiv.org/abs/2604.01130v3)** | 2026-04-08 |  |
 | **[LLMs as Idiomatic Decompilers: Recovering High-Level Code from x86-64 Assembly for Dart](https://arxiv.org/abs/2604.02278v1)** | 2026-04-02 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Accepted at SANER 2026 ERA Track</p></details> |
 | **[DART: A Server-side Plug-in for Resource-efficient Robust Federated Learning](https://arxiv.org/abs/2508.17381v2)** | 2026-03-25 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning](https://arxiv.org/abs/2512.07132v1)** | 2025-12-08 | <details><summary>Code:...</summary><p>Code: https://github.com/nsivaku/dart</p></details> |
 | **[Darts Analysis](https://arxiv.org/abs/2511.14537v1)** | 2025-11-18 | 16 pages, 8 figures |
 | **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
-| **[DARTS: A Drone-Based AI-Powered Real-Time Traffic Incident Detection System](https://arxiv.org/abs/2510.26004v1)** | 2025-10-29 | <details><summary>Prepr...</summary><p>Preprint version. This manuscript is currently under review at Transportation Research Part C: Emerging Technologies. The PDF corresponds to the version submitted in June 2025. The main findings of this work were recognized with the Best Intelligent Transportation Systems Paper Award at the 2025 TRB Annual Meeting</p></details> |
-| **[DART: A Structured Dataset of Regulatory Drug Documents in Italian for Clinical NLP](https://arxiv.org/abs/2510.18475v1)** | 2025-10-21 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
