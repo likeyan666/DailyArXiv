@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2026
+title: Latest 15 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Finding Small Hyper-Gradients in Bilevel Optimization: Hardness Results and Improved Analysis](https://arxiv.org/abs/2301.00712v9)** | 2026-04-28 | <details><summary>Publi...</summary><p>Published in COLT 2024. This arXiv version refines Assumption 4.1 (d); adds discussions on related works in Appendix A; and corrects the kappa dependency in the upper bounds</p></details> |
 | **[Deployment-Aligned Low-Precision Neural Architecture Search for Spaceborne Edge AI](https://arxiv.org/abs/2604.24492v1)** | 2026-04-27 |  |
 | **[End-to-end Automated Deep Neural Network Optimization for PPG-based Blood Pressure Estimation on Wearables](https://arxiv.org/abs/2604.10117v2)** | 2026-04-25 |  |
 | **[Efficient VQ-QAT and Mixed Vector/Linear quantized Neural Networks](https://arxiv.org/abs/2604.23172v1)** | 2026-04-25 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[SatReg: Regression-based Neural Architecture Search for Lightweight Satellite Image Segmentation](https://arxiv.org/abs/2604.10306v1)** | 2026-04-11 |  |
 | **[Device-Conditioned Neural Architecture Search for Efficient Robotic Manipulation](https://arxiv.org/abs/2604.10170v1)** | 2026-04-11 | 17 pages, 4 figures |
 | **[QNAS: A Neural Architecture Search Framework for Accurate and Efficient Quantum Neural Networks](https://arxiv.org/abs/2604.07013v1)** | 2026-04-08 | <details><summary>To ap...</summary><p>To appear at the IEEE International Joint Conference on Neural Networks (IJCNN), Maastricht, The Netherlands, June 2026</p></details> |
-| **[POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP](https://arxiv.org/abs/2604.06938v1)** | 2026-04-08 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
