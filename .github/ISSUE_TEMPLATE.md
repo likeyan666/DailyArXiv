@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Random Cloud: Finding Minimal Neural Architectures Without Training](https://arxiv.org/abs/2604.26830v1)** | 2026-04-29 |  |
+| **[EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures](https://arxiv.org/abs/2604.27004v1)** | 2026-04-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 10 tables. Submitted to IEEE Internet of Things Journal</p></details> |
 | **[On Finding Small Hyper-Gradients in Bilevel Optimization: Hardness Results and Improved Analysis](https://arxiv.org/abs/2301.00712v9)** | 2026-04-28 | <details><summary>Publi...</summary><p>Published in COLT 2024. This arXiv version refines Assumption 4.1 (d); adds discussions on related works in Appendix A; and corrects the kappa dependency in the upper bounds</p></details> |
 | **[Deployment-Aligned Low-Precision Neural Architecture Search for Spaceborne Edge AI](https://arxiv.org/abs/2604.24492v1)** | 2026-04-27 |  |
 | **[End-to-end Automated Deep Neural Network Optimization for PPG-based Blood Pressure Estimation on Wearables](https://arxiv.org/abs/2604.10117v2)** | 2026-04-25 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data](https://arxiv.org/abs/2310.02540v2)** | 2026-04-15 |  |
 | **[Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks for Efficient Eye-based Emotion Recognition](https://arxiv.org/abs/2512.02459v2)** | 2026-04-14 |  |
 | **[SatReg: Regression-based Neural Architecture Search for Lightweight Satellite Image Segmentation](https://arxiv.org/abs/2604.10306v1)** | 2026-04-11 |  |
-| **[Device-Conditioned Neural Architecture Search for Efficient Robotic Manipulation](https://arxiv.org/abs/2604.10170v1)** | 2026-04-11 | 17 pages, 4 figures |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
