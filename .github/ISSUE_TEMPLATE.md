@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2026
+title: Latest 15 Papers - May 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,14 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices](https://arxiv.org/abs/2605.04282v2)** | 2026-05-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026. \c{opyright}IEEE</p></details> |
+| **[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2605.04057v2)** | 2026-05-07 |  |
+| **[What Matters in Practical Learned Image Compression](https://arxiv.org/abs/2605.05148v1)** | 2026-05-06 |  |
+| **[Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs](https://arxiv.org/abs/2605.04903v1)** | 2026-05-06 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 7 tables</p></details> |
+| **[Closed-Loop LLM Discovery of Non-Standard Channel Priors in Vision Models](https://arxiv.org/abs/2601.08517v2)** | 2026-05-04 |  |
+| **[HERCULES: Hardware-Efficient, Robust, Continual Learning Neural Architecture Search](https://arxiv.org/abs/2605.04103v1)** | 2026-05-03 | 21 pages, 1 figure |
+| **[Joint Architecture-Token-Bitwidth Multi-Axis Optimization of Vision Transformers for Semiconductor IC Packaging](https://arxiv.org/abs/2605.01742v1)** | 2026-05-03 |  |
+| **[AdaVFM: Adaptive Vision Foundation Models for Edge Intelligence via LLM-Guided Execution](https://arxiv.org/abs/2604.15622v2)** | 2026-05-03 |  |
 | **[Random Cloud: Finding Minimal Neural Architectures Without Training](https://arxiv.org/abs/2604.26830v1)** | 2026-04-29 |  |
 | **[EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures](https://arxiv.org/abs/2604.27004v1)** | 2026-04-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 10 tables. Submitted to IEEE Internet of Things Journal</p></details> |
 | **[On Finding Small Hyper-Gradients in Bilevel Optimization: Hardness Results and Improved Analysis](https://arxiv.org/abs/2301.00712v9)** | 2026-04-28 | <details><summary>Publi...</summary><p>Published in COLT 2024. This arXiv version refines Assumption 4.1 (d); adds discussions on related works in Appendix A; and corrects the kappa dependency in the upper bounds</p></details> |
@@ -33,18 +41,12 @@ labels: documentation
 | **[End-to-end Automated Deep Neural Network Optimization for PPG-based Blood Pressure Estimation on Wearables](https://arxiv.org/abs/2604.10117v2)** | 2026-04-25 |  |
 | **[Efficient VQ-QAT and Mixed Vector/Linear quantized Neural Networks](https://arxiv.org/abs/2604.23172v1)** | 2026-04-25 |  |
 | **[Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs](https://arxiv.org/abs/2410.03294v4)** | 2026-04-21 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 6 tables, accepted by the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous2024)</p></details> |
-| **[Expressive yet Efficient Feature Expansion with Adaptive Cross-Hadamard Products](https://arxiv.org/abs/2505.22226v2)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. Camera-ready Version. 24 pages, 9 figures</p></details> |
-| **[LLM as a Tool, Not an Agent: Code-Mined Tree Transformations for Neural Architecture Search](https://arxiv.org/abs/2604.16555v1)** | 2026-04-17 | 72 pages |
-| **[AdaVFM: Adaptive Vision Foundation Models for Edge Intelligence via LLM-Guided Execution](https://arxiv.org/abs/2604.15622v1)** | 2026-04-17 |  |
-| **[Enhancing LLM-Based Neural Network Generation: Few-Shot Prompting and Efficient Validation for Automated Architecture Design](https://arxiv.org/abs/2512.24120v2)** | 2026-04-16 |  |
-| **[Sequence Search: Automated Sequence Design using Neural Architecture Search](https://arxiv.org/abs/2604.14788v1)** | 2026-04-16 | 10 pages, 6 figures |
-| **[Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data](https://arxiv.org/abs/2310.02540v2)** | 2026-04-15 |  |
-| **[Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks for Efficient Eye-based Emotion Recognition](https://arxiv.org/abs/2512.02459v2)** | 2026-04-14 |  |
-| **[SatReg: Regression-based Neural Architecture Search for Lightweight Satellite Image Segmentation](https://arxiv.org/abs/2604.10306v1)** | 2026-04-11 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments](https://arxiv.org/abs/2605.06608v1)** | 2026-05-07 |  |
+| **[DART: A Vision-Language Foundation Model for Comprehensive Rope Condition Monitoring](https://arxiv.org/abs/2605.04943v1)** | 2026-05-06 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, 9 tables</p></details> |
 | **[DART: Learning-Enhanced Model Predictive Control for Dual-Arm Non-Prehensile Manipulation](https://arxiv.org/abs/2604.17833v2)** | 2026-04-25 |  |
 | **[DART: Mitigating Harm Drift in Difference-Aware LLMs via Distill-Audit-Repair Training](https://arxiv.org/abs/2604.16845v1)** | 2026-04-18 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling](https://arxiv.org/abs/2604.01130v3)** | 2026-04-08 |  |
@@ -58,12 +60,11 @@ labels: documentation
 | **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v2)** | 2025-12-16 |  |
 | **[DARTs: A Dual-Path Robust Framework for Anomaly Detection in High-Dimensional Multivariate Time Series](https://arxiv.org/abs/2512.13735v1)** | 2025-12-14 |  |
 | **[DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning](https://arxiv.org/abs/2512.07132v1)** | 2025-12-08 | <details><summary>Code:...</summary><p>Code: https://github.com/nsivaku/dart</p></details> |
-| **[Darts Analysis](https://arxiv.org/abs/2511.14537v1)** | 2025-11-18 | 16 pages, 8 figures |
-| **[DARTS-GT: Differentiable Architecture Search for Graph Transformers with Quantifiable Instance-Specific Interpretability Analysis](https://arxiv.org/abs/2510.14336v2)** | 2025-10-30 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Na-IRSTD: Enhancing Infrared Small Target Detection via Native-Resolution Feature Selection and Fusion](https://arxiv.org/abs/2605.05804v1)** | 2026-05-07 |  |
 | **[Compilation and Execution of an Embeddable YOLO-NAS on the VTA](https://arxiv.org/abs/2604.24455v1)** | 2026-04-27 |  |
 | **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
 | **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
 | **[NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation](https://arxiv.org/abs/2512.03499v1)** | 2025-12-03 |  |
 | **[DeNAS-ViT: Data Efficient NAS-Optimized Vision Transformer for Ultrasound Image Segmentation](https://arxiv.org/abs/2407.04203v3)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Technical Track</p></details> |
-| **[SAND: A Self-supervised and Adaptive NAS-Driven Framework for Hardware Trojan Detection](https://arxiv.org/abs/2510.23643v1)** | 2025-10-24 |  |
 
