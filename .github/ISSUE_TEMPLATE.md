@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 10, 2026
+title: Latest 15 Papers - May 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ADKO: Agentic Decentralized Knowledge Optimization](https://arxiv.org/abs/2605.07863v1)** | 2026-05-08 | 31 pages |
+| **[DeepFedNAS: Efficient Hardware-Aware Architecture Adaptation for Heterogeneous IoT Federations via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v3)** | 2026-05-08 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work presented at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
+| **[Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns](https://arxiv.org/abs/2605.07378v1)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence. arXiv admin note: text overlap with arXiv:2403.04161</p></details> |
 | **[Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices](https://arxiv.org/abs/2605.04282v2)** | 2026-05-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026. \c{opyright}IEEE</p></details> |
 | **[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2605.04057v2)** | 2026-05-07 |  |
 | **[What Matters in Practical Learned Image Compression](https://arxiv.org/abs/2605.05148v1)** | 2026-05-06 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures](https://arxiv.org/abs/2604.27004v1)** | 2026-04-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 10 tables. Submitted to IEEE Internet of Things Journal</p></details> |
 | **[On Finding Small Hyper-Gradients in Bilevel Optimization: Hardness Results and Improved Analysis](https://arxiv.org/abs/2301.00712v9)** | 2026-04-28 | <details><summary>Publi...</summary><p>Published in COLT 2024. This arXiv version refines Assumption 4.1 (d); adds discussions on related works in Appendix A; and corrects the kappa dependency in the upper bounds</p></details> |
 | **[Deployment-Aligned Low-Precision Neural Architecture Search for Spaceborne Edge AI](https://arxiv.org/abs/2604.24492v1)** | 2026-04-27 |  |
-| **[End-to-end Automated Deep Neural Network Optimization for PPG-based Blood Pressure Estimation on Wearables](https://arxiv.org/abs/2604.10117v2)** | 2026-04-25 |  |
-| **[Efficient VQ-QAT and Mixed Vector/Linear quantized Neural Networks](https://arxiv.org/abs/2604.23172v1)** | 2026-04-25 |  |
-| **[Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs](https://arxiv.org/abs/2410.03294v4)** | 2026-04-21 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 6 tables, accepted by the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous2024)</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
