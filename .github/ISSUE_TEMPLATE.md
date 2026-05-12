@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2026
+title: Latest 15 Papers - May 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,11 +26,13 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Regression to Inference: Meta-Learning Predictors for Neural Architecture Search](https://arxiv.org/abs/2605.09290v1)** | 2026-05-10 |  |
 | **[ADKO: Agentic Decentralized Knowledge Optimization](https://arxiv.org/abs/2605.07863v1)** | 2026-05-08 | 31 pages |
 | **[DeepFedNAS: Efficient Hardware-Aware Architecture Adaptation for Heterogeneous IoT Federations via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v3)** | 2026-05-08 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work presented at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
-| **[Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns](https://arxiv.org/abs/2605.07378v1)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence. arXiv admin note: text overlap with arXiv:2403.04161</p></details> |
+| **[Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns](https://arxiv.org/abs/2605.07378v1)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence. This article is a journal extension of arXiv:2403.04161</p></details> |
 | **[Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices](https://arxiv.org/abs/2605.04282v2)** | 2026-05-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026. \c{opyright}IEEE</p></details> |
 | **[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2605.04057v2)** | 2026-05-07 |  |
+| **[Resource-Aware Evolutionary Neural Architecture Search for Cardiac MRI Segmentation](https://arxiv.org/abs/2605.08238v1)** | 2026-05-07 |  |
 | **[What Matters in Practical Learned Image Compression](https://arxiv.org/abs/2605.05148v1)** | 2026-05-06 |  |
 | **[Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs](https://arxiv.org/abs/2605.04903v1)** | 2026-05-06 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 7 tables</p></details> |
 | **[Closed-Loop LLM Discovery of Non-Standard Channel Priors in Vision Models](https://arxiv.org/abs/2601.08517v2)** | 2026-05-04 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[AdaVFM: Adaptive Vision Foundation Models for Edge Intelligence via LLM-Guided Execution](https://arxiv.org/abs/2604.15622v2)** | 2026-05-03 |  |
 | **[Random Cloud: Finding Minimal Neural Architectures Without Training](https://arxiv.org/abs/2604.26830v1)** | 2026-04-29 |  |
 | **[EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures](https://arxiv.org/abs/2604.27004v1)** | 2026-04-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 10 tables. Submitted to IEEE Internet of Things Journal</p></details> |
-| **[On Finding Small Hyper-Gradients in Bilevel Optimization: Hardness Results and Improved Analysis](https://arxiv.org/abs/2301.00712v9)** | 2026-04-28 | <details><summary>Publi...</summary><p>Published in COLT 2024. This arXiv version refines Assumption 4.1 (d); adds discussions on related works in Appendix A; and corrects the kappa dependency in the upper bounds</p></details> |
-| **[Deployment-Aligned Low-Precision Neural Architecture Search for Spaceborne Edge AI](https://arxiv.org/abs/2604.24492v1)** | 2026-04-27 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
