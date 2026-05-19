@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 16, 2026
+title: Latest 15 Papers - May 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,12 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLMForge: Multi-Backend Hardware-Aware Neural Architecture Search with Infinite-Head Attention for Edge Language Models](https://arxiv.org/abs/2605.17653v1)** | 2026-05-17 |  |
+| **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](https://arxiv.org/abs/2509.26037v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
+| **[Preparation of Fractal-Inspired Computational Architectures for Advanced Large Language Model Analysis](https://arxiv.org/abs/2511.07329v4)** | 2026-05-16 |  |
+| **[Artificial Adaptive Intelligence: The Missing Stage Between Narrow and General Intelligence](https://arxiv.org/abs/2605.16844v1)** | 2026-05-16 |  |
+| **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2605.16138v1)** | 2026-05-15 | <details><summary>15 Pa...</summary><p>15 Pages, 3 Figures, AutoML (International Conference on Automated Machine Learning) 2026</p></details> |
+| **[Towards Code-Oriented LM Embeddings for Surrogate-Assisted Neural Architecture Search](https://arxiv.org/abs/2605.15649v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This is an extended version of work accepted to GECCO 2026. Our code is available at https://github.com/pcsom/cole/tree/v1.0</p></details> |
 | **[From Regression to Inference: Meta-Learning Predictors for Neural Architecture Search](https://arxiv.org/abs/2605.09290v1)** | 2026-05-10 |  |
 | **[ADKO: Agentic Decentralized Knowledge Optimization](https://arxiv.org/abs/2605.07863v1)** | 2026-05-08 | 31 pages |
 | **[DeepFedNAS: Efficient Hardware-Aware Architecture Adaptation for Heterogeneous IoT Federations via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v3)** | 2026-05-08 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work presented at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
@@ -35,12 +41,6 @@ labels: documentation
 | **[Resource-Aware Evolutionary Neural Architecture Search for Cardiac MRI Segmentation](https://arxiv.org/abs/2605.08238v1)** | 2026-05-07 |  |
 | **[What Matters in Practical Learned Image Compression](https://arxiv.org/abs/2605.05148v1)** | 2026-05-06 |  |
 | **[Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs](https://arxiv.org/abs/2605.04903v1)** | 2026-05-06 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 7 tables</p></details> |
-| **[Closed-Loop LLM Discovery of Non-Standard Channel Priors in Vision Models](https://arxiv.org/abs/2601.08517v2)** | 2026-05-04 |  |
-| **[HERCULES: Hardware-Efficient, Robust, Continual Learning Neural Architecture Search](https://arxiv.org/abs/2605.04103v1)** | 2026-05-03 | 21 pages, 1 figure |
-| **[Joint Architecture-Token-Bitwidth Multi-Axis Optimization of Vision Transformers for Semiconductor IC Packaging](https://arxiv.org/abs/2605.01742v1)** | 2026-05-03 |  |
-| **[AdaVFM: Adaptive Vision Foundation Models for Edge Intelligence via LLM-Guided Execution](https://arxiv.org/abs/2604.15622v2)** | 2026-05-03 |  |
-| **[Random Cloud: Finding Minimal Neural Architectures Without Training](https://arxiv.org/abs/2604.26830v1)** | 2026-04-29 |  |
-| **[EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures](https://arxiv.org/abs/2604.27004v1)** | 2026-04-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 10 tables. Submitted to IEEE Internet of Things Journal</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](https://arxiv.org/abs/2509.26037v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
+| **[Searching on a Budget: HW-NAS with 10 Latency Probes](https://arxiv.org/abs/2504.00663v2)** | 2026-05-15 |  |
 | **[Na-IRSTD: Enhancing Infrared Small Target Detection via Native-Resolution Feature Selection and Fusion](https://arxiv.org/abs/2605.05804v1)** | 2026-05-07 |  |
 | **[Compilation and Execution of an Embeddable YOLO-NAS on the VTA](https://arxiv.org/abs/2604.24455v1)** | 2026-04-27 |  |
 | **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v2)** | 2025-12-31 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
 | **[NA-DiD: Extending Difference-in-Differences with Capabilities](https://arxiv.org/abs/2507.12690v2)** | 2025-12-22 | <details><summary>I hav...</summary><p>I have received a reviews from a journal, and after reading them I came to the conclusion that this research does not meet novelty threshold for a paper I would like to put in public. I missed some references, which are more relevant to the problem I try to solve and offer a better solution</p></details> |
 | **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
-| **[NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation](https://arxiv.org/abs/2512.03499v1)** | 2025-12-03 |  |
-| **[DeNAS-ViT: Data Efficient NAS-Optimized Vision Transformer for Ultrasound Image Segmentation](https://arxiv.org/abs/2407.04203v3)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Technical Track</p></details> |
 
