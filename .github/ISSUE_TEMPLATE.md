@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 19, 2026
+title: Latest 15 Papers - May 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,13 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Directed Acyclic Graph Convolutional Networks](https://arxiv.org/abs/2506.12218v2)** | 2026-05-19 |  |
+| **[Structuring Open-Ended NAS: Semi-Automated Design Knowledge Structuring with LLMs for Efficient Neural Architecture Search](https://arxiv.org/abs/2605.19247v1)** | 2026-05-19 | 42 pages |
+| **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
+| **[Hybrid Quantum-Classical Neural Architecture Search](https://arxiv.org/abs/2605.18345v1)** | 2026-05-18 |  |
 | **[LLMForge: Multi-Backend Hardware-Aware Neural Architecture Search with Infinite-Head Attention for Edge Language Models](https://arxiv.org/abs/2605.17653v1)** | 2026-05-17 |  |
 | **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](https://arxiv.org/abs/2509.26037v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
+| **[Position: Graph Condensation Needs a Reset -- Move Beyond Full-dataset Training and Model-Dependence](https://arxiv.org/abs/2605.18893v1)** | 2026-05-17 |  |
 | **[Preparation of Fractal-Inspired Computational Architectures for Advanced Large Language Model Analysis](https://arxiv.org/abs/2511.07329v4)** | 2026-05-16 |  |
 | **[Artificial Adaptive Intelligence: The Missing Stage Between Narrow and General Intelligence](https://arxiv.org/abs/2605.16844v1)** | 2026-05-16 |  |
 | **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2605.16138v1)** | 2026-05-15 | <details><summary>15 Pa...</summary><p>15 Pages, 3 Figures, AutoML (International Conference on Automated Machine Learning) 2026</p></details> |
@@ -36,11 +41,6 @@ labels: documentation
 | **[ADKO: Agentic Decentralized Knowledge Optimization](https://arxiv.org/abs/2605.07863v1)** | 2026-05-08 | 31 pages |
 | **[DeepFedNAS: Efficient Hardware-Aware Architecture Adaptation for Heterogeneous IoT Federations via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v3)** | 2026-05-08 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work presented at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
 | **[Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns](https://arxiv.org/abs/2605.07378v1)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence. This article is a journal extension of arXiv:2403.04161</p></details> |
-| **[Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices](https://arxiv.org/abs/2605.04282v2)** | 2026-05-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026. \c{opyright}IEEE</p></details> |
-| **[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2605.04057v2)** | 2026-05-07 |  |
-| **[Resource-Aware Evolutionary Neural Architecture Search for Cardiac MRI Segmentation](https://arxiv.org/abs/2605.08238v1)** | 2026-05-07 |  |
-| **[What Matters in Practical Learned Image Compression](https://arxiv.org/abs/2605.05148v1)** | 2026-05-06 |  |
-| **[Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs](https://arxiv.org/abs/2605.04903v1)** | 2026-05-06 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 7 tables</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,13 +64,14 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structuring Open-Ended NAS: Semi-Automated Design Knowledge Structuring with LLMs for Efficient Neural Architecture Search](https://arxiv.org/abs/2605.19247v1)** | 2026-05-19 | 42 pages |
+| **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
 | **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](https://arxiv.org/abs/2509.26037v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
 | **[Searching on a Budget: HW-NAS with 10 Latency Probes](https://arxiv.org/abs/2504.00663v2)** | 2026-05-15 |  |
 | **[Na-IRSTD: Enhancing Infrared Small Target Detection via Native-Resolution Feature Selection and Fusion](https://arxiv.org/abs/2605.05804v1)** | 2026-05-07 |  |
 | **[Compilation and Execution of an Embeddable YOLO-NAS on the VTA](https://arxiv.org/abs/2604.24455v1)** | 2026-04-27 |  |
 | **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
 | **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
-| **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v1)** | 2026-03-10 |  |
 | **[AI-Driven Phase Identification from X-ray Hyperspectral Imaging of cycled Na-ion Cathode Materials](https://arxiv.org/abs/2603.07666v1)** | 2026-03-08 |  |
 | **[SEval-NAS: A Search-Agnostic Evaluation for Neural Architecture Search](https://arxiv.org/abs/2603.00099v1)** | 2026-02-17 | <details><summary>To be...</summary><p>To be published in the Proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC26)</p></details> |
 | **[Green-NAS: A Global-Scale Multi-Objective Neural Architecture Search for Robust and Efficient Edge-Native Weather Forecasting](https://arxiv.org/abs/2602.00240v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[NAS-GS: Noise-Aware Sonar Gaussian Splatting](https://arxiv.org/abs/2601.06285v1)** | 2026-01-09 |  |
 | **[Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification](https://arxiv.org/abs/2511.02992v2)** | 2025-12-31 | <details><summary>Prese...</summary><p>Presented at ITEM workshop co-located with ECML PKDD 2024, Vilnius LT</p></details> |
 | **[NA-DiD: Extending Difference-in-Differences with Capabilities](https://arxiv.org/abs/2507.12690v2)** | 2025-12-22 | <details><summary>I hav...</summary><p>I have received a reviews from a journal, and after reading them I came to the conclusion that this research does not meet novelty threshold for a paper I would like to put in public. I missed some references, which are more relevant to the problem I try to solve and offer a better solution</p></details> |
-| **[LLM-NAS: LLM-driven Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2510.01472v4)** | 2025-12-04 |  |
 
