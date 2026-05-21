@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 20, 2026
+title: Latest 15 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DASH: Fast Differentiable Architecture Search for Hybrid Attention in Minutes on a Single GPU](https://arxiv.org/abs/2605.20936v1)** | 2026-05-20 | 19 pages, 7 figures |
 | **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v1)** | 2026-02-06 |  |
 | **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[Differentiable Architecture Search for Adversarially Robust Quantum Computer Vision](https://arxiv.org/abs/2601.18058v1)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published in Quantum Machine Intelligence</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](https://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
 | **[DNAD: Differentiable Neural Architecture Distillation](https://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
 | **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](https://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
-| **[Regularizing Differentiable Architecture Search with Smooth Activation](https://arxiv.org/abs/2504.16306v1)** | 2025-04-22 |  |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimized Federated Knowledge Distillation with Distributed Neural Architecture Search](https://arxiv.org/abs/2605.21322v1)** | 2026-05-20 |  |
 | **[Directed Acyclic Graph Convolutional Networks](https://arxiv.org/abs/2506.12218v2)** | 2026-05-19 |  |
 | **[Structuring Open-Ended NAS: Semi-Automated Design Knowledge Structuring with LLMs for Efficient Neural Architecture Search](https://arxiv.org/abs/2605.19247v1)** | 2026-05-19 | 42 pages |
 | **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[From Regression to Inference: Meta-Learning Predictors for Neural Architecture Search](https://arxiv.org/abs/2605.09290v1)** | 2026-05-10 |  |
 | **[ADKO: Agentic Decentralized Knowledge Optimization](https://arxiv.org/abs/2605.07863v1)** | 2026-05-08 | 31 pages |
 | **[DeepFedNAS: Efficient Hardware-Aware Architecture Adaptation for Heterogeneous IoT Federations via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v3)** | 2026-05-08 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work presented at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
-| **[Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns](https://arxiv.org/abs/2605.07378v1)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence. This article is a journal extension of arXiv:2403.04161</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
