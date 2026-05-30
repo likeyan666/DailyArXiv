@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 24, 2026
+title: Latest 15 Papers - May 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Convergence Theory for Iterative LLM-Based Neural Architecture Search: A Parametric Cross-Entropy Framework with Closed-Form Proxy Reliability](https://arxiv.org/abs/2605.30103v1)** | 2026-05-28 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 2 tables. Submitted to NeurIPS 2026</p></details> |
+| **[elasticAI.explorer: Towards a Unified End-to-End Framework for Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2605.30019v1)** | 2026-05-28 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, IEEE CODASSCA 2026 (submitted)</p></details> |
+| **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v3)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at the 43nd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[On the Communication Complexity of Decentralized Stochastic Bilevel Optimization](https://arxiv.org/abs/2311.11342v5)** | 2026-05-25 |  |
 | **[Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices](https://arxiv.org/abs/2605.22097v1)** | 2026-05-21 |  |
 | **[Optimized Federated Knowledge Distillation with Distributed Neural Architecture Search](https://arxiv.org/abs/2605.21322v1)** | 2026-05-20 |  |
 | **[AutoMCU: Feasibility-First MCU Neural Network Customization via LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.21560v1)** | 2026-05-20 |  |
@@ -37,14 +41,11 @@ labels: documentation
 | **[LLMForge: Multi-Backend Hardware-Aware Neural Architecture Search with Infinite-Head Attention for Edge Language Models](https://arxiv.org/abs/2605.17653v1)** | 2026-05-17 |  |
 | **[CoLLM-NAS: Collaborative Large Language Models for Efficient Knowledge-Guided Neural Architecture Search](https://arxiv.org/abs/2509.26037v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
 | **[Preparation of Fractal-Inspired Computational Architectures for Advanced Large Language Model Analysis](https://arxiv.org/abs/2511.07329v4)** | 2026-05-16 |  |
-| **[Artificial Adaptive Intelligence: The Missing Stage Between Narrow and General Intelligence](https://arxiv.org/abs/2605.16844v1)** | 2026-05-16 |  |
-| **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2605.16138v1)** | 2026-05-15 | <details><summary>15 Pa...</summary><p>15 Pages, 3 Figures, AutoML (International Conference on Automated Machine Learning) 2026</p></details> |
-| **[Towards Code-Oriented LM Embeddings for Surrogate-Assisted Neural Architecture Search](https://arxiv.org/abs/2605.15649v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This is an extended version of work accepted to GECCO 2026. Our code is available at https://github.com/pcsom/cole/tree/v1.0</p></details> |
-| **[From Regression to Inference: Meta-Learning Predictors for Neural Architecture Search](https://arxiv.org/abs/2605.09290v1)** | 2026-05-10 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Semantic Recoverability for Structured Tool Agents](https://arxiv.org/abs/2605.23311v1)** | 2026-05-22 |  |
 | **[DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments](https://arxiv.org/abs/2605.06608v1)** | 2026-05-07 |  |
 | **[DART: A Vision-Language Foundation Model for Comprehensive Rope Condition Monitoring](https://arxiv.org/abs/2605.04943v1)** | 2026-05-06 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, 9 tables</p></details> |
 | **[DART: Learning-Enhanced Model Predictive Control for Dual-Arm Non-Prehensile Manipulation](https://arxiv.org/abs/2604.17833v2)** | 2026-04-25 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference](https://arxiv.org/abs/2601.19278v1)** | 2026-01-27 |  |
 | **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v2)** | 2025-12-16 |  |
 | **[DARTs: A Dual-Path Robust Framework for Anomaly Detection in High-Dimensional Multivariate Time Series](https://arxiv.org/abs/2512.13735v1)** | 2025-12-14 |  |
-| **[DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning](https://arxiv.org/abs/2512.07132v1)** | 2025-12-08 | <details><summary>Code:...</summary><p>Code: https://github.com/nsivaku/dart</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
