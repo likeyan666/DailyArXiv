@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 31, 2026
+title: Latest 15 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[elasticAI.explorer: Towards a Unified End-to-End Framework for Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2605.30019v2)** | 2026-05-29 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, IEEE CODASSCA 2026 (submitted)</p></details> |
 | **[Convergence Theory for Iterative LLM-Based Neural Architecture Search: A Parametric Cross-Entropy Framework with Closed-Form Proxy Reliability](https://arxiv.org/abs/2605.30103v1)** | 2026-05-28 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 2 tables. Submitted to NeurIPS 2026</p></details> |
-| **[elasticAI.explorer: Towards a Unified End-to-End Framework for Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2605.30019v1)** | 2026-05-28 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, IEEE CODASSCA 2026 (submitted)</p></details> |
 | **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v3)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at the 43nd International Conference on Machine Learning (ICML 2026)</p></details> |
 | **[On the Communication Complexity of Decentralized Stochastic Bilevel Optimization](https://arxiv.org/abs/2311.11342v5)** | 2026-05-25 |  |
 | **[Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices](https://arxiv.org/abs/2605.22097v1)** | 2026-05-21 |  |
