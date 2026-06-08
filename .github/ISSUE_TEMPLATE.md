@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 07, 2026
+title: Latest 15 Papers - June 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[pTNAS: Progressive Neural Architecture Search for Tabular Data](https://arxiv.org/abs/2403.10318v3)** | 2026-06-05 |  |
 | **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2605.16138v2)** | 2026-06-04 | <details><summary>15 Pa...</summary><p>15 Pages, 3 Figures, AutoML (International Conference on Automated Machine Learning) 2026</p></details> |
 | **[LLM Compression with Jointly Optimizing Architectural and Quantization choices](https://arxiv.org/abs/2606.04063v1)** | 2026-06-02 |  |
 | **[Distill-then-Replace: Efficient Task-Specific Hybrid Attention Model Construction](https://arxiv.org/abs/2601.11667v2)** | 2026-06-02 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[AutoMCU: Feasibility-First MCU Neural Network Customization via LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.21560v1)** | 2026-05-20 |  |
 | **[Position: Graph Condensation Needs a Reset -- Move Beyond Full-dataset Training and Model-Dependence](https://arxiv.org/abs/2605.18893v2)** | 2026-05-20 |  |
 | **[Directed Acyclic Graph Convolutional Networks](https://arxiv.org/abs/2506.12218v2)** | 2026-05-19 |  |
-| **[Structuring Open-Ended NAS: Semi-Automated Design Knowledge Structuring with LLMs for Efficient Neural Architecture Search](https://arxiv.org/abs/2605.19247v1)** | 2026-05-19 | 42 pages |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
