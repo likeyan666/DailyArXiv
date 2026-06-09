@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Zero-shot Quantum Neural Architecture Search](https://arxiv.org/abs/2605.27410v2)** | 2026-06-07 |  |
 | **[pTNAS: Progressive Neural Architecture Search for Tabular Data](https://arxiv.org/abs/2403.10318v3)** | 2026-06-05 |  |
 | **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2605.16138v2)** | 2026-06-04 | <details><summary>15 Pa...</summary><p>15 Pages, 3 Figures, AutoML (International Conference on Automated Machine Learning) 2026</p></details> |
+| **[Seq103: A Unified Neuroevolution Framework for Compact Sequence Architecture Discovery](https://arxiv.org/abs/2606.07664v1)** | 2026-06-03 | <details><summary>18 pa...</summary><p>18 pages, 2 figures, 8 tables</p></details> |
 | **[LLM Compression with Jointly Optimizing Architectural and Quantization choices](https://arxiv.org/abs/2606.04063v1)** | 2026-06-02 |  |
 | **[Distill-then-Replace: Efficient Task-Specific Hybrid Attention Model Construction](https://arxiv.org/abs/2601.11667v2)** | 2026-06-02 |  |
 | **[Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design](https://arxiv.org/abs/2507.15336v3)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Title changed from "Beyond Model Base Selection: Weaving Knowledge to Master Fine-grained Neural Network Design" to "Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design"</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices](https://arxiv.org/abs/2605.22097v1)** | 2026-05-21 |  |
 | **[Optimized Federated Knowledge Distillation with Distributed Neural Architecture Search](https://arxiv.org/abs/2605.21322v1)** | 2026-05-20 |  |
 | **[AutoMCU: Feasibility-First MCU Neural Network Customization via LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.21560v1)** | 2026-05-20 |  |
-| **[Position: Graph Condensation Needs a Reset -- Move Beyond Full-dataset Training and Model-Dependence](https://arxiv.org/abs/2605.18893v2)** | 2026-05-20 |  |
-| **[Directed Acyclic Graph Convolutional Networks](https://arxiv.org/abs/2506.12218v2)** | 2026-05-19 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
