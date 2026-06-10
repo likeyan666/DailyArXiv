@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-Guided Neural Architecture Search for Robust Co-Design of Physical Neural Networks](https://arxiv.org/abs/2606.10294v1)** | 2026-06-09 |  |
+| **[Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum](https://arxiv.org/abs/2606.09787v1)** | 2026-06-08 | 19 pages, 14 figures |
 | **[Zero-shot Quantum Neural Architecture Search](https://arxiv.org/abs/2605.27410v2)** | 2026-06-07 |  |
 | **[pTNAS: Progressive Neural Architecture Search for Tabular Data](https://arxiv.org/abs/2403.10318v3)** | 2026-06-05 |  |
 | **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2605.16138v2)** | 2026-06-04 | <details><summary>15 Pa...</summary><p>15 Pages, 3 Figures, AutoML (International Conference on Automated Machine Learning) 2026</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283v3)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at the 43nd International Conference on Machine Learning (ICML 2026)</p></details> |
 | **[On the Communication Complexity of Decentralized Stochastic Bilevel Optimization](https://arxiv.org/abs/2311.11342v5)** | 2026-05-25 |  |
 | **[Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices](https://arxiv.org/abs/2605.22097v1)** | 2026-05-21 |  |
-| **[Optimized Federated Knowledge Distillation with Distributed Neural Architecture Search](https://arxiv.org/abs/2605.21322v1)** | 2026-05-20 |  |
-| **[AutoMCU: Feasibility-First MCU Neural Network Customization via LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.21560v1)** | 2026-05-20 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
