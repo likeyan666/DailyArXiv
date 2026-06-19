@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2026
+title: Latest 15 Papers - June 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units](https://arxiv.org/abs/2603.15106v2)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at ECML-PKDD 2026. 18 pages, 7 figures, 4 tables. This work was funded by the European Commission as part of the MANOLO project under the Horizon Europe programme Grant Agreement No.101135782</p></details> |
 | **[InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676v1)** | 2026-06-17 |  |
 | **[Colab NAS: Obtaining lightweight task-specific convolutional neural networks following Occam's razor](https://arxiv.org/abs/2212.07700v3)** | 2026-06-16 |  |
 | **[An affordable hardware-aware neural architecture search for deploying convolutional neural networks on ultra-low-power computing platforms](https://arxiv.org/abs/2606.16290v1)** | 2026-06-15 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Zero-shot Quantum Neural Architecture Search](https://arxiv.org/abs/2605.27410v2)** | 2026-06-07 |  |
 | **[pTNAS: Progressive Neural Architecture Search for Tabular Data](https://arxiv.org/abs/2403.10318v3)** | 2026-06-05 |  |
 | **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2605.16138v2)** | 2026-06-04 | <details><summary>15 Pa...</summary><p>15 Pages, 3 Figures, AutoML (International Conference on Automated Machine Learning) 2026</p></details> |
-| **[Seq103: A Unified Neuroevolution Framework for Compact Sequence Architecture Discovery](https://arxiv.org/abs/2606.07664v1)** | 2026-06-03 | <details><summary>18 pa...</summary><p>18 pages, 2 figures, 8 tables</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
