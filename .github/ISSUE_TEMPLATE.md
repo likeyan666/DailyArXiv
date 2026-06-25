@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SEAL: Searching Expandable Architectures for Incremental Learning](https://arxiv.org/abs/2505.10457v3)** | 2026-06-23 | 9 pages, 4 figures |
+| **[Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization](https://arxiv.org/abs/2606.23210v1)** | 2026-06-22 | 7 pages, 7 figures |
+| **[Neural Architecture Search of Sample Reweighting Networks for Complex Distribution Shift](https://arxiv.org/abs/2606.22991v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to PRICAI 2025</p></details> |
 | **[PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units](https://arxiv.org/abs/2603.15106v2)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at ECML-PKDD 2026. 18 pages, 7 figures, 4 tables. This work was funded by the European Commission as part of the MANOLO project under the Horizon Europe programme Grant Agreement No.101135782</p></details> |
 | **[InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676v1)** | 2026-06-17 |  |
 | **[Colab NAS: Obtaining lightweight task-specific convolutional neural networks following Occam's razor](https://arxiv.org/abs/2212.07700v3)** | 2026-06-16 |  |
@@ -35,16 +38,14 @@ labels: documentation
 | **[Temporal Validation Changes the Apparent Public-Health Utility of Under-Five Mortality Prediction in Bangladesh: A Four-Round DHS Machine-Learning Study](https://arxiv.org/abs/2602.03957v2)** | 2026-06-13 | <details><summary>26 pa...</summary><p>26 pages, 6 figures. Submitted to BMC Medical Informatics</p></details> |
 | **[CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems](https://arxiv.org/abs/2606.15004v1)** | 2026-06-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 7 tables</p></details> |
 | **[From Sorting Algorithms to Scalable Kernels: Bayesian Optimization in High-Dimensional Permutation Spaces](https://arxiv.org/abs/2507.13263v4)** | 2026-06-12 | <details><summary>9 pag...</summary><p>9 pages, published on ICLR-26</p></details> |
+| **[On-Device Neural Architecture Search](https://arxiv.org/abs/2606.24900v1)** | 2026-06-12 |  |
 | **[Running hardware-aware neural architecture search on embedded devices under 512MB of RAM](https://arxiv.org/abs/2606.14824v1)** | 2026-06-12 |  |
 | **[LLM-Guided Neural Architecture Search for Robust Co-Design of Physical Neural Networks](https://arxiv.org/abs/2606.10294v1)** | 2026-06-09 |  |
-| **[Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum](https://arxiv.org/abs/2606.09787v1)** | 2026-06-08 | 19 pages, 14 figures |
-| **[Zero-shot Quantum Neural Architecture Search](https://arxiv.org/abs/2605.27410v2)** | 2026-06-07 |  |
-| **[pTNAS: Progressive Neural Architecture Search for Tabular Data](https://arxiv.org/abs/2403.10318v3)** | 2026-06-05 |  |
-| **[Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2605.16138v2)** | 2026-06-04 | <details><summary>15 Pa...</summary><p>15 Pages, 3 Figures, AutoML (International Conference on Automated Machine Learning) 2026</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models](https://arxiv.org/abs/2606.23181v1)** | 2026-06-22 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 16 tables. Code: https://github.com/js-lee-AI/DART</p></details> |
 | **[DART: A design-aware microfluidic chip paradigm for real-time live-cell image analysis](https://arxiv.org/abs/2606.18523v1)** | 2026-06-16 |  |
 | **[DART: Semantic Recoverability for Structured Tool Agents](https://arxiv.org/abs/2605.23311v1)** | 2026-05-22 |  |
 | **[DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments](https://arxiv.org/abs/2605.06608v1)** | 2026-05-07 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: aDaptive Accept RejecT for non-linear top-K subset identification](https://arxiv.org/abs/2011.07687v2)** | 2026-02-12 | <details><summary>exten...</summary><p>extended version of AAAI 2021 paper</p></details> |
 | **[DART-ing Through the Drift: Dynamic Tracing of Knowledge Neurons for Adaptive Inference-Time Pruning](https://arxiv.org/abs/2601.22632v1)** | 2026-01-30 |  |
 | **[DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference](https://arxiv.org/abs/2601.19278v1)** | 2026-01-27 |  |
-| **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v2)** | 2025-12-16 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
