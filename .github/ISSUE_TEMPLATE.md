@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Layer-Specific Prompt Fusion Discovery via Differentiable Search in Vision Foundation Models](https://arxiv.org/abs/2606.26379v1)** | 2026-06-24 | ECCV 2026 |
 | **[DASH: Fast Differentiable Architecture Search for Hybrid Attention in Minutes on a Single GPU](https://arxiv.org/abs/2605.20936v1)** | 2026-05-20 | 19 pages, 7 figures |
 | **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v1)** | 2026-02-06 |  |
 | **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](https://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](https://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
 | **[DNAD: Differentiable Neural Architecture Distillation](https://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
-| **[FX-DARTS: Designing Topology-unconstrained Architectures with Differentiable Architecture Search and Entropy-based Super-network Shrinking](https://arxiv.org/abs/2504.20079v1)** | 2025-04-25 |  |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis](https://arxiv.org/abs/2606.26169v1)** | 2026-06-24 |  |
 | **[SEAL: Searching Expandable Architectures for Incremental Learning](https://arxiv.org/abs/2505.10457v3)** | 2026-06-23 | 9 pages, 4 figures |
 | **[Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization](https://arxiv.org/abs/2606.23210v1)** | 2026-06-22 | 7 pages, 7 figures |
 | **[Neural Architecture Search of Sample Reweighting Networks for Complex Distribution Shift](https://arxiv.org/abs/2606.22991v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to PRICAI 2025</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[From Sorting Algorithms to Scalable Kernels: Bayesian Optimization in High-Dimensional Permutation Spaces](https://arxiv.org/abs/2507.13263v4)** | 2026-06-12 | <details><summary>9 pag...</summary><p>9 pages, published on ICLR-26</p></details> |
 | **[On-Device Neural Architecture Search](https://arxiv.org/abs/2606.24900v1)** | 2026-06-12 |  |
 | **[Running hardware-aware neural architecture search on embedded devices under 512MB of RAM](https://arxiv.org/abs/2606.14824v1)** | 2026-06-12 |  |
-| **[LLM-Guided Neural Architecture Search for Robust Co-Design of Physical Neural Networks](https://arxiv.org/abs/2606.10294v1)** | 2026-06-09 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
