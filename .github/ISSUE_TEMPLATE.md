@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TacEvo: Self-Evolving Architecture Discovery for Robotic Tactile Perception via LLM-Driven Quality-Diversity Search](https://arxiv.org/abs/2606.30109v1)** | 2026-06-29 |  |
+| **[Bilevel Optimization for Neural Architecture Search](https://arxiv.org/abs/2606.29582v1)** | 2026-06-28 | 48 pages, 20 figures |
+| **[Harvesting AI Computation at the Edge via Generic Approximation](https://arxiv.org/abs/2606.29518v1)** | 2026-06-28 | 11 pages, 9 figures |
 | **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
 | **[Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis](https://arxiv.org/abs/2606.26169v1)** | 2026-06-24 |  |
 | **[SEAL: Searching Expandable Architectures for Incremental Learning](https://arxiv.org/abs/2505.10457v3)** | 2026-06-23 | 9 pages, 4 figures |
@@ -38,9 +41,6 @@ labels: documentation
 | **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](https://arxiv.org/abs/2510.05888v2)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Big Data</p></details> |
 | **[Activity-Dependent Plasticity in Morphogenetically-Grown Recurrent Networks](https://arxiv.org/abs/2604.03386v2)** | 2026-06-15 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Camera-ready version; accepted at GECCO 2026 Companion (EvoSelf workshop)</p></details> |
 | **[Temporal Validation Changes the Apparent Public-Health Utility of Under-Five Mortality Prediction in Bangladesh: A Four-Round DHS Machine-Learning Study](https://arxiv.org/abs/2602.03957v2)** | 2026-06-13 | <details><summary>26 pa...</summary><p>26 pages, 6 figures. Submitted to BMC Medical Informatics</p></details> |
-| **[CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems](https://arxiv.org/abs/2606.15004v1)** | 2026-06-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 7 tables</p></details> |
-| **[From Sorting Algorithms to Scalable Kernels: Bayesian Optimization in High-Dimensional Permutation Spaces](https://arxiv.org/abs/2507.13263v4)** | 2026-06-12 | <details><summary>9 pag...</summary><p>9 pages, published on ICLR-26</p></details> |
-| **[On-Device Neural Architecture Search](https://arxiv.org/abs/2606.24900v1)** | 2026-06-12 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
