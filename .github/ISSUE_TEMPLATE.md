@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2026
+title: Latest 15 Papers - July 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2605.04057v3)** | 2026-06-30 |  |
 | **[TacEvo: Self-Evolving Architecture Discovery for Robotic Tactile Perception via LLM-Driven Quality-Diversity Search](https://arxiv.org/abs/2606.30109v1)** | 2026-06-29 |  |
 | **[Bilevel Optimization for Neural Architecture Search](https://arxiv.org/abs/2606.29582v1)** | 2026-06-28 | 48 pages, 20 figures |
 | **[Harvesting AI Computation at the Edge via Generic Approximation](https://arxiv.org/abs/2606.29518v1)** | 2026-06-28 | 11 pages, 9 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[An affordable hardware-aware neural architecture search for deploying convolutional neural networks on ultra-low-power computing platforms](https://arxiv.org/abs/2606.16290v1)** | 2026-06-15 |  |
 | **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](https://arxiv.org/abs/2510.05888v2)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Big Data</p></details> |
 | **[Activity-Dependent Plasticity in Morphogenetically-Grown Recurrent Networks](https://arxiv.org/abs/2604.03386v2)** | 2026-06-15 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Camera-ready version; accepted at GECCO 2026 Companion (EvoSelf workshop)</p></details> |
-| **[Temporal Validation Changes the Apparent Public-Health Utility of Under-Five Mortality Prediction in Bangladesh: A Four-Round DHS Machine-Learning Study](https://arxiv.org/abs/2602.03957v2)** | 2026-06-13 | <details><summary>26 pa...</summary><p>26 pages, 6 figures. Submitted to BMC Medical Informatics</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
