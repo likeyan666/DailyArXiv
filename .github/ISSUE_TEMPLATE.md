@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EVOTS: Evolutionary Transformer Search for Time Series Forecasting](https://arxiv.org/abs/2607.00154v1)** | 2026-06-30 |  |
 | **[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2605.04057v3)** | 2026-06-30 |  |
 | **[TacEvo: Self-Evolving Architecture Discovery for Robotic Tactile Perception via LLM-Driven Quality-Diversity Search](https://arxiv.org/abs/2606.30109v1)** | 2026-06-29 |  |
 | **[Bilevel Optimization for Neural Architecture Search](https://arxiv.org/abs/2606.29582v1)** | 2026-06-28 | 48 pages, 20 figures |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Colab NAS: Obtaining lightweight task-specific convolutional neural networks following Occam's razor](https://arxiv.org/abs/2212.07700v3)** | 2026-06-16 |  |
 | **[An affordable hardware-aware neural architecture search for deploying convolutional neural networks on ultra-low-power computing platforms](https://arxiv.org/abs/2606.16290v1)** | 2026-06-15 |  |
 | **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](https://arxiv.org/abs/2510.05888v2)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Big Data</p></details> |
-| **[Activity-Dependent Plasticity in Morphogenetically-Grown Recurrent Networks](https://arxiv.org/abs/2604.03386v2)** | 2026-06-15 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Camera-ready version; accepted at GECCO 2026 Companion (EvoSelf workshop)</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation](https://arxiv.org/abs/2607.01043v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by the 2026 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026). Camera-ready version</p></details> |
+| **[DART: Difficulty-Adaptive Routing for Zero-Shot Video Temporal Grounding](https://arxiv.org/abs/2607.00672v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026</p></details> |
 | **[Unified Zero-Shot Time Series Forecasting: A Darts Foundation](https://arxiv.org/abs/2606.27438v1)** | 2026-06-25 |  |
 | **[DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models](https://arxiv.org/abs/2606.23181v1)** | 2026-06-22 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 16 tables. Code: https://github.com/js-lee-AI/DART</p></details> |
 | **[DART: A design-aware microfluidic chip paradigm for real-time live-cell image analysis](https://arxiv.org/abs/2606.18523v1)** | 2026-06-16 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[DART: A Server-side Plug-in for Resource-efficient Robust Federated Learning](https://arxiv.org/abs/2508.17381v2)** | 2026-03-25 |  |
 | **[DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA](https://arxiv.org/abs/2412.05430v3)** | 2026-03-23 | <details><summary>NeurI...</summary><p>NeurIPS Datasets and Benchmarks 2024</p></details> |
 | **[DART: Input-Difficulty-AwaRe Adaptive Threshold for Early-Exit DNNs](https://arxiv.org/abs/2603.12269v1)** | 2026-02-17 |  |
-| **[DART: aDaptive Accept RejecT for non-linear top-K subset identification](https://arxiv.org/abs/2011.07687v2)** | 2026-02-12 | <details><summary>exten...</summary><p>extended version of AAAI 2021 paper</p></details> |
-| **[DART-ing Through the Drift: Dynamic Tracing of Knowledge Neurons for Adaptive Inference-Time Pruning](https://arxiv.org/abs/2601.22632v1)** | 2026-01-30 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
