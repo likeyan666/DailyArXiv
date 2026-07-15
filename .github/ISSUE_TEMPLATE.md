@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,12 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search](https://arxiv.org/abs/2607.11826v1)** | 2026-07-13 |  |
+| **[HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS](https://arxiv.org/abs/2607.11746v1)** | 2026-07-13 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
+| **[Similarity-Guided Curriculum Fine-Tuning of LLMs for Neural Architecture Synthesis](https://arxiv.org/abs/2607.11591v1)** | 2026-07-13 |  |
+| **[Sharper Analysis of Single-Loop Methods for Bilevel Optimization](https://arxiv.org/abs/2607.10263v1)** | 2026-07-11 | 26 pages,6 figures |
+| **[Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback](https://arxiv.org/abs/2602.12612v2)** | 2026-07-09 |  |
+| **[Agentic Neural Architecture Search](https://arxiv.org/abs/2607.07984v1)** | 2026-07-08 |  |
 | **[CamoNAS: Neural Architecture Search for Enhanced Camouflaged Object Detection](https://arxiv.org/abs/2607.01870v1)** | 2026-07-02 | <details><summary>Publi...</summary><p>Published in The Visual Computer. Author manuscript version</p></details> |
 | **[Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search](https://arxiv.org/abs/2607.01387v1)** | 2026-07-01 |  |
 | **[EVOTS: Evolutionary Transformer Search for Time Series Forecasting](https://arxiv.org/abs/2607.00154v1)** | 2026-06-30 |  |
@@ -35,12 +41,6 @@ labels: documentation
 | **[Harvesting AI Computation at the Edge via Generic Approximation](https://arxiv.org/abs/2606.29518v1)** | 2026-06-28 | 11 pages, 9 figures |
 | **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
 | **[Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis](https://arxiv.org/abs/2606.26169v1)** | 2026-06-24 |  |
-| **[SEAL: Searching Expandable Architectures for Incremental Learning](https://arxiv.org/abs/2505.10457v3)** | 2026-06-23 | 9 pages, 4 figures |
-| **[Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization](https://arxiv.org/abs/2606.23210v1)** | 2026-06-22 | 7 pages, 7 figures |
-| **[Neural Architecture Search of Sample Reweighting Networks for Complex Distribution Shift](https://arxiv.org/abs/2606.22991v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to PRICAI 2025</p></details> |
-| **[PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units](https://arxiv.org/abs/2603.15106v2)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at ECML-PKDD 2026. 18 pages, 7 figures, 4 tables. This work was funded by the European Commission as part of the MANOLO project under the Horizon Europe programme Grant Agreement No.101135782</p></details> |
-| **[InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676v1)** | 2026-06-17 |  |
-| **[Colab NAS: Obtaining lightweight task-specific convolutional neural networks following Occam's razor](https://arxiv.org/abs/2212.07700v3)** | 2026-06-16 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS](https://arxiv.org/abs/2607.11746v1)** | 2026-07-13 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
 | **[Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search](https://arxiv.org/abs/2607.01387v1)** | 2026-07-01 |  |
 | **[Colab NAS: Obtaining lightweight task-specific convolutional neural networks following Occam's razor](https://arxiv.org/abs/2212.07700v3)** | 2026-06-16 |  |
 | **[BioAutoML-NAS: An End-to-End AutoML Framework for Multimodal Insect Classification via Neural Architecture Search on Large-Scale Biodiversity Data](https://arxiv.org/abs/2510.05888v2)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Big Data</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
 | **[AI-Driven Phase Identification from X-ray Hyperspectral Imaging of cycled Na-ion Cathode Materials](https://arxiv.org/abs/2603.07666v1)** | 2026-03-08 |  |
 | **[SEval-NAS: A Search-Agnostic Evaluation for Neural Architecture Search](https://arxiv.org/abs/2603.00099v1)** | 2026-02-17 | <details><summary>To be...</summary><p>To be published in the Proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC26)</p></details> |
-| **[Green-NAS: A Global-Scale Multi-Objective Neural Architecture Search for Robust and Efficient Edge-Native Weather Forecasting](https://arxiv.org/abs/2602.00240v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking</p></details> |
 
