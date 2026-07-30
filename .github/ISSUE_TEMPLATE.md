@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Surrogate assisted diversity estimation in neural ensemble search](https://arxiv.org/abs/2607.26940v1)** | 2026-07-29 | <details><summary>The p...</summary><p>The paper was presented at the "Artificial Intelligence Applications and Innovations 2026" conference. The final publication is available at https://link.springer.com/chapter/10.1007/978-3-032-30612-8_12</p></details> |
+| **[Challenges and proposed solutions in modeling multimodal medical data: A systematic review](https://arxiv.org/abs/2505.06945v5)** | 2026-07-29 |  |
+| **[Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions](https://arxiv.org/abs/2607.26467v1)** | 2026-07-29 | <details><summary>8 pag...</summary><p>8 pages, 3 tables. Accepted at UrbCom 2026, the 8th International Workshop on Urban Computing, co-located with IEEE DCOSS-IoT 2026</p></details> |
 | **[OrchNAS: Orchestrated Neural Architecture Search Service for Personalised Federated Edge Intelligence](https://arxiv.org/abs/2607.22805v1)** | 2026-07-24 |  |
 | **[Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices](https://arxiv.org/abs/2605.22097v2)** | 2026-07-22 |  |
 | **[LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4](https://arxiv.org/abs/2607.15509v1)** | 2026-07-16 | <details><summary>6 pag...</summary><p>6 pages, 10 figures, and 2 tables. Published in the 2025 15th International Conference on Computer and Knowledge Engineering (ICCKE)</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Agentic Neural Architecture Search](https://arxiv.org/abs/2607.07984v1)** | 2026-07-08 |  |
 | **[CamoNAS: Neural Architecture Search for Enhanced Camouflaged Object Detection](https://arxiv.org/abs/2607.01870v1)** | 2026-07-02 | <details><summary>Publi...</summary><p>Published in The Visual Computer. Author manuscript version</p></details> |
 | **[Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search](https://arxiv.org/abs/2607.01387v1)** | 2026-07-01 |  |
-| **[EVOTS: Evolutionary Transformer Search for Time Series Forecasting](https://arxiv.org/abs/2607.00154v1)** | 2026-06-30 |  |
-| **[BearingNAS: Obtaining In-Sensor Intelligent Fault Diagnosis Systems for Bearings Using a Laptop](https://arxiv.org/abs/2607.18287v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to IEEE COINS 2026 in Special Session 7: Edge AI technologies</p></details> |
-| **[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2605.04057v3)** | 2026-06-30 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
