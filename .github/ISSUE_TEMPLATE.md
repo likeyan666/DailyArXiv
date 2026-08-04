@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - August 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdaDINO: Context-Adaptive DINO-Distilled Vision Foundation Models for Efficient Open-Vocabulary Edge Inference](https://arxiv.org/abs/2604.15622v3)** | 2026-08-01 |  |
+| **[Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras](https://arxiv.org/abs/2607.28293v1)** | 2026-07-30 |  |
+| **[SNAC-Pack 2.0: Scaled-Out Surrogate Neural Architecture Codesign](https://arxiv.org/abs/2605.16138v3)** | 2026-07-29 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, Camera-ready version for International Conference on Automated Machine Learning (AutoML) 2026</p></details> |
+| **[Device-First Feedback: Toward Mobile-Native LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2608.00078v1)** | 2026-07-29 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 4 tables. Code: https://github.com/ABrain-One/nn-gpt</p></details> |
 | **[Surrogate assisted diversity estimation in neural ensemble search](https://arxiv.org/abs/2607.26940v1)** | 2026-07-29 | <details><summary>The p...</summary><p>The paper was presented at the "Artificial Intelligence Applications and Innovations 2026" conference. The final publication is available at https://link.springer.com/chapter/10.1007/978-3-032-30612-8_12</p></details> |
 | **[Challenges and proposed solutions in modeling multimodal medical data: A systematic review](https://arxiv.org/abs/2505.06945v5)** | 2026-07-29 |  |
 | **[Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions](https://arxiv.org/abs/2607.26467v1)** | 2026-07-29 | <details><summary>8 pag...</summary><p>8 pages, 3 tables. Accepted at UrbCom 2026, the 8th International Workshop on Urban Computing, co-located with IEEE DCOSS-IoT 2026</p></details> |
@@ -37,14 +41,11 @@ labels: documentation
 | **[Similarity-Guided Curriculum Fine-Tuning of LLMs for Neural Architecture Synthesis](https://arxiv.org/abs/2607.11591v1)** | 2026-07-13 |  |
 | **[On Hardware-Aware Design and Optimization of Edge Intelligence](https://arxiv.org/abs/2607.16297v1)** | 2026-07-13 | <details><summary>Autho...</summary><p>Author's accepted version. Published in IEEE Design & Test</p></details> |
 | **[Sharper Analysis of Single-Loop Methods for Bilevel Optimization](https://arxiv.org/abs/2607.10263v1)** | 2026-07-11 | 26 pages,6 figures |
-| **[Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback](https://arxiv.org/abs/2602.12612v2)** | 2026-07-09 |  |
-| **[Agentic Neural Architecture Search](https://arxiv.org/abs/2607.07984v1)** | 2026-07-08 |  |
-| **[CamoNAS: Neural Architecture Search for Enhanced Camouflaged Object Detection](https://arxiv.org/abs/2607.01870v1)** | 2026-07-02 | <details><summary>Publi...</summary><p>Published in The Visual Computer. Author manuscript version</p></details> |
-| **[Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search](https://arxiv.org/abs/2607.01387v1)** | 2026-07-01 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Dual-Axis Airborne Reachability-Gated Torque-Reaction for Off-Road Vehicle Jumps](https://arxiv.org/abs/2607.29011v1)** | 2026-07-31 | 20 pages, 9 figures |
 | **[DART: A Degradation-Aware Recurrent Transformer for Archival Film Restoration](https://arxiv.org/abs/2607.21219v1)** | 2026-07-23 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
 | **[DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation](https://arxiv.org/abs/2607.01043v3)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted by the 2026 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026)</p></details> |
 | **[Evaluating Fine-Tuning and Metrics for Neural Decompilation of Dart AOT Binaries](https://arxiv.org/abs/2607.06125v1)** | 2026-07-07 | <details><summary>Under...</summary><p>Under review at ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Mitigating Harm Drift in Difference-Aware LLMs via Distill-Audit-Repair Training](https://arxiv.org/abs/2604.16845v1)** | 2026-04-18 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling](https://arxiv.org/abs/2604.01130v3)** | 2026-04-08 |  |
 | **[LLMs as Idiomatic Decompilers: Recovering High-Level Code from x86-64 Assembly for Dart](https://arxiv.org/abs/2604.02278v1)** | 2026-04-02 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Accepted at SANER 2026 ERA Track</p></details> |
-| **[DART: A Server-side Plug-in for Resource-efficient Robust Federated Learning](https://arxiv.org/abs/2508.17381v2)** | 2026-03-25 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
