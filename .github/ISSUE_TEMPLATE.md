@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSTAR: Multi-Scale Backbone Architecture Search for Timeseries Classification](https://arxiv.org/abs/2402.13822v2)** | 2026-08-04 | <details><summary>Withd...</summary><p>Withdraw due to the authors do not support the work</p></details> |
+| **[GraphIR: Architecture-Level Search States for LLM-Guided Neural Architecture Evolution](https://arxiv.org/abs/2608.01633v1)** | 2026-08-03 |  |
 | **[AdaDINO: Context-Adaptive DINO-Distilled Vision Foundation Models for Efficient Open-Vocabulary Edge Inference](https://arxiv.org/abs/2604.15622v3)** | 2026-08-01 |  |
 | **[Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras](https://arxiv.org/abs/2607.28293v1)** | 2026-07-30 |  |
 | **[SNAC-Pack 2.0: Scaled-Out Surrogate Neural Architecture Codesign](https://arxiv.org/abs/2605.16138v3)** | 2026-07-29 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, Camera-ready version for International Conference on Automated Machine Learning (AutoML) 2026</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search](https://arxiv.org/abs/2607.11826v1)** | 2026-07-13 |  |
 | **[HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS](https://arxiv.org/abs/2607.11746v1)** | 2026-07-13 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
 | **[Similarity-Guided Curriculum Fine-Tuning of LLMs for Neural Architecture Synthesis](https://arxiv.org/abs/2607.11591v1)** | 2026-07-13 |  |
-| **[On Hardware-Aware Design and Optimization of Edge Intelligence](https://arxiv.org/abs/2607.16297v1)** | 2026-07-13 | <details><summary>Autho...</summary><p>Author's accepted version. Published in IEEE Design & Test</p></details> |
-| **[Sharper Analysis of Single-Loop Methods for Bilevel Optimization](https://arxiv.org/abs/2607.10263v1)** | 2026-07-11 | 26 pages,6 figures |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling](https://arxiv.org/abs/2608.02032v1)** | 2026-08-03 |  |
 | **[DART: Dual-Axis Airborne Reachability-Gated Torque-Reaction for Off-Road Vehicle Jumps](https://arxiv.org/abs/2607.29011v1)** | 2026-07-31 | 20 pages, 9 figures |
 | **[DART: A Degradation-Aware Recurrent Transformer for Archival Film Restoration](https://arxiv.org/abs/2607.21219v1)** | 2026-07-23 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
 | **[DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation](https://arxiv.org/abs/2607.01043v3)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted by the 2026 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026)</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Learning-Enhanced Model Predictive Control for Dual-Arm Non-Prehensile Manipulation](https://arxiv.org/abs/2604.17833v2)** | 2026-04-25 |  |
 | **[DART: Mitigating Harm Drift in Difference-Aware LLMs via Distill-Audit-Repair Training](https://arxiv.org/abs/2604.16845v1)** | 2026-04-18 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling](https://arxiv.org/abs/2604.01130v3)** | 2026-04-08 |  |
-| **[LLMs as Idiomatic Decompilers: Recovering High-Level Code from x86-64 Assembly for Dart](https://arxiv.org/abs/2604.02278v1)** | 2026-04-02 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Accepted at SANER 2026 ERA Track</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
