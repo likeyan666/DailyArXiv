@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LP-NAS: Linear Programming-based Neural Architecture Search](https://arxiv.org/abs/2608.14472v1)** | 2026-08-14 | 20 pages, 5 figures |
 | **[Layer-Specific Prompt Fusion Discovery via Differentiable Search in Vision Foundation Models](https://arxiv.org/abs/2606.26379v1)** | 2026-06-24 | ECCV 2026 |
 | **[DASH: Fast Differentiable Architecture Search for Hybrid Attention in Minutes on a Single GPU](https://arxiv.org/abs/2605.20936v1)** | 2026-05-20 | 19 pages, 7 figures |
 | **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v1)** | 2026-02-06 |  |
@@ -21,11 +22,14 @@ labels: documentation
 | **[RegimeNAS: Regime-Aware Differentiable Architecture Search With Theoretical Guarantees for Financial Trading](https://arxiv.org/abs/2508.11338v1)** | 2025-08-15 |  |
 | **[Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table](https://arxiv.org/abs/2502.12751v2)** | 2025-07-18 |  |
 | **[DASViT: Differentiable Architecture Search for Vision Transformer](https://arxiv.org/abs/2507.13079v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to the International Joint Conference on Neural Networks (IJCNN) 2025</p></details> |
-| **[DNAD: Differentiable Neural Architecture Distillation](https://arxiv.org/abs/2504.20080v1)** | 2025-04-25 |  |
 
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LP-NAS: Linear Programming-based Neural Architecture Search](https://arxiv.org/abs/2608.14472v1)** | 2026-08-14 | 20 pages, 5 figures |
+| **[Designing Compact Neural Architectures via Neuron Gating and Mixed Activation](https://arxiv.org/abs/2608.14443v1)** | 2026-08-14 | 33 pages, 17 figures |
+| **[Designing Sustainable Federated Learning as a Service using Neural Architecture Search](https://arxiv.org/abs/2608.14359v1)** | 2026-08-14 |  |
+| **[Consensus-gated Multi-Agent Neural Architecture Search for Seismic Fault Segmentation](https://arxiv.org/abs/2608.13889v1)** | 2026-08-14 |  |
 | **[NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto Space](https://arxiv.org/abs/2608.13293v1)** | 2026-08-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, accepted for presentation to the 39th IEEE International System-on-Chip Conference, Heidelberg, Germany, September 30 - October 2, 2026</p></details> |
 | **[Efficient Hessian-Free Methods for Multi-Objective Bilevel Optimization with Nonconvex Lower Level](https://arxiv.org/abs/2608.12704v1)** | 2026-08-13 | 48 pages |
 | **[LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4](https://arxiv.org/abs/2607.15509v2)** | 2026-08-10 | <details><summary>6 pag...</summary><p>6 pages, 10 figures, and 2 tables. Published in the 2025 15th International Conference on Computer and Knowledge Engineering (ICCKE)</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[SNAC-Pack 2.0: Scaled-Out Surrogate Neural Architecture Codesign](https://arxiv.org/abs/2605.16138v3)** | 2026-07-29 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, Camera-ready version for International Conference on Automated Machine Learning (AutoML) 2026</p></details> |
 | **[Device-First Feedback: Toward Mobile-Native LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2608.00078v1)** | 2026-07-29 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 4 tables. Code: https://github.com/ABrain-One/nn-gpt</p></details> |
 | **[Surrogate assisted diversity estimation in neural ensemble search](https://arxiv.org/abs/2607.26940v1)** | 2026-07-29 | <details><summary>The p...</summary><p>The paper was presented at the "Artificial Intelligence Applications and Innovations 2026" conference. The final publication is available at https://link.springer.com/chapter/10.1007/978-3-032-30612-8_12</p></details> |
-| **[Challenges and proposed solutions in modeling multimodal medical data: A systematic review](https://arxiv.org/abs/2505.06945v5)** | 2026-07-29 |  |
-| **[Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions](https://arxiv.org/abs/2607.26467v1)** | 2026-07-29 | <details><summary>8 pag...</summary><p>8 pages, 3 tables. Accepted at UrbCom 2026, the 8th International Workshop on Urban Computing, co-located with IEEE DCOSS-IoT 2026</p></details> |
-| **[OrchNAS: Orchestrated Neural Architecture Search Service for Personalised Federated Edge Intelligence](https://arxiv.org/abs/2607.22805v1)** | 2026-07-24 |  |
-| **[Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices](https://arxiv.org/abs/2605.22097v2)** | 2026-07-22 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LP-NAS: Linear Programming-based Neural Architecture Search](https://arxiv.org/abs/2608.14472v1)** | 2026-08-14 | 20 pages, 5 figures |
 | **[NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto Space](https://arxiv.org/abs/2608.13293v1)** | 2026-08-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, accepted for presentation to the 39th IEEE International System-on-Chip Conference, Heidelberg, Germany, September 30 - October 2, 2026</p></details> |
 | **[Location-Aware NAS Timer Optimization in NTN-TN Integrated Networks](https://arxiv.org/abs/2607.21947v1)** | 2026-07-24 | <details><summary>To be...</summary><p>To be published in 2026 IEEE CIC/ICCC, 7 - 9 August 2026, Wuhan, China</p></details> |
 | **[HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS](https://arxiv.org/abs/2607.11746v1)** | 2026-07-13 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Na-IRSTD: Enhancing Infrared Small Target Detection via Native-Resolution Feature Selection and Fusion](https://arxiv.org/abs/2605.05804v1)** | 2026-05-07 |  |
 | **[Compilation and Execution of an Embeddable YOLO-NAS on the VTA](https://arxiv.org/abs/2604.24455v1)** | 2026-04-27 |  |
 | **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
-| **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
 
