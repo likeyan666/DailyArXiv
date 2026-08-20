@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2026
+title: Latest 15 Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,12 +26,12 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Hessian-Free Methods for Multi-Objective Bilevel Optimization with Nonconvex Lower Level](https://arxiv.org/abs/2608.12704v2)** | 2026-08-18 | 48 pages |
 | **[LP-NAS: Linear Programming-based Neural Architecture Search](https://arxiv.org/abs/2608.14472v1)** | 2026-08-14 | 20 pages, 5 figures |
 | **[Designing Compact Neural Architectures via Neuron Gating and Mixed Activation](https://arxiv.org/abs/2608.14443v1)** | 2026-08-14 | 33 pages, 17 figures |
 | **[Designing Sustainable Federated Learning as a Service using Neural Architecture Search](https://arxiv.org/abs/2608.14359v1)** | 2026-08-14 |  |
 | **[Consensus-gated Multi-Agent Neural Architecture Search for Seismic Fault Segmentation](https://arxiv.org/abs/2608.13889v1)** | 2026-08-14 |  |
 | **[NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto Space](https://arxiv.org/abs/2608.13293v1)** | 2026-08-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, accepted for presentation to the 39th IEEE International System-on-Chip Conference, Heidelberg, Germany, September 30 - October 2, 2026</p></details> |
-| **[Efficient Hessian-Free Methods for Multi-Objective Bilevel Optimization with Nonconvex Lower Level](https://arxiv.org/abs/2608.12704v1)** | 2026-08-13 | 48 pages |
 | **[LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4](https://arxiv.org/abs/2607.15509v2)** | 2026-08-10 | <details><summary>6 pag...</summary><p>6 pages, 10 figures, and 2 tables. Published in the 2025 15th International Conference on Computer and Knowledge Engineering (ICCKE)</p></details> |
 | **[Beyond Foundation Models: Dimension-Aware Neural Architecture Search with Small-Data Representation Models for Cryocooler Lifetime Prediction](https://arxiv.org/abs/2608.06993v1)** | 2026-08-07 | 48 pages |
 | **[MSTAR: Multi-Scale Backbone Architecture Search for Timeseries Classification](https://arxiv.org/abs/2402.13822v2)** | 2026-08-04 | <details><summary>Withd...</summary><p>Withdraw due to the authors do not support the work</p></details> |
