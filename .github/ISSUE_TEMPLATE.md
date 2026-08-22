@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2026
+title: Latest 15 Papers - August 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,10 +45,11 @@ labels: documentation
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART-S: Reachability-Audited Active-Suspension Preconditioning for Off-Road Vehicle Jumps](https://arxiv.org/abs/2608.20275v1)** | 2026-08-20 | 9 pages, 6 figures |
+| **[DART: Dual-Axis Airborne Reachability-Gated Torque-Reaction for Off-Road Vehicle Jumps](https://arxiv.org/abs/2607.29011v2)** | 2026-08-20 | 20 pages, 9 figures |
 | **[DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents](https://arxiv.org/abs/2608.18524v1)** | 2026-08-19 |  |
 | **[Dart: An Automated and Reproducible Environment Toolkit for DNS Protocol Analysis](https://arxiv.org/abs/2608.04498v1)** | 2026-08-05 |  |
 | **[DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling](https://arxiv.org/abs/2608.02032v1)** | 2026-08-03 |  |
-| **[DART: Dual-Axis Airborne Reachability-Gated Torque-Reaction for Off-Road Vehicle Jumps](https://arxiv.org/abs/2607.29011v1)** | 2026-07-31 | 20 pages, 9 figures |
 | **[DART: A Degradation-Aware Recurrent Transformer for Archival Film Restoration](https://arxiv.org/abs/2607.21219v1)** | 2026-07-23 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
 | **[DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation](https://arxiv.org/abs/2607.01043v3)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted by the 2026 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026)</p></details> |
 | **[Evaluating Fine-Tuning and Metrics for Neural Decompilation of Dart AOT Binaries](https://arxiv.org/abs/2607.06125v1)** | 2026-07-07 | <details><summary>Under...</summary><p>Under review at ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Semantic Recoverability for Structured Tool Agents](https://arxiv.org/abs/2605.23311v1)** | 2026-05-22 |  |
 | **[DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments](https://arxiv.org/abs/2605.06608v1)** | 2026-05-07 |  |
 | **[DART: A Vision-Language Foundation Model for Comprehensive Rope Condition Monitoring](https://arxiv.org/abs/2605.04943v1)** | 2026-05-06 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, 9 tables</p></details> |
-| **[DART: Learning-Enhanced Model Predictive Control for Dual-Arm Non-Prehensile Manipulation](https://arxiv.org/abs/2604.17833v2)** | 2026-04-25 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
