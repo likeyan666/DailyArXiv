@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2026
+title: Latest 15 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bi-EZP: LLM-Guided Bilevel Program Evolution for Ensemble Zero-Cost Proxy Discovery](https://arxiv.org/abs/2608.21927v1)** | 2026-08-22 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 8 tables</p></details> |
+| **[ATHENA: Knowledge-guided agentic neural architecture search for AutoFormer-based electronic health record modeling](https://arxiv.org/abs/2608.21712v1)** | 2026-08-22 |  |
+| **[Power-Performance Characterization of TinyML Systems](https://arxiv.org/abs/2608.21646v1)** | 2026-08-21 | <details><summary>7 pag...</summary><p>7 pages, 9 figures. Published in Proceedings of the IEEE International Conference on Computer Design (ICCD), 2022</p></details> |
 | **[LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4](https://arxiv.org/abs/2607.15509v3)** | 2026-08-18 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, and 2 tables. Published in the 2025 15th International Conference on Computer and Knowledge Engineering (ICCKE), IEEE</p></details> |
 | **[Efficient Hessian-Free Methods for Multi-Objective Bilevel Optimization with Nonconvex Lower Level](https://arxiv.org/abs/2608.12704v2)** | 2026-08-18 | 48 pages |
 | **[LP-NAS: Linear Programming-based Neural Architecture Search](https://arxiv.org/abs/2608.14472v1)** | 2026-08-14 | 20 pages, 5 figures |
@@ -38,9 +41,6 @@ labels: documentation
 | **[GraphIR: Architecture-Level Search States for LLM-Guided Neural Architecture Evolution](https://arxiv.org/abs/2608.01633v1)** | 2026-08-03 |  |
 | **[AdaDINO: Context-Adaptive DINO-Distilled Vision Foundation Models for Efficient Open-Vocabulary Edge Inference](https://arxiv.org/abs/2604.15622v3)** | 2026-08-01 |  |
 | **[Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras](https://arxiv.org/abs/2607.28293v1)** | 2026-07-30 |  |
-| **[SNAC-Pack 2.0: Scaled-Out Surrogate Neural Architecture Codesign](https://arxiv.org/abs/2605.16138v3)** | 2026-07-29 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, Camera-ready version for International Conference on Automated Machine Learning (AutoML) 2026</p></details> |
-| **[Device-First Feedback: Toward Mobile-Native LLM-Driven Neural Architecture Search](https://arxiv.org/abs/2608.00078v1)** | 2026-07-29 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 4 tables. Code: https://github.com/ABrain-One/nn-gpt</p></details> |
-| **[Surrogate assisted diversity estimation in neural ensemble search](https://arxiv.org/abs/2607.26940v1)** | 2026-07-29 | <details><summary>The p...</summary><p>The paper was presented at the "Artificial Intelligence Applications and Innovations 2026" conference. The final publication is available at https://link.springer.com/chapter/10.1007/978-3-032-30612-8_12</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
