@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,44 +26,45 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bi-EZP: LLM-Guided Bilevel Program Evolution for Ensemble Zero-Cost Proxy Discovery](https://arxiv.org/abs/2608.21927v1)** | 2026-08-22 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 8 tables</p></details> |
-| **[ATHENA: Knowledge-guided agentic neural architecture search for AutoFormer-based electronic health record modeling](https://arxiv.org/abs/2608.21712v1)** | 2026-08-22 |  |
-| **[Power-Performance Characterization of TinyML Systems](https://arxiv.org/abs/2608.21646v1)** | 2026-08-21 | <details><summary>7 pag...</summary><p>7 pages, 9 figures. Published in Proceedings of the IEEE International Conference on Computer Design (ICCD), 2022</p></details> |
-| **[LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4](https://arxiv.org/abs/2607.15509v3)** | 2026-08-18 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, and 2 tables. Published in the 2025 15th International Conference on Computer and Knowledge Engineering (ICCKE), IEEE</p></details> |
-| **[Efficient Hessian-Free Methods for Multi-Objective Bilevel Optimization with Nonconvex Lower Level](https://arxiv.org/abs/2608.12704v2)** | 2026-08-18 | 48 pages |
-| **[LP-NAS: Linear Programming-based Neural Architecture Search](https://arxiv.org/abs/2608.14472v1)** | 2026-08-14 | 20 pages, 5 figures |
-| **[Designing Compact Neural Architectures via Neuron Gating and Mixed Activation](https://arxiv.org/abs/2608.14443v1)** | 2026-08-14 | 33 pages, 17 figures |
-| **[Designing Sustainable Federated Learning as a Service using Neural Architecture Search](https://arxiv.org/abs/2608.14359v1)** | 2026-08-14 |  |
-| **[Consensus-gated Multi-Agent Neural Architecture Search for Seismic Fault Segmentation](https://arxiv.org/abs/2608.13889v1)** | 2026-08-14 |  |
-| **[NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto Space](https://arxiv.org/abs/2608.13293v1)** | 2026-08-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, accepted for presentation to the 39th IEEE International System-on-Chip Conference, Heidelberg, Germany, September 30 - October 2, 2026</p></details> |
-| **[Beyond Foundation Models: Dimension-Aware Neural Architecture Search with Small-Data Representation Models for Cryocooler Lifetime Prediction](https://arxiv.org/abs/2608.06993v1)** | 2026-08-07 | 48 pages |
-| **[MSTAR: Multi-Scale Backbone Architecture Search for Timeseries Classification](https://arxiv.org/abs/2402.13822v2)** | 2026-08-04 | <details><summary>Withd...</summary><p>Withdraw due to the authors do not support the work</p></details> |
-| **[GraphIR: Architecture-Level Search States for LLM-Guided Neural Architecture Evolution](https://arxiv.org/abs/2608.01633v1)** | 2026-08-03 |  |
-| **[AdaDINO: Context-Adaptive DINO-Distilled Vision Foundation Models for Efficient Open-Vocabulary Edge Inference](https://arxiv.org/abs/2604.15622v3)** | 2026-08-01 |  |
-| **[Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras](https://arxiv.org/abs/2607.28293v1)** | 2026-07-30 |  |
+| **[FINNAS: FINN-Guided Hardware-Aware NAS and Pruning for FPGA Jet Substructure Classification](https://arxiv.org/abs/2609.16367v1)** | 2026-09-14 | Accepted by ICECS'26 |
+| **[ZAPS: Zero-Cost Active Proxy Search for Neural Architecture Search](https://arxiv.org/abs/2609.14184v1)** | 2026-09-12 | <details><summary>12 pa...</summary><p>12 pages, 13 figures, 9 tables</p></details> |
+| **[Joint Architecture-Token-Bitwidth Multi-Axis Optimization of Vision Transformers for Semiconductor IC Packaging](https://arxiv.org/abs/2605.01742v2)** | 2026-09-11 |  |
+| **[RiPPLE: Cross-Space Performance Prediction from Early Training for Neural Architecture Search](https://arxiv.org/abs/2609.12418v1)** | 2026-09-11 |  |
+| **[CoRA-NAS: Coarse Ranking and Anchor-Residual Refinement for Neural Architecture Search](https://arxiv.org/abs/2609.11884v1)** | 2026-09-10 |  |
+| **[SG-Blend: Learning an Interpolation Between Improved Swish and GELU for Robust Neural Representations](https://arxiv.org/abs/2505.23942v2)** | 2026-09-10 |  |
+| **[Efficient Leakage-Free Neural Architecture Search under Leave-One-Subject-Out Evaluation](https://arxiv.org/abs/2609.09433v1)** | 2026-09-08 |  |
+| **[Efficient Hessian-Free Methods for Multi-Objective Bilevel Optimization with Nonconvex Lower Level](https://arxiv.org/abs/2608.12704v3)** | 2026-09-05 | 49 pages |
+| **[Model-Free Surrogate-Assisted Neural Architecture Search for Evolving Variable-Length Dense Blocks](https://arxiv.org/abs/2609.02460v1)** | 2026-09-02 |  |
+| **[Structure Aware Neural Architecture Search for Mixture of Experts](https://arxiv.org/abs/2608.29817v1)** | 2026-08-30 | 22 pages, 3 figures |
+| **[NepScript Genesis: Neural Architecture Search for Handwritten Devanagari Digit Synthesis](https://arxiv.org/abs/2608.29540v1)** | 2026-08-30 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 3 tables</p></details> |
+| **[Node-wise Feature Encoding for Neural Performance Prediction](https://arxiv.org/abs/2608.27794v1)** | 2026-08-28 | 22 pages, 7 figures |
+| **[ONNX-Net: Towards Universal Representations and Instant Performance Prediction for Neural Architectures](https://arxiv.org/abs/2510.04938v2)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted at AutoML 26,Our code is available at: https://github.com/shiwenqin/ONNX-Net</p></details> |
+| **[ATHENA: Knowledge-guided agentic neural architecture search for AutoFormer-based electronic health record modeling](https://arxiv.org/abs/2608.21712v2)** | 2026-08-25 |  |
+| **[STA-Net: A Decoupled Shape and Texture Attention Network for Lightweight Plant Disease Classification](https://arxiv.org/abs/2509.03754v2)** | 2026-08-25 | <details><summary>Updat...</summary><p>Updated author list, revised figures, and added funding acknowledgments</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation](https://arxiv.org/abs/2607.01043v4)** | 2026-09-13 | <details><summary>Accep...</summary><p>Accepted by the 2026 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026)</p></details> |
+| **[A Deployable Architecture for Robot-Mediated Tasks (DART): Evaluation in Socially Assistive Robot-Guided Cognitive Behavioral Therapy Exercises](https://arxiv.org/abs/2609.12349v1)** | 2026-09-11 |  |
+| **[DART: Distributional Adversarial Recurrent Training for Algorithm Learning](https://arxiv.org/abs/2609.05988v1)** | 2026-09-05 |  |
+| **[Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models](https://arxiv.org/abs/2609.05779v1)** | 2026-09-05 | 19 pages, 7 figures |
+| **[DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models](https://arxiv.org/abs/2609.04555v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to BMVC 2026</p></details> |
+| **[DART: A DAG-Based Reputation and Incentive Framework via Blockchain-Enabled Governance for Trustworthy LLM Multi-Agent Collaboration](https://arxiv.org/abs/2609.05529v1)** | 2026-09-01 |  |
+| **[DART: Aiming for Tail-Delay Control in Reconfigurable Networks](https://arxiv.org/abs/2609.01071v1)** | 2026-09-01 |  |
+| **[DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models](https://arxiv.org/abs/2606.23181v3)** | 2026-09-01 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 17 tables. Accepted to EMNLP 2026 (Findings). Code: https://github.com/js-lee-AI/DART</p></details> |
+| **[DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging](https://arxiv.org/abs/2608.28547v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
+| **[DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge](https://arxiv.org/abs/2608.27713v1)** | 2026-08-27 |  |
 | **[DART-S: Reachability-Audited Active-Suspension Preconditioning for Off-Road Vehicle Jumps](https://arxiv.org/abs/2608.20275v1)** | 2026-08-20 | 9 pages, 6 figures |
 | **[DART: Dual-Axis Airborne Reachability-Gated Torque-Reaction for Off-Road Vehicle Jumps](https://arxiv.org/abs/2607.29011v2)** | 2026-08-20 | 20 pages, 9 figures |
 | **[DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents](https://arxiv.org/abs/2608.18524v1)** | 2026-08-19 |  |
 | **[Dart: An Automated and Reproducible Environment Toolkit for DNS Protocol Analysis](https://arxiv.org/abs/2608.04498v1)** | 2026-08-05 |  |
 | **[DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling](https://arxiv.org/abs/2608.02032v1)** | 2026-08-03 |  |
-| **[DART: A Degradation-Aware Recurrent Transformer for Archival Film Restoration](https://arxiv.org/abs/2607.21219v1)** | 2026-07-23 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
-| **[DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation](https://arxiv.org/abs/2607.01043v3)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted by the 2026 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026)</p></details> |
-| **[Evaluating Fine-Tuning and Metrics for Neural Decompilation of Dart AOT Binaries](https://arxiv.org/abs/2607.06125v1)** | 2026-07-07 | <details><summary>Under...</summary><p>Under review at ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[DART: Difficulty-Adaptive Routing for Zero-Shot Video Temporal Grounding](https://arxiv.org/abs/2607.00672v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026</p></details> |
-| **[Unified Zero-Shot Time Series Forecasting: A Darts Foundation](https://arxiv.org/abs/2606.27438v1)** | 2026-06-25 |  |
-| **[DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models](https://arxiv.org/abs/2606.23181v1)** | 2026-06-22 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 16 tables. Code: https://github.com/js-lee-AI/DART</p></details> |
-| **[DART: A design-aware microfluidic chip paradigm for real-time live-cell image analysis](https://arxiv.org/abs/2606.18523v1)** | 2026-06-16 |  |
-| **[DART: Semantic Recoverability for Structured Tool Agents](https://arxiv.org/abs/2605.23311v1)** | 2026-05-22 |  |
-| **[DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments](https://arxiv.org/abs/2605.06608v1)** | 2026-05-07 |  |
-| **[DART: A Vision-Language Foundation Model for Comprehensive Rope Condition Monitoring](https://arxiv.org/abs/2605.04943v1)** | 2026-05-06 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, 9 tables</p></details> |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoRA-NAS: Coarse Ranking and Anchor-Residual Refinement for Neural Architecture Search](https://arxiv.org/abs/2609.11884v1)** | 2026-09-10 |  |
 | **[LP-NAS: Linear Programming-based Neural Architecture Search](https://arxiv.org/abs/2608.14472v1)** | 2026-08-14 | 20 pages, 5 figures |
 | **[NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto Space](https://arxiv.org/abs/2608.13293v1)** | 2026-08-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, accepted for presentation to the 39th IEEE International System-on-Chip Conference, Heidelberg, Germany, September 30 - October 2, 2026</p></details> |
 | **[Location-Aware NAS Timer Optimization in NTN-TN Integrated Networks](https://arxiv.org/abs/2607.21947v1)** | 2026-07-24 | <details><summary>To be...</summary><p>To be published in 2026 IEEE CIC/ICCC, 7 - 9 August 2026, Wuhan, China</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Searching on a Budget: HW-NAS with 10 Latency Probes](https://arxiv.org/abs/2504.00663v2)** | 2026-05-15 |  |
 | **[Na-IRSTD: Enhancing Infrared Small Target Detection via Native-Resolution Feature Selection and Fusion](https://arxiv.org/abs/2605.05804v1)** | 2026-05-07 |  |
 | **[Compilation and Execution of an Embeddable YOLO-NAS on the VTA](https://arxiv.org/abs/2604.24455v1)** | 2026-04-27 |  |
-| **[G-ICSO-NAS: Shifting Gears between Gradient and Swarm for Robust Neural Architecture Search](https://arxiv.org/abs/2604.00703v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), WCCI 2026. This is a preprint version</p></details> |
 
