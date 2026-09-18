@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](https://arxiv.org/abs/2510.10232v2)** | 2026-09-17 |  |
 | **[FINNAS: FINN-Guided Hardware-Aware NAS and Pruning for FPGA Jet Substructure Classification](https://arxiv.org/abs/2609.16367v1)** | 2026-09-14 | Accepted by ICECS'26 |
 | **[ZAPS: Zero-Cost Active Proxy Search for Neural Architecture Search](https://arxiv.org/abs/2609.14184v1)** | 2026-09-12 | <details><summary>12 pa...</summary><p>12 pages, 13 figures, 9 tables</p></details> |
 | **[Joint Architecture-Token-Bitwidth Multi-Axis Optimization of Vision Transformers for Semiconductor IC Packaging](https://arxiv.org/abs/2605.01742v2)** | 2026-09-11 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Node-wise Feature Encoding for Neural Performance Prediction](https://arxiv.org/abs/2608.27794v1)** | 2026-08-28 | 22 pages, 7 figures |
 | **[ONNX-Net: Towards Universal Representations and Instant Performance Prediction for Neural Architectures](https://arxiv.org/abs/2510.04938v2)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted at AutoML 26,Our code is available at: https://github.com/shiwenqin/ONNX-Net</p></details> |
 | **[ATHENA: Knowledge-guided agentic neural architecture search for AutoFormer-based electronic health record modeling](https://arxiv.org/abs/2608.21712v2)** | 2026-08-25 |  |
-| **[STA-Net: A Decoupled Shape and Texture Attention Network for Lightweight Plant Disease Classification](https://arxiv.org/abs/2509.03754v2)** | 2026-08-25 | <details><summary>Updat...</summary><p>Updated author list, revised figures, and added funding acknowledgments</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Distillation-Aware Reparameterization for Training-Free LoRA Reuse in Few-Step Video Diffusion Models](https://arxiv.org/abs/2609.20051v1)** | 2026-09-17 |  |
 | **[DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation](https://arxiv.org/abs/2607.01043v4)** | 2026-09-13 | <details><summary>Accep...</summary><p>Accepted by the 2026 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026)</p></details> |
 | **[A Deployable Architecture for Robot-Mediated Tasks (DART): Evaluation in Socially Assistive Robot-Guided Cognitive Behavioral Therapy Exercises](https://arxiv.org/abs/2609.12349v1)** | 2026-09-11 |  |
 | **[DART: Distributional Adversarial Recurrent Training for Algorithm Learning](https://arxiv.org/abs/2609.05988v1)** | 2026-09-05 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: Dual-Axis Airborne Reachability-Gated Torque-Reaction for Off-Road Vehicle Jumps](https://arxiv.org/abs/2607.29011v2)** | 2026-08-20 | 20 pages, 9 figures |
 | **[DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents](https://arxiv.org/abs/2608.18524v1)** | 2026-08-19 |  |
 | **[Dart: An Automated and Reproducible Environment Toolkit for DNS Protocol Analysis](https://arxiv.org/abs/2608.04498v1)** | 2026-08-05 |  |
-| **[DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling](https://arxiv.org/abs/2608.02032v1)** | 2026-08-03 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
