@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 20, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transferable knowledge graphs with executable learned operators for algorithm design](https://arxiv.org/abs/2603.27922v2)** | 2026-09-18 | preprint |
+| **[Efficient Architecture Search under Leave-One-Subject-Out Evaluation](https://arxiv.org/abs/2609.21457v1)** | 2026-09-18 |  |
 | **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](https://arxiv.org/abs/2510.10232v2)** | 2026-09-17 |  |
 | **[FINNAS: FINN-Guided Hardware-Aware NAS and Pruning for FPGA Jet Substructure Classification](https://arxiv.org/abs/2609.16367v1)** | 2026-09-14 | Accepted by ICECS'26 |
 | **[ZAPS: Zero-Cost Active Proxy Search for Neural Architecture Search](https://arxiv.org/abs/2609.14184v1)** | 2026-09-12 | <details><summary>12 pa...</summary><p>12 pages, 13 figures, 9 tables</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Structure Aware Neural Architecture Search for Mixture of Experts](https://arxiv.org/abs/2608.29817v1)** | 2026-08-30 | 22 pages, 3 figures |
 | **[NepScript Genesis: Neural Architecture Search for Handwritten Devanagari Digit Synthesis](https://arxiv.org/abs/2608.29540v1)** | 2026-08-30 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 3 tables</p></details> |
 | **[Node-wise Feature Encoding for Neural Performance Prediction](https://arxiv.org/abs/2608.27794v1)** | 2026-08-28 | 22 pages, 7 figures |
-| **[ONNX-Net: Towards Universal Representations and Instant Performance Prediction for Neural Architectures](https://arxiv.org/abs/2510.04938v2)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted at AutoML 26,Our code is available at: https://github.com/shiwenqin/ONNX-Net</p></details> |
-| **[ATHENA: Knowledge-guided agentic neural architecture search for AutoFormer-based electronic health record modeling](https://arxiv.org/abs/2608.21712v2)** | 2026-08-25 |  |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
