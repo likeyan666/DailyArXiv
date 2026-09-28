@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 26, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training](https://arxiv.org/abs/2511.06157v3)** | 2026-09-25 |  |
+| **[DeepFedNAS: Efficient Hardware-Aware Architecture Adaptation for Heterogeneous IoT Federations via Pareto-Guided Supernet Training](https://arxiv.org/abs/2601.15127v4)** | 2026-09-25 | <details><summary>This ...</summary><p>This paper significantly extends the preliminary work presented at ESANN 2026. Source Code: https://github.com/bostankhan6/DeepFedNAS</p></details> |
+| **[Rank-Reliable Teacher-Guided Fitness Approximation for Expensive Evolutionary Optimization: A TinyML Architecture Search Study](https://arxiv.org/abs/2609.30553v1)** | 2026-09-24 | 13 pages, 5 Figures |
 | **[Efficient Architecture Search under Leave-One-Subject-Out Evaluation](https://arxiv.org/abs/2609.21457v2)** | 2026-09-21 |  |
 | **[Transferable knowledge graphs with executable learned operators for algorithm design](https://arxiv.org/abs/2603.27922v2)** | 2026-09-18 | preprint |
 | **[SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification](https://arxiv.org/abs/2510.10232v2)** | 2026-09-17 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Efficient Leakage-Free Neural Architecture Search under Leave-One-Subject-Out Evaluation](https://arxiv.org/abs/2609.09433v1)** | 2026-09-08 |  |
 | **[Efficient Hessian-Free Methods for Multi-Objective Bilevel Optimization with Nonconvex Lower Level](https://arxiv.org/abs/2608.12704v3)** | 2026-09-05 | 49 pages |
 | **[Model-Free Surrogate-Assisted Neural Architecture Search for Evolving Variable-Length Dense Blocks](https://arxiv.org/abs/2609.02460v1)** | 2026-09-02 |  |
-| **[Structure Aware Neural Architecture Search for Mixture of Experts](https://arxiv.org/abs/2608.29817v1)** | 2026-08-30 | 22 pages, 3 figures |
-| **[NepScript Genesis: Neural Architecture Search for Handwritten Devanagari Digit Synthesis](https://arxiv.org/abs/2608.29540v1)** | 2026-08-30 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 3 tables</p></details> |
-| **[Node-wise Feature Encoding for Neural Performance Prediction](https://arxiv.org/abs/2608.27794v1)** | 2026-08-28 | 22 pages, 7 figures |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
