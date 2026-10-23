@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QuaNAS: Uncertainty-Aware Reuse of Earlier Searches for Query-Efficient Neural Architecture Search](https://arxiv.org/abs/2610.31251v1)** | 2026-10-22 | <details><summary>30 pa...</summary><p>30 pages, 7 figures, 13 tables. Code and data: https://doi.org/10.5281/zenodo.23562488</p></details> |
 | **[LLM as a Tool, Not an Agent: Code-Mined Tree Transformations for Neural Architecture Search](https://arxiv.org/abs/2604.16555v2)** | 2026-10-19 | 58 pages |
 | **[MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers](https://arxiv.org/abs/2610.25431v1)** | 2026-10-18 |  |
 | **[Structuring Open-Ended NAS: Semi-Automated Design Knowledge Structuring with LLMs for Efficient Neural Architecture Search](https://arxiv.org/abs/2605.19247v2)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to NeurIPS2026. Several updates from v1 including additional experiments. 46 pages</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Node-level Graph Neural Architecture Search Framework](https://arxiv.org/abs/2610.09297v1)** | 2026-10-07 |  |
 | **[Bayesian Optimization in Sequence-to-Architecture Latent Space for Zero-Shot NAS](https://arxiv.org/abs/2610.06167v1)** | 2026-10-05 |  |
 | **[Building LLM Agent Systems the Deep Learning Way: From Modular Design to Architecture Search](https://arxiv.org/abs/2610.04961v1)** | 2026-10-04 | 20 pages, 16 figures |
-| **[Active-DiNTS: Active Differentiable Network Topology Search](https://arxiv.org/abs/2610.04787v1)** | 2026-10-03 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 3 tables. Extends material from the first author's PhD thesis (University of Sao Paulo / La Rochelle Universite, 2024)</p></details> |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
