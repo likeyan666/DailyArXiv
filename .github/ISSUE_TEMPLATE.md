@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 25, 2026
+title: Latest 15 Papers - October 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## Differentiable Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v2)** | 2026-10-26 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[LP-NAS: Linear Programming-based Neural Architecture Search](https://arxiv.org/abs/2608.14472v1)** | 2026-08-14 | 20 pages, 5 figures |
 | **[Layer-Specific Prompt Fusion Discovery via Differentiable Search in Vision Foundation Models](https://arxiv.org/abs/2606.26379v1)** | 2026-06-24 | ECCV 2026 |
 | **[DASH: Fast Differentiable Architecture Search for Hybrid Attention in Minutes on a Single GPU](https://arxiv.org/abs/2605.20936v1)** | 2026-05-20 | 19 pages, 7 figures |
-| **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v1)** | 2026-02-06 |  |
 | **[Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation](https://arxiv.org/abs/2311.12086v3)** | 2026-01-28 |  |
 | **[Differentiable Architecture Search for Adversarially Robust Quantum Computer Vision](https://arxiv.org/abs/2601.18058v1)** | 2026-01-26 | <details><summary>Publi...</summary><p>Published in Quantum Machine Intelligence</p></details> |
 | **[MGAS: Multi-Granularity Architecture Search for Trade-Off Between Model Effectiveness and Efficiency](https://arxiv.org/abs/2310.15074v4)** | 2025-11-25 |  |
@@ -26,7 +26,12 @@ labels: documentation
 ## Neural Architecture Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[QuaNAS: Uncertainty-Aware Reuse of Earlier Searches for Query-Efficient Neural Architecture Search](https://arxiv.org/abs/2610.31251v1)** | 2026-10-22 | <details><summary>30 pa...</summary><p>30 pages, 7 figures, 13 tables. Code and data: https://doi.org/10.5281/zenodo.23562488</p></details> |
+| **[Hyperparameter and Neural Architecture Search via Evolutionary Optimization for Reinforcement Learning: HPNAS-RL](https://arxiv.org/abs/2610.36882v1)** | 2026-10-27 |  |
+| **[MIDAS: Mosaic Input-Specific Differentiable Architecture Search](https://arxiv.org/abs/2602.17700v2)** | 2026-10-26 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[TRON: Transferring Naturally Evolved Network Architectures into Neuroevolution](https://arxiv.org/abs/2610.35647v1)** | 2026-10-26 |  |
+| **[QuaNAS: Uncertainty-Aware Reuse of Earlier Searches for Query-Efficient Neural Architecture Search](https://arxiv.org/abs/2610.31251v2)** | 2026-10-24 | <details><summary>32 pa...</summary><p>32 pages, 7 figures, 13 tables. Code and data: https://doi.org/10.5281/zenodo.23562488</p></details> |
+| **[MOSHO: A Native Discrete Shark-Inspired Metaheuristic for Hardware-Aware Neural Architecture Search](https://arxiv.org/abs/2610.33358v1)** | 2026-10-23 |  |
+| **[Searching with Sparse Histories: Cross-Task Architecture Search from Incomplete Search Logs and Zero-Cost Proxies](https://arxiv.org/abs/2610.32179v1)** | 2026-10-23 |  |
 | **[LLM as a Tool, Not an Agent: Code-Mined Tree Transformations for Neural Architecture Search](https://arxiv.org/abs/2604.16555v2)** | 2026-10-19 | 58 pages |
 | **[MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers](https://arxiv.org/abs/2610.25431v1)** | 2026-10-18 |  |
 | **[Structuring Open-Ended NAS: Semi-Automated Design Knowledge Structuring with LLMs for Efficient Neural Architecture Search](https://arxiv.org/abs/2605.19247v2)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to NeurIPS2026. Several updates from v1 including additional experiments. 46 pages</p></details> |
@@ -36,15 +41,11 @@ labels: documentation
 | **[Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling](https://arxiv.org/abs/2609.40258v2)** | 2026-10-10 | <details><summary>38 pa...</summary><p>38 pages (15 pages main text + appendix), 12 figures, 10 tables. Code: https://github.com/Optima-CityU/OpenArchEvo</p></details> |
 | **[Agentic neural architecture search for clinical prediction from electronic health records: Cross-hospital knowledge transfer and computational efficiency](https://arxiv.org/abs/2608.21712v3)** | 2026-10-09 | <details><summary>37 pa...</summary><p>37 pages, 10 figures. Revised title and presentation; clarified methods and evaluation settings; supplementary materials included</p></details> |
 | **[Efficient Audio-Visual Speech Enhancement via Reinforcement Learning-Based Neural Architecture Search](https://arxiv.org/abs/2610.12796v1)** | 2026-10-08 |  |
-| **[Joint Architecture-Token-Bitwidth Multi-Axis Optimization of Vision Transformers for Semiconductor IC Packaging](https://arxiv.org/abs/2605.01742v3)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted in IEEE VCIP 2026</p></details> |
-| **[Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection](https://arxiv.org/abs/2402.02196v7)** | 2026-10-08 |  |
-| **[Node-level Graph Neural Architecture Search Framework](https://arxiv.org/abs/2610.09297v1)** | 2026-10-07 |  |
-| **[Bayesian Optimization in Sequence-to-Architecture Latent Space for Zero-Shot NAS](https://arxiv.org/abs/2610.06167v1)** | 2026-10-05 |  |
-| **[Building LLM Agent Systems the Deep Learning Way: From Modular Design to Architecture Search](https://arxiv.org/abs/2610.04961v1)** | 2026-10-04 | 20 pages, 16 figures |
 
 ## DARTS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models](https://arxiv.org/abs/2506.10390v4)** | 2026-10-27 | For major updates |
 | **[DART: Scaling a Shape Representation Across Anatomical Classes and Imaging Modalities](https://arxiv.org/abs/2610.27605v1)** | 2026-10-20 |  |
 | **[DART: A Degradation-Aware Recurrent Transformer for Archival Film Restoration](https://arxiv.org/abs/2607.21219v2)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026. 14 pages + references, 6 figures, 4 tables. Project page: https://www.mikjas.com/dart Code: https://github.com/TytanMikJas/DART-Degradation-Aware-Recurrent-Transformer</p></details> |
 | **[DART-ES: Difficulty-Aware Reweighting and Targeted Replay for Fine-Tuning LLMs with Evolution Strategies](https://arxiv.org/abs/2610.06993v1)** | 2026-10-04 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DART: A DAG-Based Reputation and Incentive Framework via Blockchain-Enabled Governance for Trustworthy LLM Multi-Agent Collaboration](https://arxiv.org/abs/2609.05529v1)** | 2026-09-01 |  |
 | **[DART: Aiming for Tail-Delay Control in Reconfigurable Networks](https://arxiv.org/abs/2609.01071v1)** | 2026-09-01 |  |
 | **[DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging](https://arxiv.org/abs/2608.28547v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
-| **[DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge](https://arxiv.org/abs/2608.27713v1)** | 2026-08-27 |  |
 
 ## NAS
 | **Title** | **Date** | **Comment** |
